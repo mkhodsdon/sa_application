@@ -1,0 +1,410 @@
+Number of Rows Imported from PlatformandInfrastructure.csv = 102
+Beginning upload to Tettra
+
+Set Default Behavior of Canonical URLs within One Settings is being sent to Tettra.
+
+Changes to Default Behavior of Canonical URLs is being sent to Tettra.
+
+How many emails should a customer with Dedicated IP be sending? is being sent to Tettra.
+
+Warm up process for dedicated IP for sending emails is being sent to Tettra.
+
+When is a dedicated IP address required? is being sent to Tettra.
+
+When customers send emails using Hubspot are they sent from a dedicated or shared server? is being sent to Tettra.
+
+When someone buys transactional email, do all of their emails get sent through the dedicated IP or just the transactional? is being sent to Tettra.
+
+Can I send a Transactional Email without adding a contact to HubSpot? is being sent to Tettra.
+
+Do we have experience doing IP Warming in China? is being sent to Tettra.
+
+Can a Customer transfer an existing dedicated IP from Marketing to Transactional Email? is being sent to Tettra.
+
+Partitioning & Brand Domain launches is being sent to Tettra.
+
+How to identify if a prospect needs multiple portals for multiple domains is being sent to Tettra.
+
+Is it possible to have different 404 errors for multiple domains on a single Enterprise portal? is being sent to Tettra.
+
+Is it possible to track contacts from multiple portals? is being sent to Tettra.
+
+How to use HubSpot's apex redirection is being sent to Tettra.
+
+Can we mask a subdomain with a reverse proxy server? is being sent to Tettra.
+
+Is it possible to have different 404 errors for multiple domains on a single Enterprise portal? is being sent to Tettra.
+
+How to decide if your prospect needs multiple professional licenses or 1 enterprise for multiple domains. is being sent to Tettra.
+
+New Domain Manager is being sent to Tettra.
+
+Product Limit Changes Coming 11/1 is being sent to Tettra.
+
+[Heads Up] Free Trials for Sales Hub Enterprise & Service Hub Enterprise is being sent to Tettra.
+
+[Now Live] Shared Enterprise Features is being sent to Tettra.
+
+HubSpot Product Limits is being sent to Tettra.
+
+Does HubSpot work in China? (Chinese Firewall) is being sent to Tettra.
+
+A New Analytics Engine for HubSpot Data is being sent to Tettra.
+
+Are Dedicated IP addresses newly issued or re-used? is being sent to Tettra.
+
+How to demo HubSpot Mobile App (iOS & Android) is being sent to Tettra.
+
+Sign up for a brand new HubSpot account from mobile is being sent to Tettra.
+
+HubSpot iPad app is being sent to Tettra.
+
+Does your phone service provider charge for calls made from mobile app? is being sent to Tettra.
+
+CRM App for Android is being sent to Tettra.
+
+What features are included in our mobile app? is being sent to Tettra.
+
+A New Email Send Experience on Mobile is being sent to Tettra.
+
+A new way of Associating contacts, companies and deals together on Mobile is being sent to Tettra.
+
+A Single Page for Notification Preferences is being sent to Tettra.
+
+Enjoy More Context and Take Actions within Your Notification Sidebar is being sent to Tettra.
+
+How do floating notifications work? is being sent to Tettra.
+
+New navigation rollout is being sent to Tettra.
+
+Navigation opt-in beginning to roll out to customers is being sent to Tettra.
+
+Single Sign-on is being sent to Tettra.
+
+What is the real reason you can't store sensitive/private information in HubSpot? is being sent to Tettra.
+
+Two Factor Authentication is being sent to Tettra.
+
+Enhanced Security Settings with HSTS is being sent to Tettra.
+
+EasyRedir Special Pricing For Hubspot Customers is being sent to Tettra.
+
+How to handle Security questions from prospects is being sent to Tettra.
+
+How long is a HubSpot user session? is being sent to Tettra.
+
+How does HubSpot content appear to visitors who have Privacy Badger installed? is being sent to Tettra.
+
+Do you have a disaster recovery / business continuity plan? is being sent to Tettra.
+
+Do you have an SLA? What is your history regarding % availability? is being sent to Tettra.
+
+What solutions does HubSpot offer? Is it a cloud solution? is being sent to Tettra.
+
+What is the technology running HubSpot? is being sent to Tettra.
+
+Does HubSpot support SSO (Single Sign on)? is being sent to Tettra.
+
+What is the required password strength for a HubSpot password? is being sent to Tettra.
+
+Can you install Sales Extension (sidekick) on a secure network is being sent to Tettra.
+
+Is HubSpot Safe Harbor EU compliant? is being sent to Tettra.
+
+Does Hubspot use third party cookies? is being sent to Tettra.
+
+Does HubSpot encrypt data at rest?  If So what is the level/type of encryption. is being sent to Tettra.
+
+How long do we keep backup of data that get deleted by customers? is being sent to Tettra.
+
+Does HubSpot offer Two Factor Authentication ( 2-Factor Authentication) is being sent to Tettra.
+
+How long did it take from the announcement of Heartbleed or other major security vulnerabilities and cure time? is being sent to Tettra.
+
+Is it possible to get a summary of pen test results? is being sent to Tettra.
+
+It states that your partners have SOC II reports, do you also have these? is being sent to Tettra.
+
+In case a server housing our data goes down, what's the recovery time? is being sent to Tettra.
+
+How often do you backup our data or would that be our responsibility? is being sent to Tettra.
+
+If we hire external pen testers, are we required to let you know? is being sent to Tettra.
+
+Security 2.0 Lunch & Learn is being sent to Tettra.
+
+How do you set up EasyRedir is being sent to Tettra.
+
+How to respond to security concerns at a high level? is being sent to Tettra.
+
+Cookie Policy Updates for Privacy Regulations is being sent to Tettra.
+
+User Permission Changes (Sales / Service) is being sent to Tettra.
+
+Create new users via .csv file is being sent to Tettra.
+
+Choose the notifications you want to see in the notification center is being sent to Tettra.
+
+Unified Notification Preferences is being sent to Tettra.
+
+Sunsetting Weekly/Monthly Portal Summary Emails is being sent to Tettra.
+
+Integrations Page Rolling Out to Marketing Free & Starter Customers is being sent to Tettra.
+
+New Features for HubSpot Sales Professional is being sent to Tettra.
+
+Navigation Change Coming to Marketing Starter is being sent to Tettra.
+
+How do I change the language in HubSpot? is being sent to Tettra.
+
+New In-App Integration Page is being sent to Tettra.
+
+Settings, Permissions & Teams is being sent to Tettra.
+
+Refreshed User Settings & Profile Page is being sent to Tettra.
+
+Bulk Add Users is being sent to Tettra.
+
+Separate permissions to “Edit” or “Communicate” with Contacts is being sent to Tettra.
+
+A Fresh In-App Experience Makes it Easy for Users to Explore HubSpot’s Suite of Products and Add-On’s is being sent to Tettra.
+
+A New In-App Upgrade Page For HubSpot Marketing is being sent to Tettra.
+
+HubSpot Sales Prospects Can Now View Their Sales Quote From The Upgrades Page is being sent to Tettra.
+
+Easily Manage DNS with GoDaddy Connect is being sent to Tettra.
+
+New Notifications Sidebar in HubSpot Marketing, Sales, and CRM is being sent to Tettra.
+
+New Account Dashboard experience is being sent to Tettra.
+
+Centralized Consent Settings for Forms and Meetings is being sent to Tettra.
+
+Why is SSL so expensive? is being sent to Tettra.
+
+Does our SSL plan "Standard HTTPS Service" issue Organization Validation (OV) certification? is being sent to Tettra.
+
+Does our SSL plan "Standard HTTPS Service" issue Organization Validation (OV) certification? is being sent to Tettra.
+
+Why you can't just redirect a apex encryped domain to one with a sub domain is being sent to Tettra.
+
+Why can't a customer use their own pre-existing SSL certificate? is being sent to Tettra.
+
+How to track the progress of an SSL setup is being sent to Tettra.
+
+Standard SSL is Now Free & Available for All Customers is being sent to Tettra.
+
+How to determine the right SSL option for hosted content on HubSpot? is being sent to Tettra.
+
+How to handle migrations / redirects form secure APEX domains is being sent to Tettra.
+
+Upcoming changes to Support options for HubSpot Starter customers is being sent to Tettra.
+
+How to get help from HubSpot Support using Support Inbox is being sent to Tettra.
+
+Can you use flattened DNS records with Akamai? is being sent to Tettra.
+
+Tettra article created at https://app.tettra.co/teams/se/pages/is-it-possible-to-track-contacts-from-multiple-portals
+
+Tettra article created at https://app.tettra.co/teams/se/pages/is-it-possible-to-have-different-404-errors-for-multiple-domains-on-a-single-enterprise-portal
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-use-hubspots-apex-redirection
+
+Tettra article created at https://app.tettra.co/teams/se/pages/when-customers-send-emails-using-hubspot-are-they-sent-from-a-dedicated-or-shared-server
+
+Tettra article created at https://app.tettra.co/teams/se/pages/when-someone-buys-transactional-email-do-all-of-their-emails-get-sent-through-the-dedicated-ip-or-just-the-transactional
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-i-send-a-transactional-email-without-adding-a-contact-to-hubspot
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-identify-if-a-prospect-needs-multiple-portals-for-multiple-domains
+
+Tettra article created at https://app.tettra.co/teams/se/pages/when-is-a-dedicated-ip-address-required
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-we-mask-a-subdomain-with-a-reverse-proxy-server
+
+Tettra article created at https://app.tettra.co/teams/se/pages/do-we-have-experience-doing-ip-warming-in-china
+
+Tettra article created at https://app.tettra.co/teams/se/pages/is-hubspot-safe-harbor-eu-compliant
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-a-customer-transfer-an-existing-dedicated-ip-from-marketing-to-transactional-email
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-do-i-change-the-language-in-hubspot
+
+Tettra article created at https://app.tettra.co/teams/se/pages/hubspot-ipad-app
+
+Tettra article created at https://app.tettra.co/teams/se/pages/is-it-possible-to-have-different-404-errors-for-multiple-domains-on-a-single-enterprise-portal-1
+
+Tettra article created at https://app.tettra.co/teams/se/pages/are-dedicated-ip-addresses-newly-issued-or-re-used
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-features-are-included-in-our-mobile-app
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-respond-to-security-concerns-at-a-high-level
+
+Tettra article created at https://app.tettra.co/teams/se/pages/refreshed-user-settings-profile-page
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-hubspot-support-sso-single-sign-on
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-you-install-sales-extension-sidekick-on-a-secure-network
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-is-the-real-reason-you-cant-store-sensitiveprivate-information-in-hubspot
+
+Tettra article created at https://app.tettra.co/teams/se/pages/single-sign-on
+
+Tettra article created at https://app.tettra.co/teams/se/pages/hubspot-product-limits
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-long-did-it-take-from-the-announcement-of-heartbleed-or-other-major-security-vulnerabilities-and-cure-time
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-handle-security-questions-from-prospects
+
+Tettra article created at https://app.tettra.co/teams/se/pages/sunsetting-weeklymonthly-portal-summary-emails
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-long-do-we-keep-backup-of-data-that-get-deleted-by-customers
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-demo-hubspot-mobile-app-ios-android
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-is-the-required-password-strength-for-a-hubspot-password
+
+Tettra article created at https://app.tettra.co/teams/se/pages/warm-up-process-for-dedicated-ip-for-sending-emails
+
+Tettra article created at https://app.tettra.co/teams/se/pages/hubspot-sales-prospects-can-now-view-their-sales-quote-from-the-upgrades-page
+
+Tettra article created at https://app.tettra.co/teams/se/pages/do-you-have-an-sla-what-is-your-history-regarding-availability
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-hubspot-content-appear-to-visitors-who-have-privacy-badger-installed
+
+Tettra article created at https://app.tettra.co/teams/se/pages/it-states-that-your-partners-have-soc-ii-reports-do-you-also-have-these
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-you-use-flattened-dns-records-with-akamai
+
+Tettra article created at https://app.tettra.co/teams/se/pages/new-navigation-rollout
+
+Tettra article created at https://app.tettra.co/teams/se/pages/do-you-have-a-disaster-recovery-business-continuity-plan
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-determine-the-right-ssl-option-for-hosted-content-on-hubspot
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-handle-migrations-redirects-form-secure-apex-domains
+
+Tettra article created at https://app.tettra.co/teams/se/pages/changes-to-default-behavior-of-canonical-urls
+
+Tettra article created at https://app.tettra.co/teams/se/pages/a-new-analytics-engine-for-hubspot-data
+
+Tettra article created at https://app.tettra.co/teams/se/pages/heads-up-free-trials-for-sales-hub-enterprise-service-hub-enterprise
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-many-emails-should-a-customer-with-dedicated-ip-be-sending
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-hubspot-work-in-china-chinese-firewall
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-our-ssl-plan-standard-https-service-issue-organization-validation-ov-certification
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-get-help-from-hubspot-support-using-support-inbox
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-hubspot-use-third-party-cookies
+
+Tettra article created at https://app.tettra.co/teams/se/pages/product-limit-changes-coming-111
+
+Tettra article created at https://app.tettra.co/teams/se/pages/upcoming-changes-to-support-options-for-hubspot-starter-customers
+
+Tettra article created at https://app.tettra.co/teams/se/pages/sign-up-for-a-brand-new-hubspot-account-from-mobile
+
+Tettra article created at https://app.tettra.co/teams/se/pages/easily-manage-dns-with-godaddy-connect
+
+Tettra article created at https://app.tettra.co/teams/se/pages/new-in-app-integration-page
+
+Tettra article created at https://app.tettra.co/teams/se/pages/is-it-possible-to-get-a-summary-of-pen-test-results
+
+Tettra article created at https://app.tettra.co/teams/se/pages/partitioning-brand-domain-launches
+
+Tettra article created at https://app.tettra.co/teams/se/pages/choose-the-notifications-you-want-to-see-in-the-notification-center
+
+Tettra article created at https://app.tettra.co/teams/se/pages/why-cant-a-customer-use-their-own-pre-existing-ssl-certificate
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-our-ssl-plan-standard-https-service-issue-organization-validation-ov-certification-1
+
+Tettra article created at https://app.tettra.co/teams/se/pages/in-case-a-server-housing-our-data-goes-down-whats-the-recovery-time
+
+Tettra article created at https://app.tettra.co/teams/se/pages/crm-app-for-android
+
+Tettra article created at https://app.tettra.co/teams/se/pages/a-fresh-in-app-experience-makes-it-easy-for-users-to-explore-hubspots-suite-of-products-and-add-ons
+
+Tettra article created at https://app.tettra.co/teams/se/pages/user-permission-changes-sales-service
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-do-floating-notifications-work
+
+Tettra article created at https://app.tettra.co/teams/se/pages/security-20-lunch-learn
+
+Tettra article created at https://app.tettra.co/teams/se/pages/set-default-behavior-of-canonical-urls-within-one-settings
+
+Tettra article created at https://app.tettra.co/teams/se/pages/new-domain-manager
+
+Tettra article created at https://app.tettra.co/teams/se/pages/integrations-page-rolling-out-to-marketing-free-starter-customers
+
+Tettra article created at https://app.tettra.co/teams/se/pages/navigation-change-coming-to-marketing-starter
+
+Tettra article created at https://app.tettra.co/teams/se/pages/centralized-consent-settings-for-forms-and-meetings
+
+Tettra article created at https://app.tettra.co/teams/se/pages/a-new-in-app-upgrade-page-for-hubspot-marketing
+
+Tettra article created at https://app.tettra.co/teams/se/pages/new-account-dashboard-experience
+
+Tettra article created at https://app.tettra.co/teams/se/pages/settings-permissions-teams
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-hubspot-offer-two-factor-authentication-2-factor-authentication
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-track-the-progress-of-an-ssl-setup
+
+Tettra article created at https://app.tettra.co/teams/se/pages/easyredir-special-pricing-for-hubspot-customers
+
+Tettra article created at https://app.tettra.co/teams/se/pages/navigation-opt-in-beginning-to-roll-out-to-customers
+
+Tettra article created at https://app.tettra.co/teams/se/pages/now-live-shared-enterprise-features
+
+Tettra article created at https://app.tettra.co/teams/se/pages/bulk-add-users
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-your-phone-service-provider-charge-for-calls-made-from-mobile-app
+
+Tettra article created at https://app.tettra.co/teams/se/pages/enhanced-security-settings-with-hsts
+
+Tettra article created at https://app.tettra.co/teams/se/pages/why-you-cant-just-redirect-a-apex-encryped-domain-to-one-with-a-sub-domain
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-solutions-does-hubspot-offer-is-it-a-cloud-solution
+
+Tettra article created at https://app.tettra.co/teams/se/pages/a-single-page-for-notification-preferences
+
+Tettra article created at https://app.tettra.co/teams/se/pages/if-we-hire-external-pen-testers-are-we-required-to-let-you-know
+
+Tettra article created at https://app.tettra.co/teams/se/pages/two-factor-authentication
+
+Tettra article created at https://app.tettra.co/teams/se/pages/a-new-email-send-experience-on-mobile
+
+Tettra article created at https://app.tettra.co/teams/se/pages/a-new-way-of-associating-contacts-companies-and-deals-together-on-mobile
+
+Tettra article created at https://app.tettra.co/teams/se/pages/enjoy-more-context-and-take-actions-within-your-notification-sidebar
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-long-is-a-hubspot-user-session
+
+Tettra article created at https://app.tettra.co/teams/se/pages/unified-notification-preferences-1
+
+Tettra article created at https://app.tettra.co/teams/se/pages/why-is-ssl-so-expensive
+
+Tettra article created at https://app.tettra.co/teams/se/pages/separate-permissions-to-edit-or-communicate-with-contacts
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-often-do-you-backup-our-data-or-would-that-be-our-responsibility
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-hubspot-encrypt-data-at-rest-if-so-what-is-the-leveltype-of-encryption
+
+Tettra article created at https://app.tettra.co/teams/se/pages/new-features-for-hubspot-sales-professional
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-is-the-technology-running-hubspot
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-decide-if-your-prospect-needs-multiple-professional-licenses-or-1-enterprise-for-multiple-domains
+
+Tettra article created at https://app.tettra.co/teams/se/pages/new-notifications-sidebar-in-hubspot-marketing-sales-and-crm
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-do-you-set-up-easyredir
+
+Tettra article created at https://app.tettra.co/teams/se/pages/create-new-users-via-csv-file
+
+Tettra article created at https://app.tettra.co/teams/se/pages/cookie-policy-updates-for-privacy-regulations
+
+Tettra article created at https://app.tettra.co/teams/se/pages/standard-ssl-is-now-free-available-for-all-customers

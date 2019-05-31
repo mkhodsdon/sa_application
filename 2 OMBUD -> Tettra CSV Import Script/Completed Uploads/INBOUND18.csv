@@ -1,0 +1,6 @@
+﻿Section Order,Section Name,Section Description,Section Reference,Section Tags,Entry Order,Entry Question,Entry Name,Entry Description,Entry Reference,Entry Tags,Response,Entry Response Type,Response Label,Enum Values,Cell Reference
+1,Marketing Hub Enterprise,,,,,,,,,,,,,,
+2,Sales Hub Enterprise,,,,,,,,,,,,,,
+3,Service Hub Enterprise,,,,,,,,,,,,,,
+4,Standalone CMS,,,,1,What features do you get when you have marketing starter plus the standalone CMS,,,,,"<p>You can test what features are available when using Marketing Starter with the Standalone CMS here: <a href=""https://app.hubspot.com/reports-dashboard/2539935"">https://app.hubspot.com/reports-dashboard/2539935</a></p>",string,,,
+5,"Workspaces (Brand Domains, Content Partitioning, etc.)",,,,1,Do you get Content Partitioning without Brand Domains?,,,,,<p>&quot;one of THE most confusing piece but yes content partitioning is available for all enterprise portals regardless if they buy brand domains or not&quot; -- Angela DeFranco</p>,string,,,

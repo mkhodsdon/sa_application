@@ -1,0 +1,13 @@
+0: {id: 161414, team_id: 40043, name: "Competitive World", created_at: "2018-11-21 16:24:55",…}
+1: {id: 161415, team_id: 40043, name: "Contacts", created_at: "2018-11-21 16:25:09",…}
+2: {id: 161416, team_id: 40043, name: "Content", created_at: "2018-11-21 16:25:38",…}
+3: {id: 161410, team_id: 40043, name: "HubSpot CRM", created_at: "2018-11-21 16:23:20",…}
+4: {id: 161418, team_id: 40043, name: "Inbound 2018", created_at: "2018-11-21 16:26:49",…}
+5: {id: 161417, team_id: 40043, name: "Integrations", created_at: "2018-11-21 16:26:12",…}
+6: {id: 158187, team_id: 40043, name: "Platform & Infrastructure", created_at: "2018-10-23 15:23:14",…}
+7: {id: 161413, team_id: 40043, name: "Productivity", created_at: "2018-11-21 16:24:22",…}
+8: {id: 161412, team_id: 40043, name: "Reports", created_at: "2018-11-21 16:24:09",…}
+9: {id: 161402, team_id: 40043, name: "Sales Hub", created_at: "2018-11-21 16:19:07",…}
+10: {id: 159618, team_id: 40043, name: "SE Ramp", created_at: "2018-11-05 17:48:01",…}
+11: {id: 161401, team_id: 40043, name: "Service Hub", created_at: "2018-11-21 16:18:47",…}
+12: {id: 161411, team_id: 40043, name: "Social", created_at: "2018-11-21 16:23:34",…}

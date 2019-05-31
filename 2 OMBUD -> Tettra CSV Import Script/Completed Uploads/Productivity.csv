@@ -1,0 +1,28 @@
+﻿Section Order,Section Name,Section Description,Section Reference,Section Tags,Entry Order,Entry Question,Entry Name,Entry Description,Entry Reference,Entry Tags,Response,Entry Response Type,Response Label,Enum Values,Cell Reference
+1,Projects,,,,,,,,,,,,,,
+2,Calendar,,,,,,,,,,,,,,
+3,Campaigns,,,,1,How to Use Campaigns,,,,,"<p><strong><a href=""https://knowledge.hubspot.com/campaigns-user-guide-v2"">Campaigns User Guide</a> from Academy&nbsp;covers:</strong></p>
+<ul>
+<li>How to create a campaign</li>
+<li>How to analyze a campaign in HubSpot&nbsp;</li>
+<li>How to plan your next campaign</li>
+</ul>
+<p>Source:&nbsp;<a href=""https://knowledge.hubspot.com/campaigns-user-guide-v2"">Academy</a></p>
+<p>See <a href=""/rx/AVgiH4SG4en6aVFO-2FT/editor-beta/AVgiPNwJ1drQDI5ELEjl#AV-1p5MCLN6vhyBpONJC"">Campaign Analytics entry.</a>&nbsp;</p>",string,,,
+3,Campaigns,,,,2,How to Use HubSpot to Host Revenue-Driving Events,,,,,"<p>A rep of mine sent this over this morning that a local HUG sent out. It's a guide to using HubSpot for events. It was written by the company Attend, which is the check-in system we use at Grow with HubSpot. This is a really awesome step-by-step document including screenshots of HubSpot's tools and how to use it. It also talks about doing this without using Attend, which is pretty awesome. Also, worth noting, Attend's integration is&nbsp;<a href=""https://www.attend.com/event-software-integration-hubspot.html"">built and live</a>!</p>
+<p>Check out the deck for using HubSpot to host events&nbsp;<a href=""http://t.sidekickopen06.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B9nMJN7t5XZsRJd46W8r540g2zqjsqW3LqXLC56dFzNf3TwSrb02?t=http%3A%2F%2Fcdn2.hubspot.net%2Fhubfs%2F347622%2FHow-to-use-HubSpot-for-Events.pdf%3Ft%3D1469125178739&si=5852375312498688&pi=850b1adc-5dbf-4fd3-9fde-460a52edab59"">here</a>.&nbsp;</p>",string,,,
+3,Campaigns,,,,3,3 Low Usage Features Sunset in Campaigns,,,,archived,"<p>To pave the way for some powerful <a href=""https://wiki.hubspotcentral.net/pages/viewpage.action?pageId=107102677"">reporting updates</a> coming to the Campaigns tool we’re sunsetting a few features characterized by low usage. This is part of an ongoing push to make the user experience within the product cleaner and simpler, and to direct focus towards the features that are driving the most value for users.
+</p>
+<p><strong>What’s going away and why?</strong>
+</p>
+<ol>
+	<li><strong>The Campaign Wizard:</strong> The campaign wizard guides the user through the process of creating all linked assets in a campaign; it brings the user to the editors for pages and emails, then through the social tool, and so on. About 700 users/week go through this flow, and the majority are first time users exploring features. Retention on this feature is low because generally people don’t create all campaign assets in one go. Instead, this tool has been valuable mostly for onboarding purposes, which the Product team is tackling through in-app guidance.<br></li>
+	<li><strong>Campaign Recipes:</strong> When you add a recipe it attaches various suggested pages/posts/emails to a specific campaign for you. Similar to the campaign wizard, this feature is mostly used by people new to HubSpot who are exploring what features they have access to; subsequently retention for Recipes is less than 5%.<br></li>
+	<li><strong>Email Notifications from Campaigns:</strong> You currently have the option to notify a team about the campaign that you’re launching and the ability to send email notifications. Retention on this feature is less than 3%.</li>
+</ol>
+<p>Exciting news is on the way for Campaigns and we expect that the above changes will have minimal impact for users. In addition to the usage data referenced above, feedback collected from customers confirmed that the features in their current state haven’t been valuable long term, so these changes will help us optimize for more critical use cases.
+</p>
+<p><br>
+</p>
+<p>Source: <a href=""https://groups.google.com/a/hubspot.com/d/msg/productnotifications-groups/FCNwz7EBcOE/Pnn7SvNRBwAJ"">Product Notifications</a>
+</p>",string,,,

@@ -1,0 +1,347 @@
+Number of Rows Imported from SalesHub.csv = 86
+Beginning upload to Tettra
+
+Customize Your Product Offers with Increased Product Pricing Flexibility is being sent to Tettra.
+
+If there are Sales Pro and Sales Free users in an account, can Sales Free users see Products is being sent to Tettra.
+
+What happens to unfilled Sales seat licenses at contract renewal? is being sent to Tettra.
+
+How do I troubleshoot sales emails? is being sent to Tettra.
+
+What is an email alias and how do I add one to HubSpot? is being sent to Tettra.
+
+Is there a send limit to Sales Emails? is being sent to Tettra.
+
+What is the range of IP addresses your exchange server can expect traffic from for SMTP/IMAP? is being sent to Tettra.
+
+How are the locations of email opens determined in HubSpot Sales? is being sent to Tettra.
+
+IMAP/SMTP Connected Inbox for HubSpot Sales is being sent to Tettra.
+
+If you log an email to the CRM from your email client with an attachment will the attachment get logged into HubSpot automatically? is being sent to Tettra.
+
+Your Log and Track Email Settings is being sent to Tettra.
+
+What to Expect with HubSpot and the Upcoming Gmail UI Changes is being sent to Tettra.
+
+1:1 Unsubscribes & 1:1 Lawful Basis for both GDPR and non-GDPR portals is being sent to Tettra.
+
+Unified Notification Preferences is being sent to Tettra.
+
+Visual Refresh of Documents in the HubSpot Sales Hub is being sent to Tettra.
+
+Can you track emails sent from a mobile phone? is being sent to Tettra.
+
+A Refreshed Lead Revisit Notification Email is being sent to Tettra.
+
+Smart Notifications are in beta for some HubSpot Sales Pro Users is being sent to Tettra.
+
+Updates to the Sales Hub feature formerly known as “Notifications” is being sent to Tettra.
+
+What is the new Visual Design for Templates (Sales Pro) is being sent to Tettra.
+
+Improved Organization for Templates and Sequences is being sent to Tettra.
+
+Two New Ways to Report on Templates is being sent to Tettra.
+
+Send Time Recommendations in Sequences is being sent to Tettra.
+
+Visual Updates to Sequences is being sent to Tettra.
+
+Make Automation Feel More Authentic with Default Send Times in Sequences is being sent to Tettra.
+
+Optional Unsubscribe Links for Emails Sent via Sequences is being sent to Tettra.
+
+A new outbox helps keep track of emails sent via sequences is being sent to Tettra.
+
+How do I unenroll a contact form a sequence? is being sent to Tettra.
+
+Sequences Library for HubSpot Sales is being sent to Tettra.
+
+When is a contact automatically unenrolled form a sales sequence? is being sent to Tettra.
+
+Easily re-enroll contacts in a Sequence is being sent to Tettra.
+
+Send Sequence Emails from an Email Alias with HubSpot Sales Pro is being sent to Tettra.
+
+Personalize your sales outreach at scale with sequence queues and recommendations is being sent to Tettra.
+
+GDPR Settings for Documents is being sent to Tettra.
+
+An All-New Version of Documents is being sent to Tettra.
+
+Visual Refresh of Documents in the HubSpot Sales Hub is being sent to Tettra.
+
+Prospecting Tool - Data Providers is being sent to Tettra.
+
+Filter Out Internet Service Providers from Prospects is being sent to Tettra.
+
+Is it possible to embed multiple meetings links on one page? is being sent to Tettra.
+
+How to set custom availability in Meetings is being sent to Tettra.
+
+Set Automatic Email Reminder for Meetings is being sent to Tettra.
+
+Customize Email Reminders for Your Meetings is being sent to Tettra.
+
+Meetings Integrates Better with the HubSpot Platform is being sent to Tettra.
+
+Catalogue Custom Meeting Types Directly Within the Meetings Tool is being sent to Tettra.
+
+Customize the title of your meetings is being sent to Tettra.
+
+New Localization Settings for Meetings is being sent to Tettra.
+
+Sales Professional - Custom Meeting & Call Activity Types is being sent to Tettra.
+
+Can we send reminder emails or SMS to prospects with meetings? is being sent to Tettra.
+
+When a user gives their email to the Messages or Meetings tool, will this contact be tracked? is being sent to Tettra.
+
+Meetings now supports multiple calendars is being sent to Tettra.
+
+Meetings is included in HubSpot Sales Free is being sent to Tettra.
+
+Meetings Module now in the Marketplace is being sent to Tettra.
+
+Meetings Supports Zoho, Yahoo, Fastmail, and Other Providers is being sent to Tettra.
+
+Advanced URL Targeting for Live Chat is being sent to Tettra.
+
+How does the Messages app work? is being sent to Tettra.
+
+Does the Messages tool automatically add new visitors in the CRM (through a form)? is being sent to Tettra.
+
+Calendar-based availability for Messages is being sent to Tettra.
+
+Do messages work on Mobile Web is being sent to Tettra.
+
+If you had two messages that are on the same page and a contact satisfies the criteria for both which one will show? is being sent to Tettra.
+
+Improved Live Chat is Now Available in Sales Hub Starter and Sales Hub Professional is being sent to Tettra.
+
+Calling - Track the outcome of every call with HubSpot Sales is being sent to Tettra.
+
+Can you record Sales calls from Hubspot is being sent to Tettra.
+
+Calling from Companies and Deals in the CRM is being sent to Tettra.
+
+What's the maximum number of minutes you can use with Calling through Twillio is being sent to Tettra.
+
+Easily Call Companies with HubSpot CRM is being sent to Tettra.
+
+Use Snippets in Gmail and Outlook is being sent to Tettra.
+
+Snippets in Messages is being sent to Tettra.
+
+Sales Hub Enterprise is being sent to Tettra.
+
+How to Sell and Talk About HubSpot Sales Professional is being sent to Tettra.
+
+CTA to "Buy Sales Professional Before Prices Increase" is being sent to Tettra.
+
+SGD currency available for Sales Products is being sent to Tettra.
+
+JPY currency available for Sales Pro is being sent to Tettra.
+
+Sales Pro Tools - One pager Value Proposition is being sent to Tettra.
+
+What clients does HubSpot Sales Pro Support is being sent to Tettra.
+
+What versions of Windows does HubSpot Sales support? is being sent to Tettra.
+
+How hard is it to migrate from Microsoft Exchange to Office 365? is being sent to Tettra.
+
+Can e-mails sent from mobile devices be logged to CRM? is being sent to Tettra.
+
+Does the Connected Email integration in HubSpot Sales use API or IMAP? is being sent to Tettra.
+
+Is there a difference in Marketing predictive lead scoring and the Sales Pro version? is being sent to Tettra.
+
+The All-New HubSpot Sales Hub is being sent to Tettra.
+
+If you cancel Sales Starter for a period of time, but sign up again later, will you lose your data? is being sent to Tettra.
+
+Effective 9/5/18, Quotas will no longer be included for free in HubSpot CRM is being sent to Tettra.
+
+If a portal has purchased Sales Pro, can free users see Quotes and Products on a Deal Record? is being sent to Tettra.
+
+Does HubSpot/Stripe integration support reoccurring payments? is being sent to Tettra.
+
+Stripe Integration with Quotes (as well as approval and e-sig information) is being sent to Tettra.
+
+Create professional-looking proposals in seconds with quotes is being sent to Tettra.
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-you-track-emails-sent-from-a-mobile-phone
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-happens-to-unfilled-sales-seat-licenses-at-contract-renewal
+
+Tettra article created at https://app.tettra.co/teams/se/pages/filter-out-internet-service-providers-from-prospects
+
+Tettra article created at https://app.tettra.co/teams/se/pages/send-sequence-emails-from-an-email-alias-with-hubspot-sales-pro
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-the-messages-tool-automatically-add-new-visitors-in-the-crm-through-a-form
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-do-i-troubleshoot-sales-emails
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-e-mails-sent-from-mobile-devices-be-logged-to-crm
+
+Tettra article created at https://app.tettra.co/teams/se/pages/make-automation-feel-more-authentic-with-default-send-times-in-sequences
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-sell-and-talk-about-hubspot-sales-professional
+
+Tettra article created at https://app.tettra.co/teams/se/pages/if-there-are-sales-pro-and-sales-free-users-in-an-account-can-sales-free-users-see-products
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-is-an-email-alias-and-how-do-i-add-one-to-hubspot
+
+Tettra article created at https://app.tettra.co/teams/se/pages/if-a-portal-has-purchased-sales-pro-can-free-users-see-quotes-and-products-on-a-deal-record
+
+Tettra article created at https://app.tettra.co/teams/se/pages/visual-refresh-of-documents-in-the-hubspot-sales-hub
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-is-the-range-of-ip-addresses-your-exchange-server-can-expect-traffic-from-for-smtpimap
+
+Tettra article created at https://app.tettra.co/teams/se/pages/is-there-a-send-limit-to-sales-emails
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-is-the-new-visual-design-for-templates-sales-pro
+
+Tettra article created at https://app.tettra.co/teams/se/pages/imapsmtp-connected-inbox-for-hubspot-sales
+
+Tettra article created at https://app.tettra.co/teams/se/pages/smart-notifications-are-in-beta-for-some-hubspot-sales-pro-users
+
+Tettra article created at https://app.tettra.co/teams/se/pages/a-new-outbox-helps-keep-track-of-emails-sent-via-sequences
+
+Tettra article created at https://app.tettra.co/teams/se/pages/send-time-recommendations-in-sequences
+
+Tettra article created at https://app.tettra.co/teams/se/pages/a-refreshed-lead-revisit-notification-email
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-are-the-locations-of-email-opens-determined-in-hubspot-sales
+
+Tettra article created at https://app.tettra.co/teams/se/pages/sequences-library-for-hubspot-sales
+
+Tettra article created at https://app.tettra.co/teams/se/pages/easily-re-enroll-contacts-in-a-sequence
+
+Tettra article created at https://app.tettra.co/teams/se/pages/if-you-log-an-email-to-the-crm-from-your-email-client-with-an-attachment-will-the-attachment-get-logged-into-hubspot-automatically
+
+Tettra article created at https://app.tettra.co/teams/se/pages/calling-track-the-outcome-of-every-call-with-hubspot-sales
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-hard-is-it-to-migrate-from-microsoft-exchange-to-office-365
+
+Tettra article created at https://app.tettra.co/teams/se/pages/if-you-cancel-sales-starter-for-a-period-of-time-but-sign-up-again-later-will-you-lose-your-data
+
+Tettra article created at https://app.tettra.co/teams/se/pages/sales-pro-tools-one-pager-value-proposition
+
+Tettra article created at https://app.tettra.co/teams/se/pages/visual-updates-to-sequences
+
+Tettra article created at https://app.tettra.co/teams/se/pages/visual-refresh-of-documents-in-the-hubspot-sales-hub-1
+
+Tettra article created at https://app.tettra.co/teams/se/pages/improved-organization-for-templates-and-sequences
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-set-custom-availability-in-meetings
+
+Tettra article created at https://app.tettra.co/teams/se/pages/meetings-now-supports-multiple-calendars
+
+Tettra article created at https://app.tettra.co/teams/se/pages/when-a-user-gives-their-email-to-the-messages-or-meetings-tool-will-this-contact-be-tracked
+
+Tettra article created at https://app.tettra.co/teams/se/pages/your-log-and-track-email-settings
+
+Tettra article created at https://app.tettra.co/teams/se/pages/stripe-integration-with-quotes-as-well-as-approval-and-e-sig-information
+
+Tettra article created at https://app.tettra.co/teams/se/pages/if-you-had-two-messages-that-are-on-the-same-page-and-a-contact-satisfies-the-criteria-for-both-which-one-will-show
+
+Tettra article created at https://app.tettra.co/teams/se/pages/prospecting-tool-data-providers
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-do-i-unenroll-a-contact-form-a-sequence
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-you-record-sales-calls-from-hubspot
+
+Tettra article created at https://app.tettra.co/teams/se/pages/jpy-currency-available-for-sales-pro
+
+Tettra article created at https://app.tettra.co/teams/se/pages/updates-to-the-sales-hub-feature-formerly-known-as-notifications
+
+Tettra article created at https://app.tettra.co/teams/se/pages/meetings-integrates-better-with-the-hubspot-platform
+
+Tettra article created at https://app.tettra.co/teams/se/pages/sales-hub-enterprise
+
+Tettra article created at https://app.tettra.co/teams/se/pages/customize-your-product-offers-with-increased-product-pricing-flexibility
+
+Tettra article created at https://app.tettra.co/teams/se/pages/gdpr-settings-for-documents
+
+Tettra article created at https://app.tettra.co/teams/se/pages/the-all-new-hubspot-sales-hub
+
+Tettra article created at https://app.tettra.co/teams/se/pages/customize-the-title-of-your-meetings
+
+Tettra article created at https://app.tettra.co/teams/se/pages/catalogue-custom-meeting-types-directly-within-the-meetings-tool
+
+Tettra article created at https://app.tettra.co/teams/se/pages/two-new-ways-to-report-on-templates-1
+
+Tettra article created at https://app.tettra.co/teams/se/pages/easily-call-companies-with-hubspot-crm
+
+Tettra article created at https://app.tettra.co/teams/se/pages/is-it-possible-to-embed-multiple-meetings-links-on-one-page
+
+Tettra article created at https://app.tettra.co/teams/se/pages/is-there-a-difference-in-marketing-predictive-lead-scoring-and-the-sales-pro-version
+
+Tettra article created at https://app.tettra.co/teams/se/pages/11-unsubscribes-11-lawful-basis-for-both-gdpr-and-non-gdpr-portals
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-clients-does-hubspot-sales-pro-support
+
+Tettra article created at https://app.tettra.co/teams/se/pages/sgd-currency-available-for-sales-products
+
+Tettra article created at https://app.tettra.co/teams/se/pages/advanced-url-targeting-for-live-chat
+
+Tettra article created at https://app.tettra.co/teams/se/pages/create-professional-looking-proposals-in-seconds-with-quotes
+
+Tettra article created at https://app.tettra.co/teams/se/pages/cta-to-buy-sales-professional-before-prices-increase
+
+Tettra article created at https://app.tettra.co/teams/se/pages/calling-from-companies-and-deals-in-the-crm
+
+Tettra article created at https://app.tettra.co/teams/se/pages/meetings-supports-zoho-yahoo-fastmail-and-other-providers
+
+Tettra article created at https://app.tettra.co/teams/se/pages/new-localization-settings-for-meetings
+
+Tettra article created at https://app.tettra.co/teams/se/pages/effective-9518-quotas-will-no-longer-be-included-for-free-in-hubspot-crm
+
+Tettra article created at https://app.tettra.co/teams/se/pages/optional-unsubscribe-links-for-emails-sent-via-sequences
+
+Tettra article created at https://app.tettra.co/teams/se/pages/an-all-new-version-of-documents
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-the-connected-email-integration-in-hubspot-sales-use-api-or-imap
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-we-send-reminder-emails-or-sms-to-prospects-with-meetings
+
+Tettra article created at https://app.tettra.co/teams/se/pages/do-messages-work-on-mobile-web
+
+Tettra article created at https://app.tettra.co/teams/se/pages/unified-notification-preferences
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-hubspotstripe-integration-support-reoccurring-payments
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-versions-of-windows-does-hubspot-sales-support
+
+Tettra article created at https://app.tettra.co/teams/se/pages/when-is-a-contact-automatically-unenrolled-form-a-sales-sequence
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-the-messages-app-work
+
+Tettra article created at https://app.tettra.co/teams/se/pages/calendar-based-availability-for-messages
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-to-expect-with-hubspot-and-the-upcoming-gmail-ui-changes
+
+Tettra article created at https://app.tettra.co/teams/se/pages/set-automatic-email-reminder-for-meetings
+
+Tettra article created at https://app.tettra.co/teams/se/pages/personalize-your-sales-outreach-at-scale-with-sequence-queues-and-recommendations
+
+Tettra article created at https://app.tettra.co/teams/se/pages/meetings-is-included-in-hubspot-sales-free
+
+Tettra article created at https://app.tettra.co/teams/se/pages/customize-email-reminders-for-your-meetings
+
+Tettra article created at https://app.tettra.co/teams/se/pages/whats-the-maximum-number-of-minutes-you-can-use-with-calling-through-twillio
+
+Tettra article created at https://app.tettra.co/teams/se/pages/sales-professional-custom-meeting-call-activity-types
+
+Tettra article created at https://app.tettra.co/teams/se/pages/meetings-module-now-in-the-marketplace
+
+Tettra article created at https://app.tettra.co/teams/se/pages/use-snippets-in-gmail-and-outlook
+
+Tettra article created at https://app.tettra.co/teams/se/pages/snippets-in-messages
+
+Tettra article created at https://app.tettra.co/teams/se/pages/improved-live-chat-is-now-available-in-sales-hub-starter-and-sales-hub-professional
+Katherines-MBP:code KGH$

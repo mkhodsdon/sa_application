@@ -1,0 +1,114 @@
+Number of Rows Imported from Social.csv = 28
+Beginning upload to Tettra
+
+Updates to Social Inbox/Monitoring and New Visual Design is being sent to Tettra.
+
+How to use Social Tools is being sent to Tettra.
+
+How to use Social Inbox to manage your social media engagements is being sent to Tettra.
+
+How to create streams in the Social Monitoring tool is being sent to Tettra.
+
+Monitor and Respond to Instagram Comments within the Social Monitoring Tool is being sent to Tettra.
+
+Company Streams, powered by RivalIQ, in Social is being sent to Tettra.
+
+Can you publish to personal Facebook feeds from HubSpot? is being sent to Tettra.
+
+Manage Your Social Media through the Social Calendar is being sent to Tettra.
+
+Twitter Automation Changes is being sent to Tettra.
+
+Shutterstock Integration now available within the File Picker in Social Publishing is being sent to Tettra.
+
+How to promote your content with the Social Media tool is being sent to Tettra.
+
+Can you post a video to Facebook via the Social Publishing tool? is being sent to Tettra.
+
+Can I attach an image to a social message when posting to LinkedIn? is being sent to Tettra.
+
+The New HubSpot Social Media Tools is being sent to Tettra.
+
+Publishing to LinkedIn Groups Being Sunset is being sent to Tettra.
+
+Facebook Company Page Tagging is being sent to Tettra.
+
+Instagram Reminders is being sent to Tettra.
+
+Emojis in Social Publishing is being sent to Tettra.
+
+Facebook Video Support for Social Publishings is being sent to Tettra.
+
+Twitter Card View for HubSpot Blog Content is being sent to Tettra.
+
+Bulk Upload Facebook & LinkedIn Posts is being sent to Tettra.
+
+Publish videos to Twitter and LinkedIn is being sent to Tettra.
+
+Manage Your Social Media through the Social Calendar is being sent to Tettra.
+
+[In Beta] YouTube Analytics is being sent to Tettra.
+
+Does HubSpot's Social Reports enable you to determine the best time to publish social content? is being sent to Tettra.
+
+[Now Live] Facebook Page Locations is being sent to Tettra.
+
+How does HubSpot integrate with Facebook Lead Ads? is being sent to Tettra.
+
+Can double opt-in be activated for Facebook lead ads? is being sent to Tettra.
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-you-post-a-video-to-facebook-via-the-social-publishing-tool
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-create-streams-in-the-social-monitoring-tool
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-promote-your-content-with-the-social-media-tool
+
+Tettra article created at https://app.tettra.co/teams/se/pages/facebook-company-page-tagging
+
+Tettra article created at https://app.tettra.co/teams/se/pages/twitter-card-view-for-hubspot-blog-content
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-use-social-tools
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-use-social-inbox-to-manage-your-social-media-engagements
+
+Tettra article created at https://app.tettra.co/teams/se/pages/facebook-video-support-for-social-publishings
+
+Tettra article created at https://app.tettra.co/teams/se/pages/updates-to-social-inboxmonitoring-and-new-visual-design
+
+Tettra article created at https://app.tettra.co/teams/se/pages/company-streams-powered-by-rivaliq-in-social
+
+Tettra article created at https://app.tettra.co/teams/se/pages/manage-your-social-media-through-the-social-calendar
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-you-publish-to-personal-facebook-feeds-from-hubspot
+
+Tettra article created at https://app.tettra.co/teams/se/pages/publishing-to-linkedin-groups-being-sunset
+
+Tettra article created at https://app.tettra.co/teams/se/pages/instagram-reminders
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-double-opt-in-be-activated-for-facebook-lead-ads
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-i-attach-an-image-to-a-social-message-when-posting-to-linkedin
+
+Tettra article created at https://app.tettra.co/teams/se/pages/bulk-upload-facebook-linkedin-posts
+
+Tettra article created at https://app.tettra.co/teams/se/pages/monitor-and-respond-to-instagram-comments-within-the-social-monitoring-tool
+
+Tettra article created at https://app.tettra.co/teams/se/pages/emojis-in-social-publishing
+
+Tettra article created at https://app.tettra.co/teams/se/pages/the-new-hubspot-social-media-tools
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-hubspot-integrate-with-facebook-lead-ads
+
+Tettra article created at https://app.tettra.co/teams/se/pages/in-beta-youtube-analytics
+
+Tettra article created at https://app.tettra.co/teams/se/pages/twitter-automation-changes
+
+Tettra article created at https://app.tettra.co/teams/se/pages/shutterstock-integration-now-available-within-the-file-picker-in-social-publishing
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-hubspots-social-reports-enable-you-to-determine-the-best-time-to-publish-social-content
+
+Tettra article created at https://app.tettra.co/teams/se/pages/publish-videos-to-twitter-and-linkedin
+
+Tettra article created at https://app.tettra.co/teams/se/pages/now-live-facebook-page-locations
+
+Tettra article created at https://app.tettra.co/teams/se/pages/manage-your-social-media-through-the-social-calendar-1

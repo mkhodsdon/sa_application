@@ -1,0 +1,598 @@
+﻿Section Order,Section Name,Section Description,Section Reference,Section Tags,Entry Order,Entry Question,Entry Name,Entry Description,Entry Reference,Entry Tags,Response,Entry Response Type,Response Label,Enum Values,Cell Reference
+1,Inbox,,,,1,Updates to Social Inbox/Monitoring and New Visual Design,,,,,"<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><strong style=""color: #000000 ; background-color: transparent"">What is it:</strong><span style=""color: #000000 ; background-color: transparent""> A few updates and the new visual design are coming to the Inbox and Monitoring sections of HubSpot Social. </span></p>
+<p>&nbsp;</p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><span style=""color: #000000 ; background-color: transparent"">1. The Inbox functionality is moving into Monitoring and we&rsquo;re getting rid of the Inbox tab. </span></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><span style=""color: #000000 ; background-color: transparent"">That&rsquo;s right, your social inbox now lives inside Monitoring. If you still call the product &ldquo;Social Inbox&rdquo; now is a good time to switch to calling it Hubspot Social. </span></p>
+<p>&nbsp;</p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><span style=""color: #000000 ; background-color: transparent""><img src=""https://lh3.googleusercontent.com/CMX8vxFq5r_TlU4u9dNZA8uotuQp2p_MfMBWkq2qmPzw2V8E0AEDqb5bqcRs0bt43ts-vmdi5z_6enqf8TlUh-83ism_AIgI_wOl5lbJJwqSo5iOADBASZaifPu994r4WB03FE4"" width=""544"" height=""257""></span></p>
+<p>&nbsp;</p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><span style=""color: #000000 ; background-color: transparent"">2. We upgraded Social Stream creation. The flow is still similar but now creation happens in the new visual design. </span></p>
+<p>&nbsp;</p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><span style=""color: #000000 ; background-color: transparent""><img src=""https://lh3.googleusercontent.com/pq3N2oTgAoDLKIceoY7u-CKjKFKbX9VtLCiXIWDzyp4u-xwIVL1WsruR1UCOx9jQId9JBzlJE9Gm8B6EIQ8l5-k_fGoEQ1zoSWcPya971Nxf6xoir9uZk_6ivLomCOGBgQGQpLM"" width=""480"" height=""250""></span></p>
+<p>&nbsp;</p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><span style=""color: #000000 ; background-color: transparent"">3. How you address messages in the inbox has changed. In the old inbox you would scroll through messages and if you look at them they would be marked as read. In the new inbox you need to click the circle on the left hand side to archive a message. Use the &ldquo;Viewing&rdquo; drop down to toggle between new and archived posts. </span></p>
+<p>&nbsp;</p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><span style=""color: #000000 ; background-color: transparent""><img src=""https://lh3.googleusercontent.com/fncdD-h2J-JKQorIUFv5keHfxVKBMUbZcFTMc91QzEDu0Mb5Fcmc4Uf33Ws0PlHJy9k08yfivdj1ktYDbVbxbpcbl7xZk3s7LKMX7ImeK8NgfBJVADakbsPW5RBs3VKrX0dnXWc"" width=""480"" height=""337""></span></p>
+<p>&nbsp;</p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><span style=""color: #000000 ; background-color: transparent"">You&rsquo;ll also notice that in the new inbox unread messages view count has moved to the sidebar and is categorized by type. </span></p>
+<p>&nbsp;</p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><span style=""color: #000000 ; background-color: transparent""><strong>When will it happen?</strong></span></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><span style=""color: #000000 ; background-color: transparent"">This change is currently in a small beta and will be rolling out over the next few months to customers. Reply to this email with your Hub ID to request access. As the beta evolves we will share a date for when the opt in will be available for all customers. </span></p>
+<p>&nbsp;</p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><span style=""color: #000000 ; background-color: transparent""><strong>Why it matters:</strong></span></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><span style=""color: #000000 ; background-color: transparent"">With this update the entire Social tool is now in the new visual design! The update also moves inbox into Monitoring which in many ways served the same purpose. Having only Monitoring consolidates tools and improves the user experience. It also helps us have less of an extreme focus on Twitter as a social tool. </span></p>
+<p>&nbsp;</p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><span style=""color: #000000 ; background-color: transparent"">Is it available in BigLytics?: </span><a style=""color: #6611cc"" href=""https://app.hubspot.com/social/1976760/monitoring/inbox""><span style=""background-color: transparent"">Yes</span></a><span style=""color: #000000 ; background-color: transparent""> (Use the toggle in bottom right if still in old view.)</span></p>
+<p>&nbsp;</p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><span style=""color: #000000 ; background-color: transparent""><strong>Who gets it</strong></span></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><span style=""color: #000000 ; background-color: transparent"">All customers in the beta with HubSpot Social</span></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px"">As of Dec. 5th all customers will have the ability to Opt-in to the new visual design and updates to inbox and monitoring in the Social tool.</p>
+<p>&nbsp;</p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><span style=""color: #000000 ; background-color: transparent""><strong>What languages are available?</strong></span></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><span style=""color: #000000 ; background-color: transparent"">All languages.</span></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px"">&nbsp;</p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><strong>Product Notification Updates:</strong></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><span style=""color: #222222 ; font-size: 13px"">- Starting12/05/2017 all customers will have the ability to opt-in to the new visual design and updates to inbox and monitoring in the Social tool.&nbsp;</span></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><span style=""color: #222222 ; font-size: 13px"">- Starting 12/18/2017 - the new visual design and changes mentioned will be the default experience all social users.&nbsp;</span></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px"">&nbsp;</p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><strong>Source: </strong><a href=""https://groups.google.com/a/hubspot.com/d/msg/productnotifications-groups/KODdBO6BkCY/B9kWW0BmCgAJ"">Product Notifications</a></p>",string,,,
+1,Inbox,,,,2,How to use Social Tools,,,,,"<p>Social Media user guide from Academy covers:
+</p>
+<p style=""display: inline"">
+	<ul>
+		<li>Social media accounts in HubSpot</li>
+		<li>How to use Social Inbox to manage your social media engagements</li>
+		<li>How to create streams in the Social Monitoring tool</li>
+		<li>How to promote your content with the Social Media tool</li>
+		<li>How to use the Social Monitoring tool to engage with prospects, leads, and customers</li>
+		<li>How to use the Social Reports tool</li>
+		<li>How to upload and schedule social media messages in bulk</li>
+		<li>How to create a custom social media publishing schedule in HubSpot</li>
+		<li>How to analyze your social media messages in HubSpot</li>
+		<li>How to connect your Bit.ly account with HubSpot</li>
+		<li>How to install the Chrome plugin for HubSpot social media</li>
+		<li>How to install the HubSpot bookmarklet</li>
+		<li>How to export details from your social media accounts</li>
+	</ul>
+</p>
+<p>
+</p>
+<p>Source: <a href=""https://knowledge.hubspot.com/social-media-user-guide-v2"">Academy</a>
+</p>",string,,,
+1,Inbox,,,,3,How to use Social Inbox to manage your social media engagements,,,,,"<p>This guide on the Social Inbox from Academy covers:
+</p>
+<ul>
+	<li>Filtering the Social Inbox by accounts and engagements</li>
+	<li>Identifying interaction generating content</li>
+	<li>Responding to conversations</li>
+	<li>Gathering intelligence about your new followers</li>
+	<li>Checking for any stream matches</li>
+</ul>
+<p>Source: <a href=""https://knowledge.hubspot.com/social-media-user-guide-v2/how-to-use-social-inbox-to-manage-your-social-media-engagements"">Academy</a>
+</p>",string,,,
+2,Monitoring,,,,1,How to create streams in the Social Monitoring tool,,,,,"<p>This guide from Academy covers how to use Social Monitoring tool to:
+</p>
+<ul>
+	<li>Set up social monitoring streams for Twitter</li>
+	<li>&nbsp;Set up stream notifications via email, mobile push, and social inbox</li>
+	<li>Navigate between streams</li>
+	<li>Match a Twitter user with a HubSpot contact</li>
+</ul>
+<p>Source: <a href=""https://knowledge.hubspot.com/social-media-user-guide-v2/how-to-create-streams-in-the-social-monitoring-tool"">Academy</a>
+</p>",string,,,
+2,Monitoring,,,,2,Monitor and Respond to Instagram Comments within the Social Monitoring Tool,,,,,"<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">What is it?</span></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Within the social monitoring tool, you now have the ability to monitor, and reply to comments on your Instagram posts.</span></p>
+<p><strong style=""color: #222222 ; background-color: #ffffff ; font-size: 13px"">&nbsp;</strong></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Why does it matter?</span></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">In February, we announced </span><a style=""color: #6611cc ; text-decoration: none"" href=""https://www.hubspot.com/product-updates/now-live-publish-to-instagram-directly-from-hubspot""><span style=""color: #1155cc ; background-color: transparent ; font-size: 11pt ; text-decoration: underline"">a native integration with Instagram</span></a><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none""> that allowed you to publish photos to Instagram, directly from within HubSpot - &nbsp;but publishing to Instagram is only the first step. Like any other social platform, </span><a style=""color: #6611cc ; text-decoration: none"" href=""http://www.businessinsider.com/what-will-go-into-instagrams-algorithm-2016-3""><span style=""color: #1155cc ; background-color: transparent ; font-size: 11pt ; text-decoration: underline"">Instagram uses an algorithm</span></a><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none""> to determine which posts are floated to the top of your feed. One of the most important factors in this algorithm is your relationship with the poster --- whether or not you interact often with the person or company who is posting a photo to Instagram. Today&rsquo;s update makes it easy to create these relationships with your Instagram followers, directly within HubSpot so you can publish to and engage with your audience on Instagram all in one place.</span></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none""> &nbsp;&nbsp;</span></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">How does it work?</span></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Navigating over to the <a style=""color: #6611cc ; text-decoration: none"" href=""https://app.hubspot.com/l/social/inbox"">social monitoring tool</a> in HubSpot, you&rsquo;ll now see the option to comment on your Instagram posts, or reply directly to individuals who have already commented there. You&rsquo;ll also see how many likes your post got. If you reply to a comment on your post from within HubSpot, it will trigger a notification to the person you are replying to, letting them know that you have responded.</span></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none""><img src=""https://lh6.googleusercontent.com/668EmXa5flySIEvBNbNucfAaXVdq8gyiTaFDPvqVvwa_B_AlYueiQkekNCf3lutAbvIs8F-FmASlldf21OxSwaZN-ICfLk4i7YLPJG-oEUS3gJfylflBkJvWhcBB_G1BEHm0ERKU"" width=""624"" height=""380""></span></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">&nbsp;</span></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">You can also view the comments and likes of your posts when clicking into individual published posts from the details page. </span></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none""><img src=""https://lh6.googleusercontent.com/h6xBTS6EirLUpzFLkSQBmxTgO20ynJmkYsGo26sG_Eo3bb4aeYVWp6i8jsXj4TRQT6fCVvcFgzdxe4B8xGFspKKkfTZtpIGXryY-ZIgK26HMnS4KJgLSXv0VZP759k-BIsvYUhcD"" width=""624"" height=""560""></span></p>
+<p><strong style=""color: #222222 ; background-color: #ffffff ; font-size: 13px"">&nbsp;</strong></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Who gets it?</span></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">This is now available to all users of HubSpot&rsquo;s social tools.</span></p>
+<p><strong style=""color: #222222 ; background-color: #ffffff ; font-size: 13px"">&nbsp;</strong></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Sharing the News with Customers</span></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Feel free to share this </span><a style=""color: #6611cc ; text-decoration: none"" href=""https://www.hubspot.com/product-updates/monitor-and-respond-to-instagram-comments-within-the-social-monitoring-tool-1""><span style=""color: #1155cc ; background-color: transparent ; font-size: 11pt ; text-decoration: underline"">product update blog post</span></a><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none""> with any interested customers.</span></p>
+<p><strong style=""color: #222222 ; background-color: #ffffff ; font-size: 13px"">&nbsp;</strong></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">What language is it in?</span></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">All languages supported by HubSpot</span></p>
+<p>&nbsp;</p>
+<p>Source: <a href=""https://groups.google.com/a/hubspot.com/d/msg/productnotifications-groups/uHmcBEFs5co/JPYxTjd9CwAJ"">Product Notifications</a></p>",string,,,
+2,Monitoring,,,,3,"Company Streams, powered by RivalIQ, in Social",,,,,"<p dir=""ltr""><strong><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none""><span style=""color: #222222 ; background-color: #ffffff ; font-size: 18px"">[Now Live] Company Streams, powered by RivalIQ, in Social</span><br>What is it?</span></strong></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">You can now see a stream of all your competitors top posts across Twitter, Facebook, Instagram, and G+ in social monitoring. </span></p>
+<p><strong style=""color: #222222 ; background-color: #ffffff ; font-size: 13px"">&nbsp;</strong></p>
+<p dir=""ltr""><strong><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Why does it matter?</span></strong></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Staying present and relevant on social media is more important now than ever before. You want to make sure not only that you&rsquo;re engaging with your audience on social, but that your stats measure up against your top competitors. Why? Because the audience you&rsquo;re both trying to reach is probably very similar!</span></p>
+<p><strong style=""color: #222222 ; background-color: #ffffff ; font-size: 13px"">&nbsp;</strong></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">With the addition of RivalIQ to the social monitoring tool, you can see what pieces of content resonate with your social audience. You can see what posts your competitors might be putting money behind, and adjust your strategy accordingly. You can also directly compare yourself against your competitors to determine if there is a missing piece in your social strategy that you can address, or if you should more heavily lean into one social network to take advantage of your competitors&rsquo; lack of presence there.</span></p>
+<p><strong style=""color: #222222 ; background-color: #ffffff ; font-size: 13px"">&nbsp;</strong></p>
+<p dir=""ltr""><strong><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">How does it work?</span></strong></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Within <a style=""color: #6611cc ; text-decoration: none"" href=""https://app.hubspot.com/l/social/inbox"">social monitoring</a>, you&rsquo;ll now see the option to view company streams at the bottom of the left-hand sidebar.</span></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none""><img src=""https://lh6.googleusercontent.com/usJScst0bj9bVS2Nj7VRQeEeuWccU3iWVDrM3skNb4PRAJy5zUTMWoBcndeCVWP8AAJG7kAh8tvYl4wRh9Bn5Mx1ynMS3QZjETwetjYU_5Msj1SjNVMzq1CNIyFc_4lwtN1RrWA5"" width=""365"" height=""351""></span></p>
+<p><strong style=""color: #222222 ; background-color: #ffffff ; font-size: 13px"">&nbsp;</strong></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Clicking into this tool, you&rsquo;ll be able to add up to three companies at a time that you want to monitor.</span></p>
+<p><strong style=""color: #222222 ; background-color: #ffffff ; font-size: 13px"">&nbsp;</strong></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none""><img src=""https://lh3.googleusercontent.com/oYnz8hyJ4pYlhoccBMoANirCgNVb-drKF-qyZCLWKvZ-5moWourFniMoBaw4eL0DwUgRcPHcnPPaPXpKGuxziR1N-yCten7RV4SmZtClg6KFDenDlt102TwGihHi9Y_ELEvhzcTA"" width=""624"" height=""603""></span></p>
+<p><strong style=""color: #222222 ; background-color: #ffffff ; font-size: 13px"">&nbsp;</strong></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Once added, you&rsquo;ll be able to compare and contrast the top posts of your competitors --- see how many engagements each post received, and the engagement rate, a comparison of post engagements vs the number of followers the account has. </span></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none""><img src=""https://lh3.googleusercontent.com/KOmBGZjccYo_Ioi3AURDOwcSuIVsy_C05VZVMoEY_FemtwWyA562qWi5diM0fNPm_V7_FsoUNeAFTy5Db_Zxh8AY_djtVQEyOBilofCBQHA-CcsDdRffHkF5esy9Opc3PIm0XYxX"" width=""624"" height=""476""></span></p>
+<p><strong style=""color: #222222 ; background-color: #ffffff ; font-size: 13px"">&nbsp;</strong></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Additionally, under posts that may have been boosted, you&rsquo;ll see a message that indicates that it was &ldquo;$ Likely boosted.&rdquo;</span></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none""><img src=""https://lh3.googleusercontent.com/EcCYdSAONRqLNoCUrDVe8S6tzHvdXENgf4DTwUS1N--8cCbA62jT0hn4_mOIdXp0KUHJ5Lm7eVj3AyvASoyJ2e5ILqZXGxEiiaawQx6mDV3sJ_GsW-y-arQRNU-z-WOimx-iNARO"" width=""624"" height=""116""></span></p>
+<p><strong style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><br><br></strong></p>
+<p dir=""ltr""><strong><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Who gets it?</span></strong></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">This is now live to current users of HubSpot&rsquo;s social tool who also use RivalIQ and all Gold+ HubSpot Partners and Marketing Hub Enterprise users.</span></p>
+<p><strong style=""color: #222222 ; background-color: #ffffff ; font-size: 13px"">&nbsp;</strong></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Note: </span><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">If a partner in that group does not maintain their Gold status, we will not take this feature away from them.</span></p>
+<p><strong style=""color: #222222 ; background-color: #ffffff ; font-size: 13px"">&nbsp;</strong></p>
+<p dir=""ltr""><strong><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">What language is it in?</span></strong></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">All languages supported by HubSpot.</span></p>
+<p dir=""ltr"">&nbsp;</p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Source:<a href=""https://groups.google.com/a/hubspot.com/forum/?hl=en#!topic/productnotifications-groups/QmugW_vZc9A""> Product Notifications</a></span></p>
+<p>&nbsp;</p>",string,,,
+3,Publishing,,,,1,Can you publish to personal Facebook feeds from HubSpot?,,,,,"<p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)""><strong>What is it?</strong></span></span></span></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)""><span style=""font-size: 11pt""><span style=""color: rgb(0 , 0 , 0)""><span style=""background-color: transparent"">Starting on August 1, users of HubSpot’s social tool will no longer be able to publish to a personal Facebook profile from HubSpot. Only publishing to Facebook pages will be supported going forward.</span></span></span></span></span></span></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)"">
+</span></span></span></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)""><strong>Why the change?</strong></span></span></span></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)""><span style=""font-size: 11pt""><span style=""color: rgb(0 , 0 , 0)""><span style=""background-color: transparent"">Facebook </span></span></span></span></span></span><a href=""https://developers.facebook.com/blog/post/2018/04/24/new-facebook-platform-product-changes-policy-updates/""><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)""><span style=""text-decoration: underline"">recently announced</span></span></span></span></a><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)""><span style=""font-size: 11pt""><span style=""color: rgb(0 , 0 , 0)""><span style=""background-color: transparent""> that they would no longer support third party applications posting to personal Facebook feeds. As a result, users will only be able to publish to a Facebook page going forward. This update will align Facebook’s publishing permissions with Instagram within HubSpot. Connecting a Facebook page to HubSpot lets you fully take advantage of all the features available within our social tool. For example, within social monitoring you can only reply to comments on your posts if they were made to a page on Facebook. </span></span></span></span></span></span></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)"">
+</span></span></span></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)""><strong>Who does this affect?</strong></span></span></span></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)""><span style=""font-size: 11pt""><span style=""color: rgb(0 , 0 , 0)""><span style=""background-color: transparent"">Only about 2% of all connected social accounts are personal Facebook feeds. Those customers will see the following in-app banner when they log into the social tool, alerting them of the change. </span></span></span></span></span></span></p><p></p><p><img src=""https://mail.google.com/mail/u/1?ui=2&ik=44b54ddee1&attid=0.1&permmsgid=msg-f:1606271936695076651&th=164a9fd0e763872b&view=fimg&sz=w1600-h1000&attbid=ANGjdJ9sQC1DmhF-T_WdmGhYN3FIhdgJEdi0z9CloSjaPjhabBF5EdswxCbKIH5fnPY7AixaWX2dXrw_P45nzyDZgwnwzetmmhIlYLST_cmsWl5ZjGLwYoyBvBn3ce0&disp=emb&realattid=ii_jjq6078c2"" width=""542"" height=""102"" alt=""image.png""><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)"">
+</span></span></span></p><p></p><p></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)""><span style=""font-size: 11pt""><span style=""color: rgb(0 , 0 , 0)""><span style=""background-color: transparent"">
+</span></span></span></span></span></span></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)"">This </span></span></span><a href=""https://docs.google.com/spreadsheets/d/1apDsPYe2GqoLh91czRHHPAx2StDS6X0vvooKKHv85lk/edit?usp=sharing""><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)""><span style=""text-decoration: underline"">attached spreadsheet</span></span></span></span></a><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)""><span style=""font-size: 11pt""><span style=""color: rgb(0 , 0 , 0)""><span style=""background-color: transparent""> includes portals that publish the most frequently to a personal Facebook profile, and their account manager. If you manage one of the heavily affected portals, we ask that you reach out to inform them of this change.</span></span></span></span></span></span></p><p></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)""><span style=""font-size: 11pt""><span style=""color: rgb(0 , 0 , 0)""><span style=""background-color: transparent"">  </span></span></span></span></span></span></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)""><strong>What language is it in?</strong></span></span></span></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)""><span style=""font-size: 11pt""><span style=""color: rgb(0 , 0 , 0)""><span style=""background-color: transparent"">All languages supported by HubSpot.</span></span></span></span></span></span></p><p></p><p>Source: Product Notification</p>",string,,,
+3,Publishing,,,,2,Manage Your Social Media through the Social Calendar,,,,,"<p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)""><strong>What is it?</strong></span></span></span></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)""><span style=""font-size: 11pt""><span style=""color: rgb(0 , 0 , 0)""><span style=""background-color: transparent"">Within social publishing, you can now manage your social media schedule through a drag and drop calendar.</span></span></span></span></span></span></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)"">
+</span></span></span></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)""><strong>Why does it matter?</strong></span></span></span></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)""><span style=""font-size: 11pt""><span style=""color: rgb(0 , 0 , 0)""><span style=""background-color: transparent"">For social marketers, ensuring that you have a consistent stream of content to engage your audience is essential. Maybe you determine one post a day on Instagram yields the best results, while for Twitter you want to aim for 6-10 posts a day. Whatever cadence works best for your audience, being able to visualize which posts are going out on a specific day and drag and drop posts as you see fit will ensure that you never miss an opportunity to engage with your audience where they are spending the most of their time.  </span></span></span></span></span></span></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)"">
+</span></span></span></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)""><strong>How does it work?</strong></span></span></span></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)""><span style=""font-size: 11pt""><span style=""color: rgb(0 , 0 , 0)""><span style=""background-color: transparent"">Within social publishing, click the calendar icon to access the </span></span></span></span></span></span><a href=""https://app.hubspot.com/l/social/calendar""><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)""><span style=""text-decoration: underline"">social calendar</span></span></span></span></a><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)""><span style=""font-size: 11pt""><span style=""color: rgb(0 , 0 , 0)""><span style=""background-color: transparent"">.</span></span></span></span></span></span></p><p><img src=""https://lh3.googleusercontent.com/VKht7wzykkV-Me2G5htQ_UH1M1qGmMZXe-wshczeVv1oULFrLqXpLGNQg5Q0JeTa_exf4IfRnG6cX6joHlCF-q4rEFJ0nMrfh5EIXerudPuYDW-dM5h0GTzVUCDnUCAkgeJW8KIq"" width=""624"" height=""285""></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)"">
+</span></span></span></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)""><span style=""font-size: 11pt""><span style=""color: rgb(0 , 0 , 0)""><span style=""background-color: transparent"">Here, you’ll see all of your published and scheduled social posts organized in a calendar view. You can see your posts by either month, week, or you can zero in on a specific day. At the top, you can also filter your posts by account, their associated campaign, or what type of post they are.</span></span></span></span></span></span></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)"">
+</span></span></span></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)""><span style=""font-size: 11pt""><span style=""color: rgb(0 , 0 , 0)""><span style=""background-color: transparent"">If you notice that a post scheduled for Friday would be better suited for Thursday - no problem! Simply select the post and drag it over to Thursday. Your scheduled post will automatically be updated.</span></span></span></span></span></span></p><p><img src=""https://lh6.googleusercontent.com/OjvuLpjEV5VzfFRat0mrhrkCmw6SijIuzqWzBdBQBwtJCM22Ck7uAQmB8lgvGNNj5C850QH9XOpJCcLvLIIOuI__YLrh9P24SdvtslKJuKTFw3A3HcwHH5gyE4pJpJexwe7co6za"" width=""624"" height=""309""></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)"">
+</span></span></span></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)""><strong>Who gets it?</strong></span></span></span></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)""><span style=""font-size: 11pt""><span style=""color: rgb(0 , 0 , 0)""><span style=""background-color: transparent"">This feature is live in all portals.</span></span></span></span></span></span></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)"">
+</span></span></span></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)""><strong>What language is it in?</strong></span></span></span></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)""><span style=""font-size: 11pt""><span style=""color: rgb(0 , 0 , 0)""><span style=""background-color: transparent"">All languages supported by HubSpot.</span></span></span></span></span></span></p>",string,,,
+3,Publishing,,,,3,Twitter Automation Changes,,,,,"<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><strong><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">What is it?</span></strong></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">On February 21, </span><a style=""color: #6611cc ; text-decoration: none"" href=""https://blog.twitter.com/developer/en_us/topics/tips/2018/automation-and-the-use-of-multiple-accounts.html""><span style=""color: #1155cc ; background-color: transparent ; font-size: 11pt ; text-decoration: underline"">Twitter announced</span></a><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none""> a change to their stance on tweet automation to deter users from artificially amplifying certain messages. This means that social tools like HubSpot will no longer be able to allow users to schedule or publish the same tweet from multiple accounts.</span></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none""><img src=""https://lh3.googleusercontent.com/Gx85wW1kG-aOac2k_0h1MQImCmQ4V2g2seuZmOhLXQ78pv-zy9AdfTkSdoeTLSSTFePM0ocmKwmDZrxuL4mJTRF3UyWWmi-INNZGeIMmmHbKaIEglAhtMwCKAnILyf3OLQqspbx3"" width=""624"" height=""76""></span></p>
+<p>&nbsp;</p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><strong><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Why does it matter?</span></strong></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Inbound marketing is predicated on providing your customers with useful and relevant content. When using social channels such as Twitter for Inbound, the focus should be on engaging with your audience and building brand awareness - not scheduling the same post across the accounts you manage to artificially increase views on your latest blog post or to influence a trending hashtag. Twitter's announcement shows they are changing their platform towards an inbound approach that will encourage brands to engage with their audiences in a more engaging, meaningful way. &nbsp;</span></p>
+<p>&nbsp;</p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><strong><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">How does it work?</span></strong></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">To comply with Twitter&rsquo;s new stance on tweet automation, we will be making changes to how our users will post content to Twitter through our Social tools. In the next couple of weeks:</span></p>
+<ul style=""color: #222222 ; background-color: #ffffff ; font-size: 13px"">
+<li dir=""ltr"" style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Only one Twitter account can be used for each tweet. Users will no longer be able to post the same tweet across several connected Twitter accounts</span></p>
+</li>
+<li dir=""ltr"" style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Only one Twitter account can be used for blog auto-publish within a portal.</span></p>
+</li>
+</ul>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none""><img src=""https://lh5.googleusercontent.com/z1Q-CXkHO2NgD-waxXK--rXK2G5CTGMjm0f-HCAWrMbKW-SxiXWU0KaDduusueNBBe2KXnlu0OA-DDxdcixOQXposPNNoLpPDoteOLSH81zUGW3DbB62_OCyVHKUHFaa9Dodk7Qz"" width=""624"" height=""233""></span></p>
+<p>&nbsp;</p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><strong><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Who gets it?</span></strong></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">This will affect all users of HubSpot&rsquo;s social tools.</span></p>
+<p>&nbsp;</p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><strong><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Sharing the News with Customers</span></strong></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Feel free to share </span><a style=""color: #6611cc ; text-decoration: none"" href=""https://www.hubspot.com/product-updates/heads-up-twitter-automation-changes""><span style=""color: #1155cc ; background-color: transparent ; font-size: 11pt ; text-decoration: underline"">this external blog post</span></a><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none""> with any customers asking about this change.</span></p>
+<p>&nbsp;</p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><strong><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">What language is it in?</span></strong></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">All languages supported by HubSpot</span></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none""><br>Source: Product Notifications</span></p>",string,,,
+3,Publishing,,,,4,Shutterstock Integration now available within the File Picker in Social Publishing,,,,,"<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><strong><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">What is it?</span></strong></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Last year, HubSpot announced a native integration with Shutterstock, the world&rsquo;s leading stock photography site. Today, this integration has been extended to the social publishing tool, so users can select images for their social posts to all networks (including Instagram!!) directly within the composer.</span></p>
+<p>&nbsp;</p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><strong><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Why does it matter?</span></strong></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Engagement is a key metric to look at when posting to various social networks. Facebook for example uses engagement as a way of determining what posts show up within a user&rsquo;s newsfeed - the more engagements, the more likely a post is to appear. One easy way to increase engagement on your posts is by including images. Facebook posts with images receive </span><a style=""color: #6611cc ; text-decoration: none"" href=""https://blog.hubspot.com/marketing/visual-content-marketing-strategy""><span style=""color: #1155cc ; background-color: transparent ; font-size: 11pt ; text-decoration: underline"">2.3 times as many engagements</span></a><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none""> than posts without images. With Shutterstock integrated directly within the social publisher, HubSpot users now have access to over 60,000 stock images, allowing them to create beautiful social posts that increase their social engagement.</span></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none""> &nbsp;</span></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><strong><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">How does it work?</span></strong></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Within the Social Publishing tool, select which social platform you&rsquo;d like to post to. When editing your post, select the image icon. Within the following side panel, users will see a tab for &ldquo;your files&rdquo; allowing them to pick a file from their file manager, or &ldquo;Stock images,&rdquo; allowing them to select an image from Shutterstock&rsquo;s extensive library of stock photos.</span></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none""><img src=""https://lh3.googleusercontent.com/q_APHZZoUYt3iewJzknhzGO7uPYt6T7jqh15fTFWfQE7chvVbGWHeHVNOMDBotqzp4sSOCTFDCSeb-NWZITfEo2g-GwfYezbXIy669-H7xVoEhqsq5wRyjzGhAHz2ccFggyRvYap"" width=""583"" height=""647""></span></p>
+<p>&nbsp;</p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><strong><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Sharing the News with Customers</span></strong></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Feel free to share this </span><a style=""color: #6611cc ; text-decoration: none"" href=""https://www.hubspot.com/product-updates/now-live-shutterstock-integration-now-available-within-the-file-picker-in-social-publishing""><span style=""color: #1155cc ; background-color: transparent ; font-size: 11pt ; text-decoration: underline"">external blog post</span></a><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none""> with customers.</span></p>
+<p>&nbsp;</p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><strong><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Who Gets it?</span></strong></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><span style=""color: #000000""><span style=""font-size: 14.6667px"">All HubSpot customers</span></span></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><strong><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">What language is it available in?</span></strong></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">All languages supported by HubSpot</span></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px"">&nbsp;</p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 13px""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Source: Product Notifications</span></p>",string,,,
+3,Publishing,,,,5,How to promote your content with the Social Media tool,,,,,"<p><a href=""https://knowledge.hubspot.com/social-media-user-guide-v2/how-to-promote-your-content-with-the-social-media-tool"">This user guide</a> from Academy covers how to use&nbsp;the social media publishing tool when you want to:
+</p>
+<ul>
+	<li>Promote your blog content or landing page offers on social media.</li>
+	<li>Increase traffic to your website, and reap the SEO benefits of being active on social media.</li>
+	<li>Publish a message to all of your social media channels at once to save time.</li>
+	<li>Organize your social media publishing schedule, so you can you can make sure your brand has a consistent voice.</li>
+	<li>Track the effectiveness of each of your social media messages.</li>
+</ul>
+<p>Source:<a href=""https://knowledge.hubspot.com/social-media-user-guide-v2/how-to-promote-your-content-with-the-social-media-tool"">Academy</a>
+</p>",string,,,
+3,Publishing,,,,6,Can you post a video to Facebook via the Social Publishing tool?,,,,,"<p>You can, if you paste in a YouTube link or something&nbsp;else that supports OpenGraph. Facebook grabs all the OG data and auto displays it.</p>
+<p>&nbsp;</p>
+<p><span style=""text-decoration: underline""><strong>Source:&nbsp;</strong></span>Tram Dao&nbsp;</p>",string,,,
+3,Publishing,,,,7,Can I attach an image to a social message when posting to LinkedIn?,,,,,"<p>Currently, you are able to directly attach an image in your LinkedIn post&nbsp;<em>only</em>&nbsp;when publishing to a LinkedIn&nbsp;<em>company account</em>.&nbsp;
+</p>
+<p>See&nbsp;<a href=""https://knowledge.hubspot.com/articles/kcs_article/social/can-i-attach-an-image-to-a-social-message-when-posting-to-linkedin"">this user guide</a> for steps on how to attach an image to a LinkedIn post.&nbsp;
+</p>
+<p>Source: <a href=""https://knowledge.hubspot.com/articles/kcs_article/social/can-i-attach-an-image-to-a-social-message-when-posting-to-linkedin"">Academy</a>
+</p>",string,,,
+3,Publishing,,,,8,The New HubSpot Social Media Tools,,,,,"<p><strong>Big Picture: </strong></p>
+<p>How people use <span class=""il"">social</span> media has changed. In the last 5 years <span class=""il"">social</span> has become more mobile, more, visual, more ad powered, and more scientific. On top of this, Facebook is rapidly innovating and changing the definition of <span class=""il"">social</span> media. Unfortunately, what hasn&rsquo;t changed is HubSpot&rsquo;s <span class=""il"">Social</span> Media product. Part of the reason why is because it&rsquo;s a well built tool, that solves a need. But last year we recognized we were behind the times, and have made it a priority to address, and invigorate HubSpot <span class=""il"">Social</span>. Around 6 months ago we added a new fully dedicated product team, including a new hire PM from LinkedIn. This team quickly put together a 3-step plan to usher HubSpot back to the forefront of what&rsquo;s new and exciting in <span class=""il"">social</span>. On Tuesday (5/30) we'll introduce Phase 1 of that plan to all of our customers.</p>
+<p>The HubSpot 3-Step product plan to recharge <span class=""il"">Social</span> Media.</p>
+<ol>
+<li>Phase I - Fix and Refresh
+<ol>
+<li>Refresh the look and feel of <span class=""il"">Social</span> by converting it to the new visual UI. As this is happening fix major issues and customer pain points in UX and functionality of the tool.</li>
+</ol>
+</li>
+<li>Phase II - Build for now
+<ol>
+<li>Add features that support the current state of <span class=""il"">social</span> media. This includes incorporating features that support <span class=""il"">publishing</span> video, emojis and Instagram for <span class=""il"">social</span> media marketing.</li>
+</ol>
+</li>
+<li>Phase III - Build for the future
+<ol>
+<li>Re-think the use case of the tool and add features around emerging <span class=""il"">social</span> media marketing strategies. This might include support for Facebook Messenger, new networks or other tools that are currently emerging as powerful <span class=""il"">social</span> marketing strategies.</li>
+</ol>
+</li>
+</ol>
+<p><a href=""https://wiki.hubspotcentral.net/display/PM/Planting+the+Social+Garden"">Click here to read more on this approach and where <span class=""il"">Social</span> Media at HubSpot is headed.</a></p>
+<p><strong>What&rsquo;s happening? What&rsquo;s the timeline?</strong></p>
+<p>Starting Tuesday (May 30th) all customers will be able to opt-in to the new, refreshed version of HubSpot <span class=""il"">Social</span>. We&rsquo;re targeting June, 6th as the date to switch all users over to the version of <span class=""il"">social</span>, with the ability to opt-out for a 24-hour period grace period if needed.</p>
+<p>We will update this email thread when the opt-out change happens. Our goal is to completely move all customers to the new <span class=""il"">social</span> tools by <span class=""aBn""><span class=""aQJ"">July 6th</span></span>. We&rsquo;ll be email all <span class=""il"">social</span> users and working with CSMs to make sure customers are aware and excited about this switch.</p>
+<p><img style=""width: 336px ; height: 206px"" src=""https://lh4.googleusercontent.com/vp4mSg8KNdbxxFLEx2UK-nHZf_-U4smp4bE7s-ztGzRqbCVlHjGQylPQUK23LKlRtPuWgRNWxBz6oaRcto5dQFXdf_GGHNCLvJIRO59muEoqnTeSZ0CV5wyJMOeUcDaOfZhzWks"" width=""336"" height=""206""></p>
+<p><strong>Timeline:</strong></p>
+<ul>
+<li>May 30th : All users will see the option to switch to the new <span class=""il"">social</span> tools.</li>
+<li>June 6th : All users will be defaulted to the new <span class=""il"">social</span> tools with the option to opt out for 24 hours.</li>
+<li><span class=""aBn""><span class=""aQJ"">July 6th</span></span> : The ability to opt out will be removed and the new <span class=""il"">social</span> tools will be the only option.</li>
+</ul>
+<p><strong>So what&rsquo;s new?</strong></p>
+<p>1) Upload and <span class=""il"">Publish</span> Video to Facebook from HubSpot</p>
+<p>If you&rsquo;re in the beta group you&rsquo;ve already seen some of these exciting <span class=""il"">social</span> updates. <strong>What you haven&rsquo;t seen is the ability to upload videos from HubSpot to Facebook.</strong> Those videos will autoplay on Facebook and will function just as if they have been uploaded from Facebook. This is a major &ldquo;Phase II&rdquo; update that the team. It&rsquo;s going to save our customers time and increase the performance of video on Facebook. We know that video is out performing all other types of content and that it&rsquo;s something our customers are actively trying to master.</p>
+<p>* Please Note</p>
+<ul>
+<li>There is a separate gate for this video feature, and for it to work a portal must also be ungated for the new File Picker.</li>
+</ul>
+<p><a href=""https://goo.gl/forms/UzsRh9Ns2mWVgkLk2"">Request access for the Facebook Video Upload here</a>.</p>
+<ul>
+<li>Users won&rsquo;t have the ability to change the video thumbnail at this time.</li>
+<li>Video-centric metrics won't be available in reports at this time.</li>
+<li>Video&rsquo;s uploaded from HubSpot to Facebook will perform just as well as those uploaded from Facebook in the eyes of the Facebook algorithm.</li>
+<li>There are no new limits on File Picker bandwidth and usage at this time.</li>
+</ul>
+<p>2) The Look and feel: The majority of the <span class=""il"">Social</span> has been converted to the new visual UI. We&rsquo;re working to also update Inbox and Monitoring over the next few weeks. You&rsquo;ll see them go into an open beta soon.</p>
+<p><img style=""width: 801px ; height: 375px"" src=""https://lh6.googleusercontent.com/jcwppObXXtoe0g8lCqFA1IN23nio783crqJ-S5cfKBiz_cDzdNUHrqrjrlY5q4dC0eTqr81CLcJNBGCCRJWeBp98cuJWnKZGbiAqUiunZJmryqDseqiZmkEz0gEsRqPDqbH30b8"" width=""801"" height=""375""></p>
+<p><br><br></p>
+<p>3) Settings: Along with the new UI we redefine how users connect <span class=""il"">social</span> accounts. Users no longer have to connect their personal <span class=""il"">social</span> account to connect their business account. A major point of frustration from users. Also, once a business account is connected all users can use HubSpot to manage it, creating a single source of truth for the account.</p>
+<p><img style=""width: 561px ; height: 314px"" src=""https://lh3.googleusercontent.com/peo9Pdtwnnlxsb34w4aaTFgHSfVm2p-kNJb1_RSqf-GkDbMMu2lOW5-iFgGkKioQJ-b6tmXH2CZnxd1apOhdQlR-44S3r86ax7BtUV25Aos2QvW-dSWU4qygEVDp7yvmfxN7STY"" width=""561"" height=""314""></p>
+<p>4) Composing: We used the visual UI update as an opportunity to totally re-engineer how composing and <span class=""il"">publishing</span> works in <span class=""il"">Social</span>. Users can now compose multiple <span class=""il"">social</span> posts on different networks in one view. No more tabbing between posts. They can drag and drop images into compose without opening file manager. They can save compositions as drafts and tag other company pages on Facebook via compose. The tool will also tell users if they are using the wrong image format when <span class=""il"">publishing</span> to Facebook. All of these changes reduce friction and greatly improve the user experience in <span class=""il"">social</span>.</p>
+<p><img style=""width: 804px ; height: 675px"" src=""https://lh4.googleusercontent.com/0yzfR6AzF7vRW_7H8JVlMqYu66jIb-UvKj7iWzpkcZ0-MQHgxnQIXgYdyhCaq8pYsMcbI9PaEJzoJx2E0k61DoFjQwRK4FSsM_EIsdR2FhZc23b3sVbPNgaDh0CMZzMSV8oc6as"" width=""804"" height=""675""></p>
+<p>5) Reporting: Along with the new UI, we simplified the <span class=""il"">social</span> reports dashboard, and refocused the dashboard on metrics that impact the bottom line, instead of the typical vanity metrics associated with <span class=""il"">social</span>. This helps bring the tool inline with the update way marketers think of <span class=""il"">social</span> ROI.</p>
+<p>* Please note: The new <span class=""il"">Social</span> Reports no longer reports on the number of new followers. Instead it shows you percentage growth of followers. A technical limitation makes it hard for us to get really accurate data on this metric. It&rsquo;s also a metric that has less to do with business impact, making it less valuable for most marketers. But it is important to some customers and we want to hear their feedback and concerns.</p>
+<p><img style=""width: 811px ; height: 420px"" src=""https://lh6.googleusercontent.com/QWT5ARSOWeuOFxT_9dLe5bSFlZe9cNwlVJGBot8YlRlECDXz7Nwi9-Wto_HDOhHTp2Oev3l1JleZ9X2hngVpGcWKrNO7h4XKWZmMF8s4Wi_aZTIoJiUa9RQP9GBQE5LCsxyWXfo"" width=""811"" height=""420""></p>
+<p><strong>Why do these updates matter?</strong></p>
+<p><span class=""il"">Social</span> has changed and this phase 1 refresh is a huge first step towards modernizing the <span class=""il"">social</span> tools. It paves the way for more innovative <span class=""il"">social</span> updates that our customers need to succeed.</p>
+<p><strong>Who gets it:&nbsp;</strong>All customers with the Marketing tools.</p>
+<p><strong>Is this available in Biglytics?: </strong><a href=""https://app.hubspot.com/social-beta/1976760/settings"">Yes!</a></p>
+<p>&nbsp;</p>
+<p>Source: <a href=""https://groups.google.com/a/hubspot.com/d/msg/productnotifications-groups/bKN1bYhH22w/tGkx2E8UBgAJ"">Product Notifications&nbsp;</a></p>",string,,,
+3,Publishing,,,,9,Publishing to LinkedIn Groups Being Sunset,,,,archived,"<p><strong>What is it:</strong></p>
+<p>LinkedIn is removing API support for Groups. This means publishing to LinkedIn Groups from HubSpot will no longer be possible. This affects all Social Media Publishing tools including Buffer, Hootsuite, Sprout Social, and others. The only way to publish to groups, will be through the native LinkedIn desktop interface.</p>
+<p><strong>Sunset Date:</strong></p>
+<p>Support for LinkedIn Groups will end on 6/30.</p>
+<p>In advance of this, we will turn off the ability to add new LinkedIn Groups and prevent users from being able to schedule messages to LinkedIn Groups after 6/30 on 6/23.</p>
+<p><strong>Why it matters:</strong></p>
+<p>This is a moderately used feature inside of the Social Media tools and we want to make sure that customers know their options and aren&rsquo;t blindsided by the lack of support. We also want customers to know this is due to a change on LinkedIn&rsquo;s side.</p>
+<p><strong>Who is impacted? </strong></p>
+<p>Any customers who publishes from HubSpot Social to a LinkedIn Group.</p>
+<p><strong>How are we telling customers? </strong></p>
+<p>We&rsquo;ll share an external blog post, in-app message, and notification center message about the deprecation of this feature.</p>
+<p>When you talk to customers let them know that we&rsquo;re no longer supporting this feature, as of 6/30. We made this change because LinkedIn removed the ability from the API we use to publish to the platform. After 6/30 the only way to post to groups is through the native LinkedIn desktop interface. We still think LinkedIn is a great place to share inbound content and reach prospects but Groups don&rsquo;t have the impact to build a community they once did. but we&rsquo;re always interested to find new ways to help our customers use LinkedIn to grow.</p>
+<p><strong>How a marketer may use this?</strong></p>
+<p>Marketers with LinkedIn Groups may be using HubSpot to publish to LinkedIn. That posting now needs to happen through LinkedIn. If customers are heavily invested in LinkedIn Groups now is a good time to rethink that strategy. LinkedIn is starting to support less features for groups. Additionally updates from Groups are rarely surfaced in a user's feed, and there is no support for Groups in the LinkedIn app. LinkedIn groups may not be the high ROI social activity which they once were.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style=""text-decoration: underline""><strong>Source:</strong></span> <a href=""https://groups.google.com/a/hubspot.com/d/msg/productnotifications-groups/H79krQ3Az18/E7vEXFpdAgAJ"">Product Notifications&nbsp;</a></p>",string,,,
+3,Publishing,,,,10,Facebook Company Page Tagging,,,,in-beta/public-beta,"<p><strong>What is it:</strong><br>
+</p>
+<p>Users who are ungated for the Social beta can now tag Facebook Company Pages when composing Facebook posts in HubSpot.
+</p>
+<p><strong>Company page tagging in compose:</strong>
+</p>
+<p><img src=""https://lh3.googleusercontent.com/L-fNWlDFQH2v5n0Ajc2yVYJ0E8zCxadNoifayYRHQqLG4wZIuX8TdW-92dGYQvvR3NJJSuBBwhy-pEcFPUk94DjLECMDfoHMWqD-oYPo79l8JbsN70HFAIQ5TrO-X-471GERgVg"" width=""844"" height=""451"" style=""width: 844px ; height: 451px"">
+</p>
+<p><img src=""https://lh6.googleusercontent.com/Vl8Mo5JsycbhKsEfbjCwjRQE4y9NNUMkdfWE-66A734bzTcfzuC1vh40dgylAKn_iB0zxSFI-QIiDjSR1t71e6FZY5LyYHB5F4jGLpx_GmzXuOcvKwv6DGlaL6m9nW8c6R70I4Q"">
+</p>
+<p><strong>Customer example. &nbsp;</strong>
+</p>
+<p><strong>Beta Announcement / Release Date:</strong>
+</p>
+<ul>
+	<li>Now in open beta</li>
+	<li>Users with the new visual UI beta get this feature by default. </li>
+	<li>Respond to this email for access to the beta Social features. </li>
+</ul>
+<p><strong>What you need to know about company page tagging</strong>
+</p>
+<ul>
+	<li>Highly requested feature in the ideas forum and tally’s</li>
+	<li>A must for co-marketing</li>
+	<li>Great way for small and medium businesses to get the attention of possible partners </li>
+</ul>
+<p><strong>Is this available in Biglytics?</strong>: <a href=""https://app.hubspot.com/social-beta/1976760/settings"">Yes!</a>
+</p>
+<p><br>
+</p>
+<p>Source: <a href=""https://groups.google.com/a/hubspot.com/d/msg/productnotifications-groups/jniV8S-5168/nv4BcHYfBgAJ"">Product Notifications</a><br>
+</p>",string,,,
+3,Publishing,,,,11,Instagram Reminders,,,,in-beta/public-beta,"<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px""><strong><span style=""color: #000000 ; background-color: transparent"">What is it?</span></strong></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px""><span style=""color: #000000 ; background-color: transparent"">Today at INBOUND we announced our plans to add Instagram Reminders to HubSpot Social. </span><span style=""color: #000000"">When live this new features brings an easy way to create and schedule photos and videos to publish on Instagram via HubSpot. This new feature will go into beta over the coming months.</span><span style=""color: #000000 ; background-color: transparent""> It&rsquo;ll join Facebook, Twitter, LinkedIn, and Google+ as a </span><a style=""color: #1155cc"" href=""https://app.hubspot.com/social-beta/1976760/publishing/""><span style=""background-color: transparent"">publishing option</span></a><span style=""color: #000000 ; background-color: transparent""> inside of HubSpot Social tools. It&rsquo;s part one of a bigger product integration with Instagram. We&rsquo;ll add reporting at some point in the future. </span>&nbsp;</p>
+<ul style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px"">
+<li><a style=""color: #1155cc ; background-color: transparent"" href=""https://youtu.be/Ghqvv0znqmM"">Video Overview</a></li>
+<li><a style=""color: #1155cc"" href=""https://wiki.hubspotcentral.net/display/Sales/ATTN+Sales%3A+Instagram+Reminders"">Attn Sales Wiki</a></li>
+<li><a style=""color: #1155cc"" href=""https://goo.gl/forms/v1uHfyOwbEr1qZYT2"">Request Access to Beta</a>&nbsp;(internal only)</li>
+</ul>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px""><strong><span style=""color: #000000 ; background-color: transparent"">Why it matters</span></strong></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px""><span style=""color: #000000 ; background-color: transparent"">In the last few years Instagram has experienced rapid growth, they now have over 700 Million users. This means more of your target audience is spending time there. Instagram knows that brands want to be part of the conversation on Instagram and have made discovery, building a following, direct messaging, and quality paid solutions a priority. Many B2B brands are building awareness and converting users into leads via Instagram. Learn more about </span><a style=""color: #1155cc"" href=""https://www.hubspot.com/instagram-marketing""><span style=""background-color: transparent"">Instagram marketing. <br></span></a></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px""><strong><span style=""color: #000000 ; background-color: transparent"">How it works</span></strong></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px""><span style=""color: #000000 ; background-color: transparent"">Instagram Reminders is a reminder system. Instagram doesn&rsquo;t allow direct publishing from a third-party to their network. This applies for all social marketing companies. HubSpot&rsquo;s solution is best in class and similar to how over companies like Buffer do publishing. Users will need the </span><a style=""color: #1155cc"" href=""https://itunes.apple.com/us/app/hubspot/id1107711722?mt=8""><span style=""background-color: transparent"">HubSpot mobile app</span></a><span style=""color: #000000 ; background-color: transparent""> to complete publishing. The beta for Instagram will first come to the iOS mobile app and then Android. <br><br></span></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px""><strong><span style=""color: #000000 ; background-color: transparent"">Once live users should: </span></strong></p>
+<ol style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px"">
+<li dir=""ltr"" style=""color: #000000 ; background-color: transparent"">
+<p dir=""ltr""><span style=""background-color: transparent"">Schedule all of your content for a given period of time via HubSpot in the social publishing tool.</span><span style=""background-color: transparent""><img class=""CToWUd a6T"" src=""https://lh5.googleusercontent.com/ZlsGOQwohUhpxYFyNrSjYjDFKJD53VWuJc_5vW-POL6B0AWkv26ce-6rDyyWPmANcxx1eoa-UXHplzFYtWcY_MTpQ0UcxPaxgw6kzbB6GYElUPKtlh3ISwO_S_leIdNWDGMhZ8s"" width=""544"" height=""374""></span></p>
+</li>
+<li dir=""ltr"" style=""color: #000000 ; background-color: transparent"">
+<p dir=""ltr""><span style=""background-color: transparent"">When a post is ready to be published users will get a notification via the phone. </span></p>
+</li>
+<li dir=""ltr"" style=""color: #000000 ; background-color: transparent"">
+<p dir=""ltr""><span style=""background-color: transparent"">Open the HubSpot mobile app and copy the content</span></p>
+</li>
+<li dir=""ltr"" style=""color: #000000 ; background-color: transparent"">
+<p dir=""ltr""><span style=""background-color: transparent"">Paste and publish the content in Instagram. </span><span style=""background-color: transparent""><img class=""CToWUd a6T"" src=""https://lh5.googleusercontent.com/qGo-jTOb0URwkunrSoou1lUl193lIBQrrpKM5V6liXmHyW2Z38GD-hzM4b4dxtjr82Qt1CvINJ1DeWc32vQBxtD07VekXkJA9icaZvzFzrjDvwd8ouP7NLfVFdYKOdEnmlzDgeU"" width=""306"" height=""544""></span></p>
+</li>
+</ol>
+<p><br style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px""><br style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px""></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px""><strong><span style=""color: #000000 ; background-color: transparent"">Who gets it </span></strong></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px""><span style=""color: #222222 ; font-size: 12.8px"">Instagram Reminders is now in an open beta. To request access for your customer or personal hub or fill out the form below. We'll be reviewing and updating weekly until we go live.&nbsp;</span></p>
+<div style=""color: #222222 ; font-size: 12.8px"">
+<ul style=""font-size: 12.8px"">
+<li><a style=""color: #1155cc"" href=""https://goo.gl/forms/v1uHfyOwbEr1qZYT2"">Request Access to Beta</a></li>
+</ul>
+</div>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px"">&nbsp;</p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px""><strong><span style=""color: #000000 ; background-color: transparent"">What languages is this available in?</span></strong></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px""><span style=""color: #000000 ; background-color: transparent"">We will launch in all languages. </span></p>
+<p>&nbsp;</p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px""><strong><span style=""color: #000000 ; background-color: transparent"">Available in internal portals?</span></strong></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px""><span style=""color: #000000 ; background-color: transparent"">This is not live yet but we will update Biglytics with the feature when we open or Beta. </span></p>
+<p>&nbsp;</p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px""><strong><span style=""color: #000000 ; background-color: transparent"">Sharing the news with customers</span></strong></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px""><span style=""color: #000000 ; background-color: transparent"">Please direct customers to the </span><a style=""color: #1155cc"" href=""https://www.hubspot.com/product-updates/instagram-reminders""><span style=""background-color: transparent"">external product blog post announcement.</span></a><span style=""color: #000000 ; background-color: transparent""> They can sign up to receive an invite for the beta there.</span></p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px"">&nbsp;</p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px"">&nbsp;</p>
+<p dir=""ltr"" style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px""><span style=""color: #000000 ; background-color: transparent""><strong>Source:</strong> <a href=""https://groups.google.com/a/hubspot.com/d/msg/productnotifications-groups/qA0VQBlmQnE/84FHBLBYBwAJ"">Product Notification</a></span></p>",string,,,
+3,Publishing,,,,12,Emojis in Social Publishing,,,,,"<p><strong>What is it:</strong></p>
+<p><img src=""https://lh6.googleusercontent.com/dvuCE-4Bda8NNB7h7U0V6og-8VdfTc7eQn66RAW6Qeheqoc7qAMz-6CCZ565xcTA3gj0AH6NTMFqJMv864sjBTd5fBW0d8VNI-e9hbCb5rAlkfV8XEGnjYx_y7ahS3y4C_wIte0"" alt=""??""> ➡️ <img src=""https://lh5.googleusercontent.com/SckoKUJuaodEsIA08NakIWVLdftVMihi1Zezn2KWlv7DJWs0N7Otw5F9GKhzrg2HFA7C8tWGjKX8uHWzgFiO7Of1pxeV8IOyShjOGA8aRr_P_OHy6qgFhJjy2Snl-JpVNT2dcec""></p>
+<p>Marketers can now add emojis to all social posts from HubSpot.</p>
+<p><strong>Announcement Date / Date Available to Customers:</strong></p>
+<p>It is available to all portals today, 6/16.</p>
+<p><strong>Why it matters:</strong></p>
+<p>Emojis are a fun and creative way to connect with customers on a more personal level. It&rsquo;s a helpful way for brands to have more a personality on social. An <a href=""https://www.appboy.com/blog/emojis-used-in-777-more-campaigns/"">Appboy</a> study in 2016 found that marketing campaigns with emojis increased 777% year-over-year and were continuing to rise by 20% every month. Emojis are how our customers want to communicate.</p>
+<p><strong>Who gets it:&nbsp;</strong>All Marketing Portals</p>
+<p><strong>How it works:</strong></p>
+<p>The emoji keyboard is now available on every social media message by clicking on <img src=""https://mail.google.com/mail/e/263a"" alt=""☺""> icon.</p>
+<p><img style=""width: 511px ; height: 346px"" src=""https://lh4.googleusercontent.com/IJyqO8iuFmAwc9VjDbHJ1bGM75kYNs5n8mGiNCUNYTn7qH6sq6pbPwWFPvsSQXx994_7wLk5Ft9ighg1OFNf-rd_6gOhJjMEDXYc-HmNFhqHkl-1sQ_EXy-5beNTz4Nvf6GJncE"" width=""511"" height=""346""></p>
+<p><strong>How a marketer may use this?</strong></p>
+<p>Depending on their audience Marketers should look for opportunities to build emojis into their social updates. It&rsquo;s important to see how your audience is using emoji&rsquo;s and emulate their use. Emojis aren&rsquo;t for everyone, but if you use them to talk like your persona&rsquo;s talk, you&rsquo;ll see increase engagement.</p>
+<p><strong>Is this available in Biglytics?:</strong> <a href=""https://app.hubspot.com/social-beta/1976760/publishing/"">Yes</a></p>
+<p>&nbsp;</p>
+<p>Source: <a href=""https://groups.google.com/a/hubspot.com/d/msg/productnotifications-groups/ezt9rBgiym0/owBQ-abnAQAJ"">Product Notifications</a></p>",string,,,
+3,Publishing,,,,13,Facebook Video Support for Social Publishings,,,,,"<p><strong>What is it?</strong></p>
+<p>HubSpot Social now supports video publishing to Facebook. All Marketing users can now upload video to Facebook via the HubSpot Social tool. This only works for Facebook.</p>
+<p><a href=""https://app.hubspot.com/l/social-beta/publishing"">Click here to try it out in your portal.&nbsp;</a>&nbsp;<br>Once in HubSpot click compose > Facebook > video icon.&nbsp;</p>
+<p><strong>Why it matters</strong></p>
+<p>2017 has been the year of video in social. Facebook has prioritized it. You probably have noticed your news feed dominated by video now. It&rsquo;s what people want. Video clearly outperforms all other types of content on social and is an amazing story telling device for marketers. Now that people have powerful phones and constant access to WiFi and 4g networks, streaming video is fast and easy. This update eases the work required by marketers to upload video to Facebook. Making it easier for them to add it to campaigns.</p>
+<p><strong>How it works</strong></p>
+<p>Users will now see a video play button option when creating a Facebook post. Clicking on this option opens a window that lets them find a video file or they can simply drag and drop one into the publisher. Once the file is added the video will upload and user can post them to Facebook. The video will post as a native Facebook video.</p>
+<p>&nbsp;</p>
+<p><img src=""/asset/xe65NAf5odopi1EiSwbw2G?token=V%2Byk886hP5a0sq7o5s7eC0D0fCgezVZSRGzmur7ieJA%3D"" alt=""""></p>
+<p><img src=""https://lh6.googleusercontent.com/0VMkHZpMXeUytPIr1_kZBjHrReU_5kdB9toJbifn6aPRSbXMktLbf2Fn9TzixZ4Y70eOdPJfMHw0VjHk6CQJqrDkPuxk6vK50gkR3epV_RY-2peolX9IM2lYu1mrWMyTfMP9tS0""></p>
+<p><strong>Who gets it</strong></p>
+<p>This update is part of the new Social tools and is available to all HubSpot Marketing customers.</p>
+<p><strong>What languages is this available in?&nbsp;</strong>All languages</p>
+<p><strong>Available in Biglytics?&nbsp;</strong><a href=""https://app.hubspot.com/social-beta/1976760/publishing/""><em>Yes</em></a></p>
+<p><strong>Available in portal 53?&nbsp;</strong><em>Yes</em></p>
+<p><strong>External Blog Post for Customers</strong></p>
+<p><a href=""https://www.hubspot.com/product-updates/facebook-video"">https://www.hubspot.com/<wbr>product-updates/facebook-video</a></p>
+<p>&nbsp;</p>
+<p><span style=""text-decoration: underline""><strong>Source:</strong></span> <a href=""https://groups.google.com/a/hubspot.com/d/msg/productnotifications-groups/4icd2TfZ53o/WSCD3aKJCQAJ"">Product Notifications&nbsp;</a></p>",string,,,
+3,Publishing,,,,14,Twitter Card View for HubSpot Blog Content,,,,,"<h3>What is it:</h3>
+<p>Blog content created, and shared, within HubSpot now supports the Large Image Twitter cards. This is now the default option for blog content being shared automatically, or via the updated social tools.</p>
+<p><em>Old Twitter sharing example:</em></p>
+<p>In this example, content has a small image with text on the right-hand side. Clicking on the image, or the text brings the reader directly to the blog post.</p>
+<p><img src=""https://lh6.googleusercontent.com/Y80KZu6i0ycAdkVjw7lDdPqgmzVteHpz4_p4PeWSafY3l-KHGVjgJsCA8LreXuOSKI-JNdk_x1BMiMlVWeOieT4Op3qBg2Cq1aqM6N5SPgALjA5etvQr2ckJINttrl8kgpRt_oJz""></p>
+<p><em>New Twitter sharing example:</em></p>
+<p>In the new example, you&rsquo;ll notice a much larger image and text underneath. This card functions the same way as the previous example - that is, by clicking on it the user will be taken to the content, but is far more likely to be interacted with due to its size.</p>
+<p><img src=""https://lh4.googleusercontent.com/11rVAKzS6WpNGcvHNHxXlEWG1bmTyJO1VwaNY5wpe5PvLZAbVz0JfmEv1knVDM20njqB1WjTlu-LlTnAUg3WSVgL14yIug5SLwS17VUxAT3YDo9egENS7GN1mm_HofwVeNsLF_Fx""></p>
+<h3>Why it matters:</h3>
+<p>You want blog content to get found and social is a key place to participate in the conversation, and attract readers. This update makes any blog posts created within HubSpot more likely to get noticed, and thus interacted with on Twitter.</p>
+<h3>How it works:</h3>
+<p>This new Twitter Card is enabled for automatically shared blog posts or social posts that share HubSpot-hosted blog content.</p>
+<p>If a user does not want to share a post with the new Twitter Card view, within the social tool they can switch it to a photo post following the instructions below:</p>
+<ol>
+<li>Get a link of the blog post and head to the new Social tools</li>
+<li>Compose Message, and paste a link to the blog post you want to share on the screen</li>
+<li>Hover over the photo and you&rsquo;ll see a button appear in the upper-right that allows you to switch to a photo post. <br><img src=""https://lh3.googleusercontent.com/AO3jfn-_psT0DtJE28y3W5YlWBRgHGIpzrSenS1RbHx6ZPfVWgsxqPrnWbn2l0P-VS2koEx6EkfpS5RZwqtDu-u80yAiiDT4D5JgQbmwvxhxZQXmkoeJ4n1MLJ9ytQIG2b_35BRH""></li>
+</ol>
+<p>This change is now live for all HubSpot customers.</p>
+<p>Source: <a href=""https://groups.google.com/a/hubspot.com/d/msg/productnotifications-groups/Na-Zn-h-chY/4--eaGhzAQAJ"">Product Notification</a></p>",string,,,
+3,Publishing,,,,15,Bulk Upload Facebook & LinkedIn Posts,,,,in-beta,"<p dir=""ltr""><strong><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">What is it?</span></strong></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">You can now bulk upload Facebook and LinkedIn posts in the Social Publishing tool, similarly to how you&rsquo;ve been able to bulk upload Tweets in the past. Posts made in bulk will also now pull images from links into the post preview, so you can see exactly how your Tweets, Facebook and LinkedIn posts will look when they go live. </span></p>
+<p><strong style=""color: #222222 ; background-color: #ffffff ; font-size: 13px"">&nbsp;</strong></p>
+<p dir=""ltr""><strong><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Why does it matter?</span></strong></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">For a social media marketer, timing is everything. As you execute your social strategy, being able to schedule a week&rsquo;s worth of posts in bulk saves you time, and ensures your posts fire exactly when you intended them to. Being able to see any images included in your social post as they are scheduled also lets you ensure that posts are being sent as you intended them to go out.</span></p>
+<p><strong style=""color: #222222 ; background-color: #ffffff ; font-size: 13px"">&nbsp;</strong></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Adding Facebook and LinkedIn as an option for bulk upload lets you easily plan out your social strategy in advance, freeing you up to focus on more mission critical tasks. </span><a style=""color: #6611cc ; text-decoration: none"" href=""https://community.hubspot.com/t5/HubSpot-Ideas/Bulk-upload-for-Facebook-and-LinkedIn-like-what-exists-for/idi-p/10818""><span style=""color: #3973ea ; background-color: transparent ; font-size: 11pt ; text-decoration: underline"">Bulk uploading to Facebook and LinkedIn</span></a><span style=""background-color: transparent ; font-size: 11pt ; text-decoration: none"">, as well as </span><a style=""color: #6611cc ; text-decoration: none"" href=""https://community.hubspot.com/t5/HubSpot-Ideas/Make-image-preview-available-in-bulk-tweet-upload/idi-p/20813""><span style=""color: #3973ea ; background-color: transparent ; font-size: 11pt ; text-decoration: underline"">previewing links for bulk uploaded posts</span></a><span style=""background-color: transparent ; font-size: 11pt ; text-decoration: none"">, were also two of the most heavily requested features on the ideas forum.</span></p>
+<p><strong style=""color: #222222 ; background-color: #ffffff ; font-size: 13px"">&nbsp;</strong></p>
+<p dir=""ltr""><strong><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">How does it work?</span></strong></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Within the social publishing tool, select the option to &ldquo;schedule in bulk&rdquo; and download the Excel or CSV import template. Within the import template, you&rsquo;ll now be able to select not only a Twitter account you want to post to ,but also Facebook and LinkedIn accounts that you have connected within social settings.</span></p>
+<p><strong style=""color: #222222 ; background-color: #ffffff ; font-size: 13px"">&nbsp;</strong></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none""><img src=""https://lh5.googleusercontent.com/3iU32eN7LzENC2nAZ1T2XYo0nbGeUkIkgXGGM-clLio_gpphOOV6VOPA5g97BhTIX70O9krr0YBHkqtcX6XIYhmevXYvuLQ24UuWhwpLXA2MPW-K_xCsyjKW9kcXwh8hFaq52zCX"" width=""624"" height=""696""></span></p>
+<p><strong style=""color: #222222 ; background-color: #ffffff ; font-size: 13px"">&nbsp;</strong></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">For any posts scheduled in bulk that include a link, we will now process that link prior to posting to Facebook, LinkedIn, or Twitter, allowing you to see the featured image pulled in to your post within the post preview. </span></p>
+<p><strong style=""color: #222222 ; background-color: #ffffff ; font-size: 13px"">&nbsp;</strong></p>
+<p dir=""ltr""><strong><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Who gets it?</span></strong></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">This is currently in beta, and available to all new users. It will be available to all users of the social tool within the next few weeks.</span></p>
+<p><strong style=""color: #222222 ; background-color: #ffffff ; font-size: 13px"">&nbsp;</strong></p>
+<p dir=""ltr""><strong><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Sharing the news with customers</span></strong></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Feel free to share this </span><a style=""color: #6611cc ; text-decoration: none"" href=""https://www.hubspot.com/product-updates/in-beta-bulk-upload-facebook-linkedin-posts""><span style=""color: #1155cc ; background-color: transparent ; font-size: 11pt ; text-decoration: underline"">product update blog post</span></a><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none""> with any interested customers.</span></p>
+<p><strong style=""color: #222222 ; background-color: #ffffff ; font-size: 13px"">&nbsp;</strong></p>
+<p dir=""ltr""><strong><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">What language is it in?</span></strong></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">All languages supported by HubSpot.</span></p>
+<p dir=""ltr"">&nbsp;</p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Source: <a href=""https://groups.google.com/a/hubspot.com/d/msg/productnotifications-groups/QRX3O4fsB_I/aZvuc_ELAgAJ"">Product Notifications</a></span></p>
+<p>&nbsp;</p>",string,,,
+3,Publishing,,,,16,Publish videos to Twitter and LinkedIn,,,,,"<p dir=""ltr""><strong><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">What is it?</span></strong></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">You can now post videos to both Twitter and LinkedIn, just as you post videos to Facebook, within HubSpot social publishing tool.</span></p>
+<p><strong style=""color: #222222 ; background-color: #ffffff ; font-size: 13px"">&nbsp;</strong></p>
+<p dir=""ltr""><strong><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Why does it matter?</span></strong></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">When it comes to social --- video is king. </span><a style=""color: #6611cc ; text-decoration: none"" href=""https://www.socialmediatoday.com/news/the-state-of-video-marketing-in-2018-infographic/518339/""><span style=""color: #1155cc ; background-color: transparent ; font-size: 11pt ; text-decoration: underline"">90% of consumers</span></a><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none""> say video helps them make buying decisions in 2018. As you compete for attention on the networks where your audience spends their time, the ability to share video content with your audience can make your brand stand out. With video publishing available for Facebook, Twitter, and LinkedIn, you can now lean into video marketing across all three networks to better tell your brand&rsquo;s story.</span></p>
+<p><strong style=""color: #222222 ; background-color: #ffffff ; font-size: 13px"">&nbsp;</strong></p>
+<p dir=""ltr""><strong><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">How does it work?</span></strong></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Within the </span><a style=""color: #6611cc ; text-decoration: none"" href=""https://app.hubspot.com/l/social/""><span style=""color: #1155cc ; background-color: transparent ; font-size: 11pt ; text-decoration: underline"">social publishing tool</span></a><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">, click &lsquo;Create social post&rsquo; and select either Twitter or LinkedIn. Within the social publisher, you&rsquo;ll now be given the option to choose a video from your file manager and insert it into a post, just like you can with Facebook. The selected video can be played in-line within the video editor. &nbsp;</span></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none""><img src=""https://lh4.googleusercontent.com/NxhA9FeJWfPFWSX6CHKtOS7CH6YGMX2PY6aGS3DxqTt-GCPxcv3VaP7-uMeLQCEcBBbA7y80p61iklcF_vlriMT_PN5A5EsV7ND7ydQ3EPtc3SMoRFrGutkm4jKvP7kFkCSg17UC"" width=""624"" height=""584""></span></p>
+<p><strong style=""color: #222222 ; background-color: #ffffff ; font-size: 13px"">&nbsp;</strong></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none""><strong>NOTE</strong>: At this time we do not support video publishing for Instagram. As soon as Instagram allows for video publishing through their API, we will release that functionality.</span></p>
+<p><strong style=""color: #222222 ; background-color: #ffffff ; font-size: 13px"">&nbsp;</strong></p>
+<p dir=""ltr""><strong><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Who gets it?</span></strong></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">This is now available to all users of HubSpot&rsquo;s social tool.</span></p>
+<p><strong style=""color: #222222 ; background-color: #ffffff ; font-size: 13px"">&nbsp;</strong></p>
+<p dir=""ltr""><strong><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Sharing the news with customers</span></strong></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Feel free to share this </span><a style=""color: #6611cc ; text-decoration: none"" href=""https://www.hubspot.com/product-updates/now-live-publish-videos-to-twitter-and-linkedin""><span style=""color: #1155cc ; background-color: transparent ; font-size: 11pt ; text-decoration: underline"">product update blog post</span></a><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none""> with any interested customers.</span></p>
+<p><strong style=""color: #222222 ; background-color: #ffffff ; font-size: 13px"">&nbsp;</strong></p>
+<p dir=""ltr""><strong><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">What language is it in?</span></strong></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">All languages supported by HubSpot</span></p>
+<p>&nbsp;</p>
+<p>Source: <a href=""https://groups.google.com/a/hubspot.com/forum/?hl=en#!topic/productnotifications-groups/ZJOL9PkJXWA"">Product Notifications</a></p>",string,,,
+3,Publishing,,,,17,Manage Your Social Media through the Social Calendar,,,,in-beta,"<p dir=""ltr""><strong><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">What is it?</span></strong></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Within social publishing, you can now manage your social media schedule through a drag and drop calendar.</span></p>
+<p><strong style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px"">&nbsp;</strong></p>
+<p dir=""ltr""><strong><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Why does it matter?</span></strong></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">For social marketers, ensuring that you have a consistent stream of content to engage your audience is essential. Maybe you determine one post a day on Instagram yields the best results, while for Twitter you want to aim for 6-10 posts a day. Whatever cadence works best for your audience, being able to visualize which posts are going out on a specific day and drag and drop posts as you see fit will ensure that you never miss an opportunity to engage with your audience where they are spending the most of their time. &nbsp;</span></p>
+<p><strong style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px"">&nbsp;</strong></p>
+<p dir=""ltr""><strong><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">How does it work?</span></strong></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Within social publishing, click the calendar icon to access the </span><a style=""color: #1155cc ; text-decoration: none"" href=""https://app.hubspot.com/l/social/calendar""><span style=""color: #1155cc ; background-color: transparent ; font-size: 11pt ; text-decoration: underline"">social calendar</span></a><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">.</span></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none""><img class=""CToWUd a6T"" src=""https://lh3.googleusercontent.com/VKht7wzykkV-Me2G5htQ_UH1M1qGmMZXe-wshczeVv1oULFrLqXpLGNQg5Q0JeTa_exf4IfRnG6cX6joHlCF-q4rEFJ0nMrfh5EIXerudPuYDW-dM5h0GTzVUCDnUCAkgeJW8KIq"" width=""624"" height=""285""></span></p>
+<p><strong style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px"">&nbsp;</strong></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Here, you&rsquo;ll see all of your published and scheduled social posts organized in a calendar view. You can see your posts by either month, week, or you can zero in on a specific day. At the top, you can also filter your posts by account, their associated campaign, or what type of post they are.</span></p>
+<p><strong style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px"">&nbsp;</strong></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">If you notice that a post scheduled for <span class=""aBn""><span class=""aQJ"">Friday</span></span> would be better suited for <span class=""aBn""><span class=""aQJ"">Thursday</span></span> - no problem! Simply select the post and drag it over to <span class=""aBn""><span class=""aQJ"">Thursday</span></span>. Your scheduled post will automatically be updated.</span></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none""><img class=""CToWUd a6T"" src=""https://lh6.googleusercontent.com/OjvuLpjEV5VzfFRat0mrhrkCmw6SijIuzqWzBdBQBwtJCM22Ck7uAQmB8lgvGNNj5C850QH9XOpJCcLvLIIOuI__YLrh9P24SdvtslKJuKTFw3A3HcwHH5gyE4pJpJexwe7co6za"" width=""624"" height=""309""></span></p>
+<p><strong style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px"">&nbsp;</strong></p>
+<p dir=""ltr""><strong><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">Who gets it?</span></strong></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">This feature is now in an open beta. If you, or a customer of yours, would like access, you can fill out </span><a style=""color: #1155cc ; text-decoration: none"" href=""https://docs.google.com/forms/d/e/1FAIpQLSeJwI11eE77fYwcxHFGfz7vY4hZ1Z_erhYjioN4z6sMekHYjQ/viewform?usp=sf_link""><span style=""color: #1155cc ; background-color: transparent ; font-size: 11pt ; text-decoration: underline"">this form</span></a><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none""> and we will give that portal access within two business days.</span></p>
+<p><strong style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px"">&nbsp;</strong></p>
+<p dir=""ltr""><strong><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">What language is it in?</span></strong></p>
+<p dir=""ltr""><span style=""color: #000000 ; background-color: transparent ; font-size: 11pt ; text-decoration: none"">All languages supported by HubSpot.</span></p>
+<p>&nbsp;</p>",string,,,
+4,Reports,,,,1,[In Beta] YouTube Analytics,,,,in-beta/public-beta,"<p><strong>What is it?</strong>
+</p><p><span style=""font-size: 11pt""><span style=""color: rgb(0 , 0 , 0)""><span style=""background-color: transparent"">Enterprise users of HubSpot’s social tool can now report on the success of their YouTube Channels directly within HubSpot.</span></span></span></p><p></p><p><strong>Why does it matter?</strong></p><p><span style=""font-size: 11pt""><span style=""color: rgb(0 , 0 , 0)""><span style=""background-color: transparent"">Video is king when it comes to social content. We currently spend </span></span></span><a href=""https://techcrunch.com/2018/07/31/u-s-adults-now-spend-nearly-6-hours-per-day-watching-video/""><span style=""font-size: 11pt""><span style=""background-color: transparent"">upwards of six hours a day</span></span></a><span style=""font-size: 11pt""><span style=""color: rgb(0 , 0 , 0)""><span style=""background-color: transparent""> consuming video content, and that number is only going to keep growing. If you’re serious about expanding your presence on social, you’re regularly creating content on YouTube, and promoting it to your audience.</span></span></span></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)"">
+</span></span></span></p><p><span style=""font-size: 11pt""><span style=""color: rgb(0 , 0 , 0)""><span style=""background-color: transparent"">But once your video content is created, you need to know how it is being received by your target audience. With YouTube reporting in HubSpot, you can begin to track your overall YouTube performance over time, and analyze how specific videos are performing against others, in the same system you use to report on the rest of your social channels. See what resonates with your audience, and fully lean into your YouTube strategy.</span></span></span></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)"">
+</span></span></span></p><p><strong>How does it work?</strong></p><p><span style=""font-size: 11pt""><span style=""color: rgb(0 , 0 , 0)""><span style=""background-color: transparent"">Within Social settings, Enterprise portals will now have the option of connecting a YouTube account to HubSpot.</span></span></span></p><p><img src=""https://lh6.googleusercontent.com/3F-HZ7MY6KUW6B8qQdwJZs22AfYzcujM8qqm2y1gl4V1W4Hdd8Z_kI-aue8lxghl9PFo4F391N8CC2x80YDoIMx35fKdtOS9q0ethdvVTEKiOhTMDw6YntzsJpVZntMIXyYsfcrv"" width=""624"" height=""341""></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)"">
+</span></span></span></p><p><span style=""font-size: 11pt""><span style=""color: rgb(0 , 0 , 0)""><span style=""background-color: transparent"">Once connected, navigate to social reports, and from the drop down of connected accounts, select your newly connected YouTube account. A YouTube dashboard will then appear giving you an overview of your YouTube engagement. You’ll be able to track average watch time, subscriber growth over a period of time, the number of interactions on each post, and even dive deep into statistics on an individual video basis.</span></span></span></p><p><img src=""https://lh3.googleusercontent.com/ksJV0ivyZGPExlPhqh9XOm9lcIzQcijMzl_ounCWPp01q0P3l6aWAfvTs9nvjctKqrhem9594VY_Ysq0ihxBAOxbWJjMJsVnCiOQw8bPyBDNiEn_OBkSHeq5HTrOKYb7T5YxIjns"" width=""624"" height=""469""></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)"">
+</span></span></span></p><p><img src=""https://lh5.googleusercontent.com/MhaCMZW15vR5VWoU8um99DYDV1HuLgntrEdbpdexkvyIRZggKwUW-pGfUcguMpYb1vo-wwp-srX2DAvE-S-4mHoLS4gdwwYFaRACb1LMe83uW7Gi1bnVhfuSAIAeuNeusqCpDckm"" width=""624"" height=""231""></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)"">
+</span></span></span></p><p><strong>Who gets it?</strong></p><p><span style=""font-size: 11pt""><span style=""color: rgb(0 , 0 , 0)""><span style=""background-color: transparent"">This is now in an open beta. If one of your Marketing Hub Enterprise Customers wants access, feel free to reply here and we’d be happy to add them. Once out of beta, this feature will be available to all Marketing Hub Enterprise users.</span></span></span></p><p></p><p><strong>Sharing the news with customers</strong></p><p><span style=""font-size: 11pt""><span style=""color: rgb(0 , 0 , 0)""><span style=""background-color: transparent"">Feel free to share this </span></span></span><a href=""https://www.hubspot.com/product-updates/in-beta-youtube-analytics""><span style=""font-size: 11pt""><span style=""background-color: transparent"">product update blog post</span></span></a><span style=""font-size: 11pt""><span style=""color: rgb(0 , 0 , 0)""><span style=""background-color: transparent""> with any interested customers.</span></span></span></p><p></p><p><strong>What language is it in?</strong></p><p><span style=""font-size: 11pt""><span style=""color: rgb(0 , 0 , 0)""><span style=""background-color: transparent"">All languages supported by HubSpot.</span></span></span></p><p></p><p>Source: <a title="""" href=""https://groups.google.com/a/hubspot.com/forum/?hl=en#!topic/productnotifications-groups/hIBNiGqqpZc"">Product Notifications</a></p>",string,,,
+4,Reports,,,,2,Does HubSpot's Social Reports enable you to determine the best time to publish social content?,,,,,"<p>No, the social tools do not enable users to identify the optimal publishing times. This differs form other tools such as email where HubSpot provides <a href=""https://blog.hubspot.com/customers/checklist-optimize-emails"">suggestions on email send times.</a>&nbsp;
+</p>
+<p>To determine social engagement by time you need to export data to excel. From there you can do manual data analysis to identify the most effective times for your organization. <a href=""https://blog.hubspot.com/customers/optimize-social-timing-content"">This article</a> describes the process.&nbsp;
+</p>",string,,,
+5,Social Settings,,,,1,[Now Live] Facebook Page Locations,,,,,"<p><strong>What is it?</strong>
+</p><p><span style=""font-size: 11pt""><span style=""color: rgb(0 , 0 , 0)""><span style=""background-color: transparent"">Users of the HubSpot social tool with many location specific Facebook pages can now see this information within HubSpot, ensuring that their Facebook posts go to the correct page.</span></span></span></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)"">
+</span></span></span></p><p><strong>Why does it matter?</strong></p><p><a href=""https://www.facebook.com/business/a/facebook-locations""><span style=""font-size: 11pt""><span style=""background-color: transparent"">Facebook locations</span></span></a><span style=""font-size: 11pt""><span style=""color: rgb(0 , 0 , 0)""><span style=""background-color: transparent""> lets you easily create a parent-child relationship between your location specific Facebook pages and your corporate brand page. For example, if you are a retail store, and you have three different locations, each with their own Facebook page, you’ll want to be able to create content specific for those pages, and also your larger corporate brand page.</span></span></span></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)"">
+</span></span></span></p><p><span style=""font-size: 11pt""><span style=""color: rgb(0 , 0 , 0)""><span style=""background-color: transparent"">This is easy to do natively on Facebook, but within HubSpot, we didn’t pull location specific information regarding a page. This led to a situation where multiple Facebook pages could be connected to HubSpot, all with the same name and no way to identify which page corresponds to a specific location. With this update we’ll now incorporate location specific information into the name of your connected Facebook Page, so you can easily manage multiple locations for one brand, all within HubSpot.</span></span></span></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)"">
+</span></span></span></p><p><strong>How does it work?</strong></p><p><span style=""font-size: 11pt""><span style=""color: rgb(0 , 0 , 0)""><span style=""background-color: transparent"">Connected Facebook pages that have a value for the Facebook field “name with location” will include location specific information in the account name in parentheses. There is no specific action users need to take for this to work.</span></span></span></p><p><img src=""https://lh6.googleusercontent.com/T80K1Tl5QyXw_WfiBj-O65Re-1tsDFx17D0s-Es_rzmwqsaFvYkozAxnabaiJ-NV6ROdrlFRZKNb78sXPbXFHhOgutg9ZV6wiunKQ3qnnB2ExKNq_7xu3chpNRnloBWl2Df0_YMx"" width=""624"" height=""281""></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)"">
+</span></span></span></p><p><span style=""font-size: 11pt""><span style=""color: rgb(0 , 0 , 0)""><span style=""background-color: transparent"">Now, when creating posts for an individual location’s page, you’ll be able to easily differentiate one location from another.</span></span></span></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)"">
+</span></span></span></p><p><strong>Who gets it?</strong></p><p><span style=""font-size: 11pt""><span style=""color: rgb(0 , 0 , 0)""><span style=""background-color: transparent"">This is now available to all Marketing Hub Professional and Enterprise users of the social tool.</span></span></span></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)"">
+</span></span></span></p><p><strong>Sharing the news with customers</strong></p><p><span style=""font-size: 11pt""><span style=""color: rgb(0 , 0 , 0)""><span style=""background-color: transparent"">Feel free to share </span></span></span><a href=""https://www.hubspot.com/product-updates/now-live-facebook-page-locations""><span style=""font-size: 11pt""><span style=""background-color: transparent"">this product update blog post</span></span></a><span style=""font-size: 11pt""><span style=""color: rgb(0 , 0 , 0)""><span style=""background-color: transparent""> with any interested customers.</span></span></span></p><p><span style=""font-size: small""><span style=""color: rgb(34 , 34 , 34)""><span style=""background-color: rgb(255 , 255 , 255)"">
+</span></span></span></p><p><strong>What language is it in?</strong></p><p><span style=""font-size: 11pt""><span style=""color: rgb(0 , 0 , 0)""><span style=""background-color: transparent"">All languages supported by HubSpot.</span></span></span></p><p></p><p>Source: <a title="""" href=""https://groups.google.com/a/hubspot.com/forum/?hl=en#!topic/productnotifications-groups/daG_Fpf-eE8"">Product Notifications</a></p>",string,,,
+5,Social Settings,,,,2,How does HubSpot integrate with Facebook Lead Ads?,,,,,"<p>Facebook Lead Ads -&nbsp;<a href=""https://www.facebook.com/business/news/lead-ads-launch"">https://www.facebook.com/business/news/lead-ads-launch</a>
+</p>
+<p>When someone clicks on your lead ad, a form opens with the person’s contact information automatically populated, based on the information they share with Facebook, like their name and email address. Automatically populating the contact information that people share with Facebook makes filling in the form as fast as two taps: one click on the ad to open the form and another to submit the autofilled form. Like all of our ad types, lead ads were built with privacy in mind. People can edit their contact information before submitting the form, and this information isn’t sent to the business until a person clicks “submit.”<br>
+</p>
+<p><strong>HubSpot Ads is required</strong>
+</p>
+<p><a href=""https://www.facebook.com/business/help/908902042493104"">https://www.facebook.com/business/help/908902042493104</a>
+</p>
+<h4>AVAILABLE FOR:</h4>
+<table class=""article-key"">
+<tbody>
+<tr>
+	<td>Marketing:
+	</td>
+	<td><a href=""https://knowledge.hubspot.com/articles/kcs_article/account/what-are-all-the-available-hubspot-products-and-add-ons"">Basic, Pro, Enterprise</a>
+	</td>
+</tr>
+<tr>
+	<td>Sales:
+	</td>
+	<td><a href=""https://knowledge.hubspot.com/articles/kcs_article/account/what-are-all-the-available-hubspot-products-and-add-ons"">N/A</a>
+	</td>
+</tr>
+<tr>
+	<td>Add-Ons:
+	</td>
+	<td><a href=""https://knowledge.hubspot.com/articles/kcs_article/account/what-are-all-the-available-hubspot-products-and-add-ons"">Ads</a>
+	</td>
+</tr>
+</tbody>
+</table>
+<p>The HubSpot Ads tool automatically creates&nbsp;leads that come through&nbsp;<a href=""https://www.facebook.com/business/a/lead-ads"">Facebook Lead Ads</a>&nbsp;once you authenticate your Facebook account to HubSpot.
+</p>
+<p>This article will walk you through how to integrate HubSpot Ads&nbsp;and Facebook Lead Ads, and how they work with one another once you've done so.
+</p>
+<h2>Connect Facebook Lead Ads in HubSpot</h2>
+<ul>
+	<li>From your HubSpot&nbsp;<em>Marketing</em>&nbsp;account, navigate to&nbsp;Reports&nbsp;>&nbsp;Ads.</li>
+	<li>Click the&nbsp;Settings&nbsp;tab > choose&nbsp;Facebook&nbsp;from the left side menu > click&nbsp;Connect your Facebook Account.</li>
+</ul>
+<p><span class=""hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_custom_widget""><img src=""https://knowledge.hubspot.com/hs-fs/hubfs/Knowledge_Base_Images/Reports/Ads_Add-On/connect-facebook-ads.png?t=1499866282134&width=738&height=382&name=connect-facebook-ads.png"" alt=""""></span>
+</p>
+<ul>
+	<li>A dialog box will appear indicating which permissions are necessary to allow HubSpot to track Facebook ads. Review the information, then confirm that you'd like to&nbsp;Connect Facebook now.&nbsp;</li>
+</ul>
+<p><img src=""https://knowledge.hubspot.com/hs-fs/hubfs/Knowledge_Base_Images/Reports/Ads_Add-On/ads-connect-facebook-dialog.png?t=1499866282134&width=445&name=ads-connect-facebook-dialog.png"">
+</p>
+<ul>
+	<li>You can confirm whether or not leads are being pulled in by looking at your Facebook settings in HubSpot Ads. If lead ads are not being tracked you will see an alert. Click&nbsp;Grant permissions&nbsp;to give HubSpot the necessary permissions to track lead ads.&nbsp;</li>
+</ul>
+<p><img src=""https://knowledge.hubspot.com/hs-fs/hubfs/Knowledge_Base_Images/Reports/Ads_Add-On/facebook-lead-ads-manage-pages-message.png?t=1499866282134&width=1024&name=facebook-lead-ads-manage-pages-message.png"">
+</p>
+<ul>
+	<li>You will also need to make sure that you have the correct Facebook permissions in order for HubSpot to track your lead ads.
+	<ul>
+		<li>You must be set as an&nbsp;Advertiser&nbsp;or&nbsp;Admin&nbsp;at the account level for&nbsp;the connected Facebook Ads account. See more information about Facebook ad account permissions&nbsp;<a href=""https://www.facebook.com/business/help/155909647811305?helpref=faq_content"">here</a>.&nbsp;</li>
+		<li>You must be set as an&nbsp;Admin&nbsp;for any specific pages that have lead ads you'd like to track.
+		<ul>
+			<li>This can be assigned by the current admin&nbsp;in the Facebook Business Manager or via Facebook Page settings. For information and instructions for managing page roles, please check out&nbsp;<a href=""https://www.facebook.com/help/323502271070625/"">this resource</a>.</li>
+			<li>You'll be able to check the status of your lead ads pages by returning to&nbsp;Reports&nbsp;>&nbsp;Adsand&nbsp;clicking&nbsp;Settings, then&nbsp;Facebook. You'll see&nbsp;<em>Not tracking</em>&nbsp;next to pages for which the permission level is not set correctly.</li>
+		</ul></li>
+	</ul></li>
+</ul>
+<p><img src=""https://knowledge.hubspot.com/hs-fs/hubfs/Knowledge_Base_Images/Reports/Ads_Add-On/lead-ads-pages.png?t=1499866282134&width=1024&name=lead-ads-pages.png"">
+</p>
+<h2>How it works</h2>
+<p>Once you follow the above steps to connect Facebook and HubSpot Ads, HubSpot will automatically import new leads generated from Lead Ads. HubSpot will also recreate a form event inside HubSpot (as shown below) that mimics the lead ad form and append all the data from your Ad Campaign on the contact record.
+</p>
+<p><img src=""https://knowledge.hubspot.com/hs-fs/hubfs/Knowledge_Base_Images/Reports/Ads_Add-On/contact-facebook-ads-timeline.png?t=1499866282134&width=643&height=669&name=contact-facebook-ads-timeline.png"" alt="""">
+</p>
+<p>This new import of leads means you can now&nbsp;<a href=""https://knowledge.hubspot.com/lists-user-guide/how-to-create-a-list-of-your-contacts"">build new&nbsp;smart lists</a>&nbsp;for just lead ad conversions to ensure quick follow up and workflows based on hot leads.&nbsp;
+</p>
+<p><img src=""https://knowledge.hubspot.com/hs-fs/hubfs/Knowledge_Base_Images/Reports/Ads_Add-On/facebook-ad-lead-list.png?t=1499866282134&width=602&height=601&name=facebook-ad-lead-list.png"" alt="""">
+</p>
+<p>If the lead ad submission is, indeed, a conversion event for the given contact (meaning they were not already a lead), you will also see the lead appear in the ads tool as any other lead would in the Ads tool.
+</p>
+<p><img src=""https://knowledge.hubspot.com/hs-fs/hubfs/Knowledge_Base_Images/Reports/Ads_Add-On/facebook-ad-hover-over-leads.png?t=1499866282134&width=803&height=374&name=facebook-ad-hover-over-leads.png"" alt="""">
+</p>
+<p><br>
+</p>",string,,,
+5,Social Settings,,,,3,Can double opt-in be activated for Facebook lead ads?,,,,,"<div><span style=""color: #222222 ; font-size: 12.8px"">The forms are submitted within the FB interface and can have multiple CTA types (i.e., not all pertain to ""subscribing""). We're currently working on auto follow-up emails for lead ads. If we get repeated customer requests for DOI on lead ads, we might be able to pursue in the future. But not a priority at the moment, and likely not this year (2018) unless demand is demonstrably high.</span></div>
+<div><span style=""color: #222222 ; font-size: 12.8px"">Source: Email with Will DeKrey</span></div>",string,,,

@@ -1,0 +1,120 @@
+Number of Articles Imported from CSV = 30
+Beginning upload to Tettra
+
+Account-Based Marketing (ABM) is being sent to Tettra.
+
+What does Act-on's SFDC integration look like? is being sent to Tettra.
+
+Bronto Demo is being sent to Tettra.
+
+Everything to know about ClickDimensions is being sent to Tettra.
+
+Skipping row 5, Title was undefined
+
+How do I position Google Analytics versus Hubspot Analytics? is being sent to Tettra.
+
+Can Hootsuite publish to Instagram? is being sent to Tettra.
+
+Comparison between HubSpot vs Falcon is being sent to Tettra.
+
+What are the differences between HubSpot's integration with SFDC, and Infusionsoft's integration with SFDC? is being sent to Tettra.
+
+How to handle common HubSpot objections from Marketo is being sent to Tettra.
+
+Marketo Demo is being sent to Tettra.
+
+Marketo Email Scripting is being sent to Tettra.
+
+Does Marketo provide free trials? is being sent to Tettra.
+
+What do Smart Lists and Workflows look like in Marketo? is being sent to Tettra.
+
+2017 Marketo Conference Recap is being sent to Tettra.
+
+How do I sell against specific Marketo features? is being sent to Tettra.
+
+Marketo SSL Pricing is being sent to Tettra.
+
+Marketo allows me to easily pass our custom cookie into a hidden form field with every submission, how does HubSpot accomplish this? is being sent to Tettra.
+
+Marketo Competitive Doc December 2017 is being sent to Tettra.
+
+Marketo vs. HubSpot (From a Marketo Rep) is being sent to Tettra.
+
+What is the new Microsoft Dynamics Marketing? is being sent to Tettra.
+
+Everything to know about Microsoft Dynamics 365 Marketing is being sent to Tettra.
+
+How do I sell against specific Pardot features? is being sent to Tettra.
+
+What is the difference between Pardot and Marketing Cloud? is being sent to Tettra.
+
+Pardot Limitations is being sent to Tettra.
+
+Pardot Demo is being sent to Tettra.
+
+Pardot Pricing PDF is being sent to Tettra.
+
+What new Pardot, Salesforce and Marketing Cloud features were announced at Dreamforce, and how should we prepare for them? is being sent to Tettra.
+
+What is Salesforce Essentials? is being sent to Tettra.
+
+SharpSpring vs. HubSpot: how to talk about it is being sent to Tettra.
+
+Tettra article created at https://app.tettra.co/teams/se/pages/marketo-email-scripting
+
+Tettra article created at https://app.tettra.co/teams/se/pages/everything-to-know-about-clickdimensions
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-is-the-difference-between-pardot-and-marketing-cloud
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-is-the-new-microsoft-dynamics-marketing
+
+Tettra article created at https://app.tettra.co/teams/se/pages/marketo-allows-me-to-easily-pass-our-custom-cookie-into-a-hidden-form-field-with-every-submission-how-does-hubspot-accomplish-this
+
+Tettra article created at https://app.tettra.co/teams/se/pages/2017-marketo-conference-recap
+
+Tettra article created at https://app.tettra.co/teams/se/pages/sharpspring-vs-hubspot-how-to-talk-about-it
+
+Tettra article created at https://app.tettra.co/teams/se/pages/everything-to-know-about-microsoft-dynamics-365-marketing
+
+Tettra article created at https://app.tettra.co/teams/se/pages/comparison-between-hubspot-vs-falcon
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-are-the-differences-between-hubspots-integration-with-sfdc-and-infusionsofts-integration-with-sfdc
+
+Tettra article created at https://app.tettra.co/teams/se/pages/bronto-demo
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-does-act-ons-sfdc-integration-look-like
+
+Tettra article created at https://app.tettra.co/teams/se/pages/account-based-marketing-abm
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-hootsuite-publish-to-instagram
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-marketo-provide-free-trials
+
+Tettra article created at https://app.tettra.co/teams/se/pages/marketo-demo
+
+Tettra article created at https://app.tettra.co/teams/se/pages/marketo-competitive-doc-december-2017
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-handle-common-hubspot-objections-from-marketo
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-do-i-sell-against-specific-pardot-features
+
+Tettra article created at https://app.tettra.co/teams/se/pages/pardot-demo
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-do-i-sell-against-specific-marketo-features
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-do-smart-lists-and-workflows-look-like-in-marketo
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-do-i-position-google-analytics-versus-hubspot-analytics
+
+Tettra article created at https://app.tettra.co/teams/se/pages/marketo-vs-hubspot-from-a-marketo-rep
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-new-pardot-salesforce-and-marketing-cloud-features-were-announced-at-dreamforce-and-how-should-we-prepare-for-them
+
+Tettra article created at https://app.tettra.co/teams/se/pages/pardot-limitations
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-is-salesforce-essentials
+
+Tettra article created at https://app.tettra.co/teams/se/pages/pardot-pricing-pdf
+
+Tettra article created at https://app.tettra.co/teams/se/pages/marketo-ssl-pricing

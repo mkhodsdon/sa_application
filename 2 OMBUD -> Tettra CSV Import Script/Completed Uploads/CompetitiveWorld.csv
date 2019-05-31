@@ -1,0 +1,567 @@
+﻿Section Order,Section Name,Section Description,Section Reference,Section Tags,Entry Order,Entry Question,Entry Name,Entry Description,Entry Reference,Entry Tags,Response,Entry Response Type,Response Label,Enum Values,Cell Reference
+1,Account-Based Marketing (ABM),,,,1,Account-Based Marketing (ABM),,,,,"<p>Account-based marketing (ABM) is a strategic approach to marketing that revolves around awareness at the account level. Organizations implement an ABM strategy in order target key prospect accounts and to expand business within existing customer accounts&nbsp;to increase their life-time value. By treating each individual account as its' own market, ABM&nbsp;can be targeted accurately and in a personalized manner which provide more relevant engagement with prospects and customers.&nbsp;
+</p>
+<p>An increasing amount of organizations are&nbsp;adopting an account-based marketing strategy. By using the tools and functionality within the HubSpot platform&nbsp;along with&nbsp;an&nbsp;account-based marketing strategy, customers can align their&nbsp;sales and marketing teams to increase the effectiveness and relevancy of the&nbsp;marketing engagement to their&nbsp;target accounts to offer a more personalized buying experience.
+</p>
+<p>The following resources provide insight into how HubSpot can be used by organizations implementing an account-based marketing strategy:
+</p>
+<p><a href=""https://offers.hubspot.com/thank-you/Account-Based-Marketing-and-HubSpot"">Account-Based Marketing & HubSpot webinar</a>
+</p>
+<p><a href=""https://blog.hubspot.com/customers/using-hubspot-account-based-marketing-strategy"">Using HubSpot For An Account-Based Marketing Strategy [Customer Story]</a>
+</p>
+<p><a href=""https://blog.hubspot.com/marketing/account-based-marketing-guide#sm.0012f918r13cbfmstk51gi74b9squ"">The Ultimate Guide to Account-Based Marketing: 6 Key Steps</a>
+</p>
+<p><a href=""https://www.demandbase.com/press-release/siriusdecisions-2016-state-of-abm-study/"">SiriusDecisions 2016 State of ABM Study</a>
+</p>
+<p><a href=""https://www.slideshare.net/MarsdenAssoc/how-to-utilize-hubspot-for-accountbased-marketing-63106191"">How to Utilize HubSpot for Account-Based Marketing</a>
+</p>
+<p><a href=""https://wiki.hubspotcentral.net/pages/viewpage.action?pageId=99392780"">All About Account Based Marketing - Wiki Post</a>
+</p>
+<p>Competitive tools&nbsp;tailored for the Account-based marketing approach:&nbsp;
+</p>
+<p><a href=""http://www.engagio.com/"">Engagio</a>
+</p>
+<p><a href=""https://www.marketo.com/newsroom/press-releases/2016-09-13-Marketo-Account-Based-Marketing-Unveiled/"">Marketo&nbsp;Account-Based Marketing Unveiled</a>
+</p>
+<p><a href=""https://www.demandbase.com/"">DemandBase</a><br>
+</p>
+<p><a href=""http://www.leandatainc.com/what-we-do"">Lean Data</a><br>
+</p>",string,,,
+2,Act-On,,,,1,What does Act-on's SFDC integration look like?,,,,,"<p>Ever wonder what the Act-on integration looks like from within SFDC? Here's a screen shot provided by one of my prospects that was very disappointed in their integration, but LOVED ours!</p>
+<p><img src=""/asset/110445?token=7eWKPvi%2Bi0PfBpVhAkYKkUAXO4IBErqPEfb6yCS2rFA%3D""><img src=""/asset/148940?token=lQOF%2BsWy3KiSTE2LJtk1510m2etypEWfp2%2FdhTRc97U%3D""></p>
+<p>Act-on's intelligence section doesn't look as intelligent as ours...</p>",string,,,
+3,Bronto,,,,1,Bronto Demo,,,,,"<p>Here is the link to a demo of Bronto a customer has shared with us. This is <strong>very confidential</strong>, so please do not share it with externally</p><p></p><p><a title="""" href=""https://hubspot.zoom.us/recording/play/2h7tfGB6UsfiC5cB7h8kTycM1VUMZygaSoQGqiSH7vCX6ZMUDjgJeqnHXNfmGAcv?continueMode=true"">Bronto Demo</a></p>",string,,,
+4,ClickDimensions,,,,1,Everything to know about ClickDimensions,,,,,"<p>Information provided by Craig Ellis&nbsp;
+</p>
+<ul>
+	<li>Marketing Automation tool is built specifically for Microsoft Dynamics CRM</li>
+	<li>Small company - only 106 Employees - which means slow product innovation, subpar Support / training / knowledge base in comparison to HubSpot</li>
+	<li>Only 2327 sites indexed using ClickDimensions (<a class=""external-link"" href=""http://t.sidekickopen03.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B9nMJN7t5XZsRYrBCW8rls1W4Xy-5CW3Mqkws56dxz8f5WRsds02?si=X-SIG-APPLE-NOKEY&pi=FFA6301F-5C26-4B0A-8C00-0E8C44726388&t=https%3A%2F%2Fwww%2Edatanyze%2Ecom%2Ftechnologies%2F%3Fid%5Ftechnology%3D1116"">https://www.datanyze.com/technologies/?id_technology=1116</a>) smaller community to lean on for help & best practices</li>
+	<li>Their&nbsp;<a class=""external-link"" href=""http://t.sidekickopen03.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B9nMJN7t5XZsRYrBCW8rls1W4Xy-5CW3Mqkws56dxz8f5WRsds02?si=X-SIG-APPLE-NOKEY&pi=FFA6301F-5C26-4B0A-8C00-0E8C44726388&t=http%3A%2F%2Fclickdimensions%2Ecom%2Ffeatures%2F%23nurture%2Dmarketing"">Nurture Marketing</a>&nbsp;is literally an exact replica of the Pardot Drip Campaign - it’s extremely limiting in that you can only branch on Email Open or Email Click
+	<ul>
+		<li>HubSpot Workflows are much more robust</li>
+	</ul></li>
+	<li>Pricing is based on number of Emails Sent per year - not number of contacts</li>
+	<li>Very little focus on TOFU</li>
+	<li>Customer will still need to Frankenspot</li>
+	<li>No SEO Tools</li>
+	<li>No Social Media Publishing or Monitoring Tools</li>
+	<li>No CMS or Blog capabilities built in</li>
+	<li>We win in the ease of use department hands down (Easy Initiative)</li>
+	<li>Creating beautiful, responsive Emails & LPs is simple in HubSpot - need HTML expertise</li>
+	<li>Big benefit: it is Natively Built Into Microsoft Dynamics CRM - which eliminates the need to sync data between databases</li>
+</ul>
+<blockquote>""Click Dimensions adds marketing automation to Dynamics CRM, which causes the system to become bloated and slow. Dynamics isn't designed to store vast amounts of email tracking, website tracking, website forms, etc. It's much cheaper than HubSpot because it offloads so much of the technology, storage, etc. in CRM, while supplementing it with some cloud systems (like sending emails). I'll admit I don't have first-hand experience with Click Dimensions, but I have worked with clients that switched from it to HubSpot. Slowness and complexity to do simple tasks are the top complaints I've heard about clickdimensions, while the low cost is usually what keeps people using it.&nbsp;<br>They'll get better marketing features with HubSpot while using Dynamics for what it does best. ""<br>-via&nbsp;Daniel Lynton, Diamond Partner
+</blockquote>",string,,,
+5,Eloqua,,,,,,,,,,,,,,
+6,Google Analytics,,,,1,How do I position Google Analytics versus Hubspot Analytics?,,,,reporting,"<p><strong>Overview</strong></p>
+<p>Google Analytics is a web analytics platform used to optimize websites. Its features overlap directly with&nbsp;the <a href=""https://knowledge.hubspot.com/sources-user-guide-v2/how-to-use-sources-report-to-measure-your-marketing-campaigns"">Sources Report</a>, <a href=""https://www.hubspot.com/product-updates/web-analytics-dashboard"">Web Analytics Dashboard</a>, <a href=""https://app.hubspot.com/analytics/1976760/tools"">Traffic Analytics</a>,&nbsp;<a href=""https://www.hubspot.com/products/marketing/ads"">Ads Add-on</a>, and the&nbsp;<a href=""https://www.hubspot.com/products/marketing/reporting-add-on"">Reporting Ad-On</a>.&nbsp;</p>
+<p>Google Analytics provides anonymous data on visitors. This means you can see what a segment of visitors - males, living in Texas, between the ages of 25-29 - are doing on your website but you cannot see WHO specifically is visiting.&nbsp;</p>
+<p>HubSpot enables you to drill into who is taking actions on your site.&nbsp;</p>
+<p><strong>Why does this matter?&nbsp;</strong></p>
+<p>Understanding who is taking actions gives HubSpot two advantages over Google Analytics:</p>
+<ul>
+<li>Market to prospects in a more personal way increasing lead to MQL conversions</li>
+<li>Better understand the ROI of their ads, website, and digital content efforts in a B2B environment to increase visitor to lead conversion rate</li>
+</ul>
+<p><strong>Does HubSpot replace Google Analytics?</strong></p>
+<p>It depends on who you are talking to.</p>
+<p>HubSpot offers significant value to marketers. However, Google Analytics in invaluable in optimizing certain aspects of a company's top of the funnel efforts.&nbsp;</p>
+<p>If you are dealing with a sophisticated team with multiple marketers that has a Full Time Headcount allocated to the website you should position HubSpot as complementary to Google Analytics.</p>
+<p>If you are dealing with a lean team who's core competency is not web design you could position HubSpot as a replacement to google analytics.&nbsp;</p>
+<p>Things to remember about Google Analytics:</p>
+<ul>
+<li><strong>Googles Knows Everything</strong>: Google does not need you to convert on a <a href=""https://support.google.com/analytics/answer/2799357?hl=en"">form to understand your age, zip code, or gender</a>. This enables web teams to dig into their anonymous web traffic data based on segmented list. Below is an example Google Analytics report similar to a HubSpot sources report but segmented by City:<img src=""/asset/141514?token=xl%2F%2FSXyDgVfkfY4nK6ZarYBI13LCwQ7K6gpwaacxi5o%3D"" width=""728"" height=""1031""></li>
+<li><strong>Focus gives Depth:</strong>&nbsp;Focusing solely on web analytics allows Google Analytics to offer a deeper set of features than HubSpot provides in the Web Analytics space. These features enable web teams to optimize site in ways HubSpot cannot. For instance, Google Analytics enables you to determine bounce rate by geography (you cannot do in this in HubSpot). Perhaps you UK customers are bouncing at a higher rate than your US. Google Analytics let you further dig into data to understand why. You could for instance look at how Geography and Screen Resolution impact bounce rate:<img src=""/asset/141518?token=G7R2sfjP%2FJTI3Wu0h1hTDD1YljpDcFnYwi%2FT3MxkfjU%3D"" width=""873"" height=""1236""></li>
+<li><strong>Google Provides a Better Persona Based Understanding of Anonymous Traffic:&nbsp;</strong>Yes, thats is correct. Google lets you define personas for anonymous traffic via <a href=""https://support.google.com/analytics/answer/2611404?hl=en"">audiences</a> and understand what content on your site they are engaging with. HubSpot cannot due this. At HubSpot we use google analytics to break out specific personas and understand what content Markets are most engaged with versus Sales People.&nbsp;</li>
+<li><strong>Not Necessarily User Friendly:</strong>&nbsp;While HubSpot takes 5 minutes to set up - just put the tracking code on - Google Analytics will take some customization. It can due just about anything but requires configuration and potentially custom coding. A lean team will see this as bad while a large team that has someone dedicated full time to web analytics will see this as an advantage.&nbsp;</li>
+</ul>
+<p>If you are dealing with more advanced marketers these&nbsp;points will be important to them. As such, you should position HubSpot as complementary to Google Analytics. We will create a more personal marketing experience for prospects by removing the anonymous data.</p>
+<p>If you are dealing with smaller less sophisticated teams, you may want to position HubSpot as a simpler tool that will get them actionable useful data.&nbsp;</p>
+<p>Source: Josh Brown</p>",string,,,
+7,Hootsuite,,,,1,Can Hootsuite publish to Instagram?,,,,pricing--packaging/marketing-pro,"<p><strong>Short Answer:</strong> yes, with some caveats.</p>
+<p><strong>What's the deal with Instagram publishing?&nbsp;</strong></p>
+<p>Instagram has a closed API, meaning they do not allow third party&nbsp;publishing. This is true even for Hootsuite.</p>
+<p><strong>How does Hootsuite integrate with Instagram if Instagram has a closed API?</strong></p>
+<p>Hootsuite does have some features that they package as a solution to this issue, which makes it easy for marketers to plan out their posts in the Hootsuite mobile app and redirects them to the Instagram app when they are ready to publish.&nbsp;</p>
+<p>Although Hootsuite markets this as a full publishing integration, it is still a workaround to accommodate Instagram's closed API and it is still true that no third party tools can publish to Instagram directly.</p>
+<p>Source: <a href=""https://hootsuite.com/resources/hoot-tip/how-to-add-instagram-to-your-hootsuite-dashboard"">Hootsuite Documentation</a></p>
+<p>also&nbsp;<a href=""https://hootsuite.com/instagram"">https://hootsuite.com/instagram</a></p>",string,,,
+8,Falcon,,,,1,Comparison between HubSpot vs Falcon,,,,,"<p>This comparison document is created by a customer.</p>
+<p><a href=""/asset/oGLz1UmmufWnJbFZoUB42m?token=6h5QYk03bcMs3smqRi82JAF6jATEgCZ9U291HTepE7k%3D"">Falcon v Hubspot Analysis.pdf</a></p>",string,,,
+9,Infusionsoft,,,,1,"What are the differences between HubSpot's integration with SFDC, and Infusionsoft's integration with SFDC?",,,,,"<p>HubSpot has a native integration with Salesforce, meaning it was created and is currently maintained in-house by a team of expert developers. Because this integration was built by HubSpot, 24/7 unmetered support is offered to customers utilizing the integration. Additionally, HubSpot's connector to Salesforce offers a bi-directional sync which ensures information updated in one system will automatically update the other. HubSpot does not charge an additional cost for the integration.</p>
+<p>Infusionsoft does not currently offer a native integration with Salesforce. The only documented integrations online are through Zapier and Workato (<a href=""https://zapier.com/zapbook/infusionsoft/salesforce/"">https://zapier.com/zapbook/infusionsoft/salesforce/ </a>&nbsp;| <a href=""https://www.workato.com/integrations/infusionsoft+salesforce"">https://www.workato.com/integrations/infusionsoft+salesforce</a>), which would limit the support available. Integrations through Zapier are also not bi-directional, so limitations may apply as it relates to the data being mapped from one system to the other. This integration would also require an account with Zapier, which could incur additional&nbsp;cost.</p>",string,,,
+10,Marketo,,,,1,How to handle common HubSpot objections from Marketo,,,,,"<p>This <a href=""https://docs.google.com/document/d/1ybHPiDasUdL1emQBT1QVwY6ZGSeieM6_fxOZt8EJ2fs/edit"">Google doc</a> provides rebuttals against common HubSpot ""weaknesses"" against Marketo including:
+</p>
+<ul>
+	<li>Scalability</li>
+	<li>Deliverability</li>
+	<li>Unreliable system</li>
+	<li>Inability to cross-sell/upsell</li>
+	<li>Reporting on revenue, multi-touch, sales effectiveness</li>
+	<li>Enablement</li>
+	<li>Support</li>
+	<li>Workflow / Automation&nbsp;</li>
+</ul>
+<p>This is for&nbsp;<strong>internal use only</strong>&nbsp;right now, so please use good judgement when referencing or referring to it. Kyle McKay is the owner and I've enabled it for comments so we can comment on specific parts if you have something to add.
+</p>
+<p><a href=""https://docs.google.com/document/d/1ybHPiDasUdL1emQBT1QVwY6ZGSeieM6_fxOZt8EJ2fs/edit"">Google doc</a>
+</p>",string,,,
+10,Marketo,,,,2,Marketo Demo,,,,,"<p>Here is a recording that a Hubspot customer sent to a Corporate rep.&nbsp;</p>
+<p>The recording shows a full Marketo Demo. Make sure that you UGJ and think twice before talking about this publicly as we may get in trouble for that.</p>
+<p><a href=""/asset/143442?token=hmUM31fhcbGFYgqab5%2BdWfRaet1usxv8rVMKCGcSat4%3D"">Marketo Demo October 2017.mp4</a></p>
+<p>&nbsp;</p>",string,,,
+10,Marketo,,,,3,Marketo Email Scripting,,,,,"<p><a href=""http://developers.marketo.com/email-scripting/"">Guide on Marketo's email scripting</a>.
+</p>
+<p>Source: &nbsp;<a class=""in-cell-link"" href=""https://wiki.hubspotcentral.com/display/Sales/Ramp-Up+Block+4+-+Thesis+Project+-+Solving+for+the+Customer+with+Custom+Solutions+and+APIs"">Wiki SE Ramp Up BLOCK 4 Checklist</a><br>
+</p>",string,,,
+10,Marketo,,,,4,Does Marketo provide free trials?,,,,,"<p>I've learnt from a prospect that Marketo will allow prospects to ""play"" with their system with them on the phone on a screen share, most likely inside of one of their demo portals.&nbsp;According to this prospect, he was doing some things and the Marketo rep was helping, taking control and doing some other things on the fly during the call.
+</p>
+<p><br>
+</p>
+<p>This is as far as we know regarding Marketo not providing trials.
+</p>",string,,,
+10,Marketo,,,,5,What do Smart Lists and Workflows look like in Marketo?,,,,,"<p>Just some screenshots pulled off a call. First two images&nbsp;are of Smart Lists and the third image is of their version of Workflows.&nbsp;</p>
+<p><img src=""/asset/105627?token=6Ajt5gI2PFF6OjnRiV%2B5YOMCP7nDXUu2ANhnxa2mtfw%3D""><img src=""/asset/105628?token=JqTX4asBw%2Bwy8IQtOiys3C%2Fbfk4dBYdvKvufQvB7kD8%3D""></p>
+<p><img src=""/asset/105629?token=z5zeu4obI7Msy%2FYdtZMvdFN0x%2F75Z4Axwm9POT%2FJ6hk%3D""></p>
+<p>&nbsp;</p>
+<p>Source:&nbsp;<span style=""background-color: #ffffff"">Anmol Mehta</span></p>",string,,,
+10,Marketo,,,,6,2017 Marketo Conference Recap,,,,,"<p>Zoom recording: <a href=""https://hubspot.zoom.us/recording/play/7zUgJsOHWgSf1Sjct04Xs2pGSFlvQQxTGAuBmgUPKZpwtzugt63YDCJWZFQnpKBK"">https://hubspot.zoom.us/recording/play/7zUgJsOHWgSf1Sjct04Xs2pGSFlvQQxTGAuBmgUPKZpwtzugt63YDCJWZFQnpKBK</a>
+</p>
+<p>Powerpoint Presentation:<br><a href=""https://drive.google.com/file/d/0B14andWKmZUPbkZORW9CbXAyd0E/view?ts=5910966e"">https://drive.google.com/file/d/0B14andWKmZUPbkZORW9CbXAyd0E/view?ts=5910966e</a>
+</p>",string,,,
+10,Marketo,,,,7,How do I sell against specific Marketo features?,,,,,"<p>Marketo’s “Big 4""
+</p>
+<ul>
+	<li><u>Multi-Touch Attribution Reporting with Revenue</u>
+	<ul>
+		<li>Marketo has this very cool feature that associates a dollar value with several touches throughout their sales cycle</li>
+		<li>HubSpot looks at attribution differently - provides a score (1-100) based on the number of contacts, MQLs, SQLs, Customers, etc.&nbsp;by each source, page, etc.</li>
+		<li>HubSpot builds these reports for you based on the metrics you’re looking to surface (build report from scratch)
+		<ul>
+			<li>Non-invasive Q's to ask
+			<ul>
+				<li><i>Has your Marketo rep shown you how to configure this?</i>
+				<ul>
+					<li><i>&nbsp; &nbsp; <em>This may be a great cool, but complicated to configure - Hubspot builds the reports for you, saving time in the process.</em></i></li>
+				</ul></li>
+			</ul></li>
+		</ul></li>
+	</ul></li>
+	<li><u>Content Tagging</u>
+	<ul>
+		<li>Marketo has a feature that allows you to tag content offerings rather than Contacts, which can be useful for individuals with TONs of content. This tool could save them from creating an automation rule for each content offering.</li>
+		<li>HubSpot tags on the contact object, not individual pieces of content
+		<ul>
+			<li>Using workflows we can automatically tag a contact based on what they’re downloading and other marketing activity</li>
+			<li><i>How many pieces of content do you have today? (less than 50…)</i></li>
+			<li>Think of time spent building workflows.. Realistically building 50 workflows for each piece of content could take under an hour... Do you have an hour to invest in your content to contact tagging?</li>
+		</ul></li>
+	</ul></li>
+	<li><u>Multi-Vertical Lead Scoring Models</u>
+	<ul>
+		<li>Marketo allows you to build several lead scoring models, HubSpot only offers 1 (based on positive and negative attributes)</li>
+		<li>HubSpot simplifies lead scoring using positive and negative attributes - assign a numerical value to contacts that perform certain actions or have particular value associated with them (industry, location, etc.)</li>
+		<li>You can combine lead score with other attributes to influence your segmentation and automation campaigns
+		<ul>
+			<li>Lead score + industry</li>
+			<li>Lead score + product category
+			<ul>
+				<li><i>Increment another numeric contact property value</i></li>
+			</ul></li>
+			<li>Lead score + app engagement
+			<ul>
+				<li>Use the above to fuel automation</li>
+			</ul></li>
+		</ul></li>
+		<li><i>Has your Marketo rep shown you how to configure this?</i></li>
+		<li><i>How many lead scoring models to you envision needing?</i></li>
+	</ul></li>
+	<li><u>Campaign tokens for automation cloning</u>
+	<ul>
+		<li>You can clone automation campaigns within HubSpot and only minor edits to email content, delays, goals, etc. would be necessary</li>
+		<li>Change all of your assets (Marketo is the only one that offers this feature, if this is ALL you want, go with Marketo)</li>
+	</ul></li>
+</ul>
+<p>We always try to avoid a feature battle when speaking on Competitive deals, but sometimes our prospects have been coached by Marketo reps during their evaluation and we need to ensure we have a plan of attack when these things come up. Usually if someone NEEDS all 4 of the features above, they should go with Marketo. But 1-2 out of 4 we can usually win by simply explaining how HubSpot looks at tools like attribution and lead scoring, while leveraging intuitiveness, support and onboarding (all things Marketo lacks).
+</p>
+<p>When people are set in their ways, you can always ask:
+</p>
+<p>""Great, what else is important to your Marketing efforts?""
+</p>",string,,,
+10,Marketo,,,,8,Marketo SSL Pricing,,,,,"<p>1. The pricing we have suggests they charge $1,200/year for SSL
+</p>
+<p>2. It takes 3+ weeks to setup (at which time you may be losing traffic and leads due to the ""not secure"" warning)
+</p>
+<p>Source: <a href=""https://nation.marketo.com/docs/DOC-5168-upcoming-changes-to-the-chrome-browser"">https://nation.marketo.com/docs/DOC-5168-upcoming-changes-to-the-chrome-browser</a><br>
+</p>",string,,,
+10,Marketo,,,,9,"Marketo allows me to easily pass our custom cookie into a hidden form field with every submission, how does HubSpot accomplish this?",,,,,"<p>I recently had a prospect explain a very niche Marketo feature to me that I had not heard of before, but it was very important to their business. After explaining how HubSpot cookies web visitors, he still insisted that he needs to pass his custom cookie through within a hidden form field&nbsp;with every form submission. It was ultimately for database segmentation purposes.
+</p>
+<p>Marketo has a very advanced 'set a hidden form field' feature that allows marketers to select 'cookie' as a hidden parameter:&nbsp;<a href=""http://docs.marketo.com/display/public/DOCS/Set+a+Hidden+Form+Field+Value#SetaHiddenFormFieldValue-CookieValue"">http://docs.marketo.com/display/public/DOCS/Set+a+Hidden+Form+Field+Value#SetaHiddenFormFieldValue-CookieValue</a>
+</p>
+<p>HubSpot does not have a feature like this, but we can still accomplish their goals by customizing the form embed code:&nbsp;<a href=""https://developers.hubspot.com/docs/methods/forms/advanced_form_options"">https://developers.hubspot.com/docs/methods/forms/advanced_form_options</a>
+</p>
+<p>In this situation, you'd write some Javascript that captures the cookie and passes that value through as a hidden form field:&nbsp;<a href=""https://www.w3schools.com/js/js_cookies.asp"">https://www.w3schools.com/js/js_cookies.asp</a><span class=""redactor-invisible-space""></span>
+</p>
+<p><span class=""redactor-invisible-space"">Obviously not as simple as the Marketo solution, but still good to have in our back pocket in case this comes up on your calls.</span>
+</p>",string,,,
+10,Marketo,,,,10,Marketo Competitive Doc December 2017,,,,,"<p><a href=""/asset/meUfg31AgFd1W7Kxfd6YKb?token=bsG1HxoQwZwxbIpFzAN6jndhtfx6SaUx4pAmehtaaOs%3D"">HubSpot Competitive Q's.xls</a>
+</p>
+<p>This document appears on the sales floor at November 2017 end of month. Although there are some layers of truth, there is a lot of FUD which we've combatted in the answers column.
+</p>
+<p>Source: Sales Floor / Answers by Sarah
+</p>",string,,,
+10,Marketo,,,,11,Marketo vs. HubSpot (From a Marketo Rep),,,,,"<p>Here is a comparison spreadsheet between HubSpot and Marketo that a Marketo rep sent to a prospect, who then shared it with us.</p>
+<p>Take a look so you know what to expect in a&nbsp;competitive situation and potentially address these points before they come up.</p>
+<p>&nbsp;</p>
+<p><a href=""/asset/rJBGMfkdzbv12nnP1ocYuf?token=GqqozolxezQSTjn5YJQeNRGE6eP%2F4UaZfxxDPNNLQDg%3D"">Marketo vs Hubspot Side by Side.xlsm</a></p>",string,,,
+11,Microsoft Dynamics Marketing,,,,1,What is the new Microsoft Dynamics Marketing?,Microsoft Dynamics Marketing - New,,,,"<p style=""background-color: #ffffff""><u><strong>Update Apr 2018:</strong></u></p>
+<p style=""background-color: #ffffff"">Microsoft canned Dynamics Marketing and advised their customers to use Adobe Cloud... meanwhile they were rebuilding the Dynamics Marketing Platform. There is no Live Demo as such but I have acquired this PDF of what is to come see below:</p>
+<p style=""background-color: #ffffff""><a href=""/asset/pbiBnHa7TtCzxE4mbrptJZ?token=Q9edqJw2c5MD6VBVc0XDmXRWQ6tH2ZMeYXgo%2BAT%2BZko%3D"">MS Dynamics D365 for Marketing (1).pdf</a></p>
+<p style=""background-color: #ffffff"">&nbsp;</p>",string,Dynamics Marketing,,
+11,Microsoft Dynamics Marketing,,,,2,Everything to know about Microsoft Dynamics 365 Marketing,,,,,"<p style=""background-color: #ffffff"">Last year, Microsoft announced that Microsoft Dynamics Marketing would no longer be sold to new customers starting November 2016.<br>Microsoft has made the decision that&nbsp;<strong>Microsoft Dynamics Marketing will be discontinued as of May 15, 2018</strong>.</p>
+<p style=""background-color: #ffffff"">With the discontinuation of service, Microsoft suggests customers explore a few options that may serve their on-going marketing needs, such as: Microsoft Dynamics 365 for Marketing, Adobe Marketing Cloud, and other partner solutions. A new online service, Microsoft Dynamics 365 for Marketing is expected to release in&nbsp;<strong>Spring 2018</strong>&nbsp;and will be available for customers to preview before then. In the meantime, they suggest that enterprise customers or customers with more advanced marketing needs consider Adobe Marketing Cloud.&nbsp;</p>
+<h2><span style=""font-size: 14pt"">How does this product decision impact current subscriptions?</span></h2>
+<p style=""background-color: #ffffff"">All customers received a document explaining the licensing impact in detail. Here&rsquo;s a brief summary of the essential information:<br>Our customers may continue to use the Microsoft Dynamics Marketing service as they do now for the remaining term of their subscription or until the date of discontinuation of service, May 15, 2018, whichever occurs first. Customers can retrieve their organization&rsquo;s data for up to 90 days from the end of their subscription or the discontinuation of the service, whichever occurs first.<br>But even better: To help lessen the financial impact on our customers, starting October 1, 2017, we will no longer charge a monthly fee for using the Microsoft Dynamics Marketing service! We will also give prorated credits for prepaid licensing fees for the period between October 1, 2017 until the end of your subscription or May 15, 2018, whichever occurs first. <br>In addition, customers now will be able to extend their subscription until May 15, 2018.</p>
+<h2><span style=""font-size: 14pt"">Details about Microsoft Dynamics 365 for Marketing</span></h2>
+<p style=""background-color: #ffffff"">Our new service, Microsoft Dynamics 365 for Marketing is expected to be released in&nbsp;<strong>Spring 2018</strong>&nbsp;in select countries and will be available for preview to our Microsoft Dynamics Marketing customers before then. Customers can sign up for the preview and will be notified when the preview is available:&nbsp;<a style=""color: #337ab7 ; background-color: transparent ; text-decoration: none"" href=""https://connect.microsoft.com/dynamicscustomerengagement"">https://connect.microsoft.com/dynamicscustomerengagement</a></p>
+<p style=""background-color: #ffffff"">Microsoft Dynamics 365 for Marketing will include features and benefits that our Microsoft Dynamics Marketing customers will find very appealing including audience management and segmentation, messaging based marketing via email, web marketing through landing pages and tracking, campaign management with functionality to model and manage customer journeys across marketing and sales, lead generation and scoring, event management, customer 360 views and analytics.</p>
+<p style=""background-color: #ffffff"">Microsoft Dynamics 365 for Marketing will be built on the same Dynamics 365 platform as Microsoft Dynamics 365 for Sales and therefore not only supports interoperability between different apps but also provides excellent options for customizations and extensions.</p>
+<p style=""background-color: #ffffff"">This comparison chart gives a high-level overview of the supported marketing functionality in comparison:</p>
+<p style=""background-color: #ffffff"">&nbsp;</p>
+<table style=""background-color: #ffffff ; width: 499px"">
+<tbody>
+<tr style=""height: 62px"">
+<td style=""width: 246px ; height: 62px"">&nbsp;</td>
+<td style=""width: 89px ; height: 62px"">
+<p><strong>Dynamics&nbsp;</strong></p>
+<p><strong style=""font-size: inherit"">Marketing</strong></p>
+</td>
+<td style=""width: 118px ; height: 62px"">
+<p><strong>Dynamics 365</strong></p>
+<p><strong style=""font-size: inherit"">for Marketing</strong></p>
+</td>
+</tr>
+<tr style=""height: 21px"">
+<td style=""width: 246px ; height: 21px"">Multi-Channel Campaigns</td>
+<td style=""width: 89px ; height: 21px"">&nbsp;</td>
+<td style=""width: 118px ; height: 21px"">&nbsp;</td>
+</tr>
+<tr style=""height: 31px"">
+<td style=""width: 246px ; height: 31px"">Visual Campaign automation</td>
+<td style=""width: 89px ; text-align: center ; height: 31px""><img class=""emoji"" draggable=""false"" src=""https://s.w.org/images/core/emoji/2.3/svg/2714.svg"" alt=""✔"" width=""25"" height=""25""></td>
+<td style=""width: 118px ; text-align: center ; height: 31px""><img class=""emoji"" draggable=""false"" src=""https://s.w.org/images/core/emoji/2.3/svg/2714.svg"" alt=""✔"" width=""25"" height=""25""></td>
+</tr>
+<tr style=""height: 31px"">
+<td style=""width: 246px ; height: 31px"">Email Marketing</td>
+<td style=""width: 89px ; text-align: center ; height: 31px""><img class=""emoji"" draggable=""false"" src=""https://s.w.org/images/core/emoji/2.3/svg/2714.svg"" alt=""✔"" width=""25"" height=""25""></td>
+<td style=""width: 118px ; text-align: center ; height: 31px""><img class=""emoji"" draggable=""false"" src=""https://s.w.org/images/core/emoji/2.3/svg/2714.svg"" alt=""✔"" width=""25"" height=""25""></td>
+</tr>
+<tr style=""height: 31px"">
+<td style=""width: 246px ; height: 31px"">SMS Marketing</td>
+<td style=""width: 89px ; text-align: center ; height: 31px""><img class=""emoji"" draggable=""false"" src=""https://s.w.org/images/core/emoji/2.3/svg/2714.svg"" alt=""✔"" width=""25"" height=""25""></td>
+<td style=""width: 118px ; text-align: center ; height: 31px""><strong>*</strong></td>
+</tr>
+<tr style=""height: 31px"">
+<td style=""width: 246px ; height: 31px"">Linked In-channel</td>
+<td style=""width: 89px ; text-align: center ; height: 31px"">&nbsp;</td>
+<td style=""width: 118px ; text-align: center ; height: 31px""><img class=""emoji"" draggable=""false"" src=""https://s.w.org/images/core/emoji/2.3/svg/2714.svg"" alt=""✔"" width=""25"" height=""25""></td>
+</tr>
+<tr style=""height: 31px"">
+<td style=""width: 246px ; height: 31px"">Webinar</td>
+<td style=""width: 89px ; text-align: center ; height: 31px"">&nbsp;</td>
+<td style=""width: 118px ; text-align: center ; height: 31px""><img class=""emoji"" draggable=""false"" src=""https://s.w.org/images/core/emoji/2.3/svg/2714.svg"" alt=""✔"" width=""25"" height=""25""></td>
+</tr>
+<tr style=""height: 31px"">
+<td style=""width: 246px ; height: 31px"">Web Tracking and Content</td>
+<td style=""width: 89px ; text-align: center ; height: 31px""><img class=""emoji"" draggable=""false"" src=""https://s.w.org/images/core/emoji/2.3/svg/2714.svg"" alt=""✔"" width=""25"" height=""25""></td>
+<td style=""width: 118px ; text-align: center ; height: 31px""><img class=""emoji"" draggable=""false"" src=""https://s.w.org/images/core/emoji/2.3/svg/2714.svg"" alt=""✔"" width=""25"" height=""25""></td>
+</tr>
+<tr style=""height: 31px"">
+<td style=""width: 246px ; height: 31px"">Landing Pages</td>
+<td style=""width: 89px ; text-align: center ; height: 31px""><img class=""emoji"" draggable=""false"" src=""https://s.w.org/images/core/emoji/2.3/svg/2714.svg"" alt=""✔"" width=""25"" height=""25""></td>
+<td style=""width: 118px ; text-align: center ; height: 31px""><img class=""emoji"" draggable=""false"" src=""https://s.w.org/images/core/emoji/2.3/svg/2714.svg"" alt=""✔"" width=""25"" height=""25""></td>
+</tr>
+<tr style=""height: 31px"">
+<td style=""width: 246px ; height: 31px"">Marketing content delivery</td>
+<td style=""width: 89px ; text-align: center ; height: 31px""><img class=""emoji"" draggable=""false"" src=""https://s.w.org/images/core/emoji/2.3/svg/2714.svg"" alt=""✔"" width=""25"" height=""25""></td>
+<td style=""width: 118px ; text-align: center ; height: 31px""><img class=""emoji"" draggable=""false"" src=""https://s.w.org/images/core/emoji/2.3/svg/2714.svg"" alt=""✔"" width=""25"" height=""25""></td>
+</tr>
+<tr style=""height: 31px"">
+<td style=""width: 246px ; height: 31px"">Lead Management</td>
+<td style=""width: 89px ; text-align: center ; height: 31px""><img class=""emoji"" draggable=""false"" src=""https://s.w.org/images/core/emoji/2.3/svg/2714.svg"" alt=""✔"" width=""25"" height=""25""></td>
+<td style=""width: 118px ; text-align: center ; height: 31px""><img class=""emoji"" draggable=""false"" src=""https://s.w.org/images/core/emoji/2.3/svg/2714.svg"" alt=""✔"" width=""25"" height=""25""></td>
+</tr>
+<tr style=""height: 31px"">
+<td style=""width: 246px ; height: 31px"">Event Management</td>
+<td style=""width: 89px ; text-align: center ; height: 31px""><img class=""emoji"" draggable=""false"" src=""https://s.w.org/images/core/emoji/2.3/svg/2714.svg"" alt=""✔"" width=""25"" height=""25""></td>
+<td style=""width: 118px ; text-align: center ; height: 31px""><img class=""emoji"" draggable=""false"" src=""https://s.w.org/images/core/emoji/2.3/svg/2714.svg"" alt=""✔"" width=""25"" height=""25""></td>
+</tr>
+<tr style=""height: 31px"">
+<td style=""width: 246px ; height: 31px"">Sales collaboration</td>
+<td style=""width: 89px ; text-align: center ; height: 31px""><img class=""emoji"" draggable=""false"" src=""https://s.w.org/images/core/emoji/2.3/svg/2714.svg"" alt=""✔"" width=""25"" height=""25""></td>
+<td style=""width: 118px ; text-align: center ; height: 31px""><img class=""emoji"" draggable=""false"" src=""https://s.w.org/images/core/emoji/2.3/svg/2714.svg"" alt=""✔"" width=""25"" height=""25""></td>
+</tr>
+<tr style=""height: 31px"">
+<td style=""width: 246px ; height: 31px"">Segmentation</td>
+<td style=""width: 89px ; text-align: center ; height: 31px""><img class=""emoji"" draggable=""false"" src=""https://s.w.org/images/core/emoji/2.3/svg/2714.svg"" alt=""✔"" width=""25"" height=""25""></td>
+<td style=""width: 118px ; text-align: center ; height: 31px""><img class=""emoji"" draggable=""false"" src=""https://s.w.org/images/core/emoji/2.3/svg/2714.svg"" alt=""✔"" width=""25"" height=""25""></td>
+</tr>
+<tr style=""height: 31px"">
+<td style=""width: 246px ; height: 31px"">Customer Insights, Profiling Cust 360</td>
+<td style=""width: 89px ; text-align: center ; height: 31px"">&nbsp;</td>
+<td style=""width: 118px ; text-align: center ; height: 31px""><img class=""emoji"" draggable=""false"" src=""https://s.w.org/images/core/emoji/2.3/svg/2714.svg"" alt=""✔"" width=""25"" height=""25""></td>
+</tr>
+<tr style=""height: 31px"">
+<td style=""width: 246px ; height: 31px"">Reporting and Analytics</td>
+<td style=""width: 89px ; text-align: center ; height: 31px""><img class=""emoji"" draggable=""false"" src=""https://s.w.org/images/core/emoji/2.3/svg/2714.svg"" alt=""✔"" width=""25"" height=""25""></td>
+<td style=""width: 118px ; text-align: center ; height: 31px""><img class=""emoji"" draggable=""false"" src=""https://s.w.org/images/core/emoji/2.3/svg/2714.svg"" alt=""✔"" width=""25"" height=""25""></td>
+</tr>
+<tr style=""height: 31px"">
+<td style=""width: 246px ; height: 31px"">SDK / Extensions / Customization</td>
+<td style=""width: 89px ; text-align: center ; height: 31px""><img class=""emoji"" draggable=""false"" src=""https://s.w.org/images/core/emoji/2.3/svg/2714.svg"" alt=""✔"" width=""25"" height=""25""></td>
+<td style=""width: 118px ; text-align: center ; height: 31px""><img class=""emoji"" draggable=""false"" src=""https://s.w.org/images/core/emoji/2.3/svg/2714.svg"" alt=""✔"" width=""25"" height=""25""></td>
+</tr>
+<tr style=""height: 31px"">
+<td style=""width: 246px ; height: 31px"">Integration / Process / Workflow</td>
+<td style=""width: 89px ; text-align: center ; height: 31px""><img class=""emoji"" draggable=""false"" src=""https://s.w.org/images/core/emoji/2.3/svg/2714.svg"" alt=""✔"" width=""25"" height=""25""></td>
+<td style=""width: 118px ; text-align: center ; height: 31px""><img class=""emoji"" draggable=""false"" src=""https://s.w.org/images/core/emoji/2.3/svg/2714.svg"" alt=""✔"" width=""25"" height=""25""></td>
+</tr>
+<tr style=""height: 33px"">
+<td style=""width: 246px ; height: 33px"">Project Management</td>
+<td style=""width: 89px ; text-align: center ; height: 33px""><img class=""emoji"" draggable=""false"" src=""https://s.w.org/images/core/emoji/2.3/svg/2714.svg"" alt=""✔"" width=""27"" height=""27""></td>
+<td style=""width: 118px ; text-align: center ; height: 33px"">&nbsp;</td>
+</tr>
+<tr style=""height: 33px"">
+<td style=""width: 246px ; height: 33px"">Budget Management</td>
+<td style=""width: 89px ; text-align: center ; height: 33px""><img class=""emoji"" draggable=""false"" src=""https://s.w.org/images/core/emoji/2.3/svg/2714.svg"" alt=""✔"" width=""27"" height=""27""></td>
+<td style=""width: 118px ; text-align: center ; height: 33px"">&nbsp;</td>
+</tr>
+<tr style=""height: 27.5625px"">
+<td style=""width: 246px ; height: 27.5625px"">Asset & Media Management</td>
+<td style=""width: 89px ; text-align: center ; height: 27.5625px""><img class=""emoji"" draggable=""false"" src=""https://s.w.org/images/core/emoji/2.3/svg/2714.svg"" alt=""✔"" width=""25"" height=""25""></td>
+<td style=""width: 118px ; text-align: center ; height: 27.5625px"">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p style=""background-color: #ffffff ; text-align: left""><em><span style=""color: #000000"">* SMS marketing channel will be available as custom channel provided by a 3</span><sup style=""font-size: 10.5px""><span style=""color: #000000 ; font-size: small"">rd</span></sup><span style=""color: #000000"">&nbsp;party communication channel provider.</span></em></p>
+<h2 style=""text-align: left""><span style=""font-size: 18pt"">Questions and Answers</span></h2>
+<h3 style=""text-align: left"">Can Microsoft Dynamics Marketing customers transition to Dynamics 365 for Marketing?</h3>
+<p style=""background-color: #ffffff ; text-align: left"">A transition from Microsoft Dynamics Marketing to the Microsoft Dynamics 365 for Marketing will require some effort and should be considered a re-implementation of the marketing execution from a technical and project viewpoint. With the use of the Microsoft Dynamics Marketing Connector for Dynamics 365, customers can prepare by migrating certain data to Dynamics 365. Customers can then build new segments, customer journeys, marketing email and landing pages in Microsoft Dynamics 365 for Marketing.</p>
+<h3 style=""text-align: left"">Should customers consider Adobe Marketing Cloud instead?</h3>
+<p style=""background-color: #ffffff ; text-align: left"">Adobe Marketing Cloud is the recommended marketing solution for Microsoft Dynamics 365 enterprise customers. Customers using the Campaign Management functionality of Microsoft Dynamics Marketing in global, enterprise-scale deployments should consider migrating to Adobe Campaign Management as the foundation for a broader enterprise marketing strategy.</p>
+<p style=""background-color: #ffffff ; text-align: left"">&nbsp;</p>
+<h3 style=""text-align: left"">What 3rd party solution does Microsoft recommend for Marketing Resource Management (like marketing project management, budgeting, asset management)?</h3>
+<p style=""background-color: #ffffff ; text-align: left"">Migration options are limited for Microsoft Dynamics Marketing customers using Marketing Resource Management functionality (including project management, budgeting, and asset management) as Microsoft Dynamics 365 for Marketing will not include equivalent Marketing Resource Management functionality. Customers should evaluate if a different application from Microsoft Dynamics 365 or third-party solutions meet their requirements.</p>
+<h3>Where can a customer get help with the transition process?</h3>
+<p style=""background-color: #ffffff ; text-align: left"">Microsoft is committed to helping make the transition as smooth as possible and is asking Customers to contact their Microsoft partner or account representative.&nbsp;</p>
+<p style=""text-align: left"">___________________________________________________________________________________________________________________________________________________</p>
+<p style=""text-align: left"">Microsoft Dynamics Marketing features a new marketing campaign management tool from Microsoft that is designed to help marketing professionals plan and deliver engaging campaigns that return concrete, quantifiable results. Microsoft Dynamics Marketing campaign management focuses on helping companies market smarter by attracting customers through multi-channel, multi-stage campaigns; building the sales pipeline through lead scoring and automated lead qualification; and demonstrating return on investment with advanced marketing analytics in the form of dashboards, reports, and Excel PowerView.</p>
+<p style=""text-align: left"">Microsoft Dynamics Marketing is a member of a suite of integrated products designed to support sales and marketing departments in the Microsoft Stack. Other related products include Microsoft Dynamics 365 and Microsoft Social Engagement. For Dynamics 365 users, Dynamics Marketing offers the following integration points:</p>
+<ul style=""text-align: left"">
+<li>Data synchronization: Contacts, campaigns, leads, and many other types of data can be synchronized between Dynamics Marketing and Dynamics 365, thus enabling marketing and sales people to coordinate their efforts.</li>
+<li>Seller portal: Allows Dynamics 365 users to gain direct access to a small part of Dynamics Marketing for the purpose of inspecting all marketing messages that have been sent, and will be sent, to their sales contacts. Salespeople can also edit contacts&rsquo; exposure to campaigns and marketing emails, preventing inappropriate messages from clogging their inboxes. In this way, salespeople can always be well informed when meeting with their sales contacts and, because salespeople know their contacts best, they are often the best judge of which marketing initiatives are most appropriate for each contact.</li>
+<li>View contact engagement: Dynamics 365 users can see a complete summary of how any given contact has interacted with email marketing messages, landing pages, and websites. This can give insights into each contact&rsquo;s interests and willingness to buy.</li>
+<li>Receive alerts when contacts engage: Dynamics 365 users can configure email alerts that let them know when given contacts perform any of several types of actions. For example, find out right away when a hot lead has visited a specific website, opened a marketing email, or registered for an event or offer.</li>
+</ul>
+<p style=""text-align: left""><strong>Costs</strong>:</p>
+<p style=""text-align: left""><u>Microsoft Dynamics Marketing Pricing and Availability</u></p>
+<p style=""text-align: left"">Microsoft Dynamics Marketing campaign management is available as a stand-alone service from Microsoft Online Services Platform. It is also available as part of the Microsoft Dynamics CRM Enterprise license.</p>
+<p style=""text-align: left""><u>Microsoft Dynamics Marketing (stand-alone service)</u></p>
+<p style=""text-align: left"">Microsoft Dynamics Marketing campaign management is available as a stand-alone cloud service and can be integrated with on-premises and hosted deployments of Microsoft Dynamics CRM 2015 deployments using the Marketing Connector for Microsoft Dynamics CRM.</p>
+<ul style=""text-align: left"">
+<li>$125/month for full User Subscription License (USL)</li>
+<li>Includes 5 GB Storage</li>
+<li>50,000 emails/month</li>
+</ul>
+<p style=""text-align: left""><u>Microsoft Dynamics CRM Enterprise license</u></p>
+<p style=""text-align: left"">The Microsoft Dynamics includes Microsoft Dynamics Marketing, Microsoft Dynamics CRM and Microsoft Social Listening all in one package. The bundle is recommended for enterprise marketing professionals. Taking advantage of the bundle consolidates your efforts and rewards you with cost savings.</p>
+<ul style=""text-align: left"">
+<li>$200/month for full User Subscription License (USL)</li>
+<li>The Enterprise license includes Parature and the Unified Service Desk for customer service</li>
+</ul>
+<p style=""text-align: left""><u>Add-Ons for Microsoft Dynamics Marketing</u></p>
+<ul style=""text-align: left"">
+<li>Additional Product Instances available at $250/month</li>
+<li>Additional test instances available at $150/month</li>
+<li>Added storage @ $9.99/GB/month</li>
+<li>Microsoft email marketing service for messaging available for $50/10,000 messages</li>
+</ul>
+<p style=""text-align: left"">&nbsp;</p>
+<p style=""text-align: left""><strong>Source</strong>:&nbsp;Information provided by Craig Ellis</p>",string,,,
+12,Pardot,,,,1,How do I sell against specific Pardot features?,,,,,"<ul>
+<li><u>Form Handlers: &nbsp;&nbsp;</u>https://help.salesforce.com/articleView?id=pardot_form_handlers.htm&type=0
+<ul>
+<li>This feature allows users to manage their forms outside of Pardot (Wordpress, Unbounce) and still submit form data to Pardot without server-side edits needed.</li>
+<li>Browser-side POST
+<ul>
+<li>POST action URL - all the data is sent to Pardot, but no&nbsp;control over which fields of info are sent
+<ul>
+<li><em>HubSpot&rsquo;s solution (Forms API) is much more flexible, you control which fields HubSpot knows about (eliminate ""password"" ""SSN"" or other NPPI)</em></li>
+<li><em>Why not use a HubSpot form if&nbsp;everything is meant to be sent back to your CRM? (embed code with the option to remove HubSpot styling is a simple solution)</em></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><u>Completion Actions: &nbsp;</u>https://help.salesforce.com/articleView?id=pardot_completion_actions_overview.htm&type=0
+<ul>
+<li>Pardot allows users to automate certain actions without having to set and automation rule for each</li>
+<li>Completion actions are available with:
+<ul>
+<li>forms, form handlers, files, custom redirects, emails, page actions</li>
+</ul>
+</li>
+<li><em>Great, but that's one of multiple&nbsp;places you manage automation - in time, completion actions won't be scalable</em>
+<ul>
+<li><em>We have 1 =&nbsp;Workflows</em></li>
+<li><em>You&rsquo;ll see your rules where every other rule is, no jumping from tool to tool, or asset to asset to see which completion action is set</em></li>
+<li><em>Organized, manageable in HubSpot</em></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Custom Redirects:&nbsp;<a href=""http://help.pardot.com/customer/portal/articles/2134373-creating-custom-redirects"">http://help.pardot.com/customer/portal/articles/2134373-creating-custom-redirects</a>
+<ul>
+<li>Need the use-case with this feature...</li>
+<li>Essentially allows clicks from 3rd party sites to show up on the contact's record</li>
+<li><em>How do you use this data to influence your marketing initiatives?</em></li>
+</ul>
+</li>
+<li>Again, always try to avoid a feature battle, but I had a rep lose a deal because of these specific features alone (probably not a good fit). Helps to be aware of what we're up against!</li>
+</ul>",string,,,
+12,Pardot,,,,2,What is the difference between Pardot and Marketing Cloud?,,,,,"<p><br>Marketing Cloud is SalesForce's&nbsp;blanket categorization of their full suite of marketing/social/advertising capabilities. Pardot is a part of that. Here is the run down of what is under the ""Marketing Cloud"" naming structure.
+</p>
+<ul>
+	<li>Marketing Cloud suite (originated from the ExactTarget acquisition):
+	<ul>
+		<li>Generally considered the B2C side of the house, but incorporates components (Ad Studio, Social Studio) that are frequently included in B2B packages and programs, or sold a la carte.
+		<ul>
+			<li>Email</li>
+			<li>SMS/Text</li>
+			<li>Push Messaging</li>
+			<li>Ads (1st party driven; extremely potent; compliant; allows for refined and agile audience creation that can be executed against via your Adwords (Google Web, gmail, YouTube) and/or Facebook (FB, Insta) ad platforms.</li>
+			<li>Social</li>
+			<li>Web (landing pages, etc.)</li>
+			<li>Open data structure - not Salesforce CRM dependent - but has a 2-way near-real time data synch.</li>
+			<li>X-Channel journey management</li>
+		</ul></li>
+	</ul></li>
+	<li>Pardot suite:
+	<ul>
+		<li>Email</li>
+		<li>Landing pages (forms, etc.)</li>
+		<li>Web activity tracking</li>
+		<li>Lead scoring/grading</li>
+		<li>Engagement Studio: create action/data-based journeys across email and landing pages and ads for leads</li>
+		<li>Salesforce Engage: Connects the dots seamlessly between marketing and sales. Alerts Sales to new leads, provides real time alerts when leads are taking action on website, emails, forms; allows for sales to access compliant email templates (locked down completely or with minor room for edits) that are created by marketing/product; allows for sales to enter a contact or group of contacts into a nurture stream (for events (as we discussed) or for leads who say, ""ping me&nbsp;<span class=""m_-6066465364749609690gmail-aBn"">in 3 months</span>..."" (you can launch them into a marketing created nurture stream));, etc.</li>
+		<li>B2B Wave Analytics: Get deep insights into which campaigns, assets, etc. are driving action. Very visual and manipulatable.</li>
+		<li>Ad Studio: This ""Marketing Cloud"" piece can be harnessed to deliver ads to the right individual at the right time based on where they are in your journey. Also allows for the suppression of ads to people based on where they are in their journey with you. Facebook and Google properties - when applied appropriately - have driven a great deal of success for our B2B customers and with Google and FB Advanced Match we are seeing match rates north of 65%.</li>
+		<li>Social Studio can be purchased a la carte, regardless of any product mix.</li>
+	</ul>Source: This came from a Pardot rep. He was explaining how Pardot fits into Marketing Cloud to a HubSpot prospect.&nbsp;</li>
+</ul>",string,,,
+12,Pardot,,,,3,Pardot Limitations,,,,,"<p>Received a spreadsheet from a Corporate prospect who uses Pardot for their Global Marketing efforts in 3 different regions (USA, EMEA, APAC).&nbsp;
+</p>
+<p>A lot of great stuff here to really learn and remember when you go against Pardot, not so much to undermine Pardot as a platform (we're HubSpot, we're better than that), but to use this info to your advantage when you demo HubSpot.
+</p>
+<p>I highlighted the most important ones as some are related to how this company (Exponential) is using/not using Pardot.
+</p>
+<p><strong><u>Pardot Limitations:</u></strong>
+</p>
+<ul>
+	<li><span style=""font-size: 14px"">We aren’t using the engage email&nbsp;function which allows the sales team to pick and choose marketing approved&nbsp;emails within salesforce.</span></li>
+	<li><span style=""font-size: 14px"">Currently unable to pre-schedule drip campaigns and tie into the Campaigns section of Salesforce</span></li>
+	<li><span style=""font-size: 14px"">Currently unable&nbsp;to send against a gated date just expected time window.</span></li>
+	<li><span style=""font-size: 14px""><span style=""background-color: rgb(255 , 255 , 0)""><strong>Clunky workflow</strong></span><br></span></li>
+	<li><strong><span style=""background-color: rgb(255 , 255 , 0)""><span style=""font-size: 14px"">No top of funnel tools (Blog or newsletter)</span></span></strong></li>
+	<li><strong><span style=""background-color: rgb(255 , 255 , 0)""><span style=""font-size: 14px"">Requires too much work for admin functions.</span></span></strong></li>
+	<li><span style=""font-size: 14px"">Exponential hasn’t been cleansing our contact lists efficiently. Currently the only way to update lists is on an excel spreadsheet level. We should be able to pull in new contacts from salesforce and update list.</span></li>
+	<li><span style=""font-size: 14px"">SEO optimization with proper CTA or tracking lines.</span></li>
+	<li><span style=""font-size: 14px""><strong><span style=""background-color: rgb(255 , 255 , 0)"">Requires heavy HTML coding</span></strong> (solicit design help every time we create an asset) to create landing pages and emails. A template builder would be helpful.</span></li>
+	<li><strong><span style=""background-color: rgb(255 , 255 , 0)""><span style=""font-size: 14px"">Customer service/support is awful.</span></span></strong></li>
+	<li><span style=""font-size: 14px""><strong><span style=""background-color: rgb(255 , 255 , 0)""></span></strong>
+	Not able to send SMS’s
+	</span></li>
+	<li><span style=""font-size: 14px"">
+	<strong><span style=""background-color: rgb(255 , 255 , 0)"">Storage limit on files – currently at 100MB</span></strong></span></li>
+	<li><span style=""font-size: 14px"">Hosting files on its individual webpage, instead of auto downloading material onto your desktop</span></li>
+	<li><span style=""font-size: 14px"">eDM Templates provided are not very flexible – and we need to build our own&nbsp;HTML layout most of the time</span></li>
+	<li><span style=""font-size: 14px"">Hosting more flexible event webpages / landing pages – Pardot has very simple functionality in this area</span></li>
+	<li><span style=""font-size: 14px""><span style=""background-color: rgb(255 , 255 , 0)""><strong>Downloading a compiled report of an eDM send – it currently only allows for&nbsp;individual reports to be downloaded</strong></span>, i.e. one for clicks, another for opens, another for bounce – which you then need to put together</span></li>
+	<li><span style=""font-size: 14px"">Being able to pull contact lists by&nbsp;campaign function and activity of the&nbsp;lead. Marketo enables you to select&nbsp;leads that were marked as having&nbsp;attended an event within a campaign,&nbsp;or hadn’t responded to an invite etc to&nbsp;be able to better target warm and cold&nbsp;leads when sending out content. You&nbsp;also can’t pull lists directly from&nbsp;salesforce, you have to upload them.</span></li>
+	<li><span style=""font-size: 14px""></span><strong><span style=""background-color: rgb(255 , 255 , 0)"">It’s very difficult to edit contact lists in&nbsp;Pardot to the point that new lists are&nbsp;uploaded each time and old ones are&nbsp;</span></strong><strong><span style=""background-color: rgb(255 , 255 , 0)"">to be deleted each time</span></strong>.</li>
+	<li>
+	<span style=""font-size: 14px""><strong><span style=""background-color: rgb(255 , 255 , 0)"">Pardot isn’t very user friendly in&nbsp;</span></strong><strong><span style=""background-color: rgb(255 , 255 , 0)"">designing newsletters/mailers.</span></strong> In&nbsp;Marketo you can upload some assets&nbsp;(a templatised header image, button&nbsp;designs, logos etc) and then easily&nbsp;create your own eDMs that are on&nbsp;brand.&nbsp;</span>
+	</li>
+	<li>
+	<span style=""font-size: 14px"">Lead scoring and drip campaigns - we&nbsp;are not using this function due to not&nbsp;having the salesforce sync. Would be&nbsp;good to use this.</span>
+	</li>
+</ul>",string,,,
+12,Pardot,,,,4,Pardot Demo,,,,,"<p>Here is a recording that a Hubspot prospect sent to a HubSpot partner in Italy.</p>
+<p>The recording shows a full Marketo Demo done by a Pardot rep in the UK.&nbsp;Make sure that you UGJ and think twice before talking about this publicly as we may get in trouble for that.</p>
+<p><a href=""/asset/145127?token=ISDRH12li9K%2FWxYnxt77kW1IzKrW1yzbSP%2FMCmdVb6I%3D"">2017-10-24 14.09 GEMS _ Salesforce - Pardot Demonstration.mp4</a></p>
+<p>&nbsp;</p>
+<p><span style=""text-decoration: underline""><strong>Source:</strong></span> Alessio</p>",string,,,
+12,Pardot,,,,5,Pardot Pricing PDF,,,,,"<p>Just got a PDF from a partner outlining the pricing structure and the feature comparison between packages for Pardot.</p>
+<p>Few things to note from the document:</p>
+<ul>
+<li>Their pricing structure seems higher than ours for the Enterprise level</li>
+<li>Their File Manager does not come with Unlimited Storage, not even at the top product tier (Pardot Ultimate)&nbsp;</li>
+<li>Their equivalent to our Reporting Dashboard is priced at $300/month per 5 users, while ours is for unlimited users (and cheaper)</li>
+<li>They have a limit in the amount of Automation Rules that you can create (50-100-150)</li>
+<li>Phone support is included only in their top tier product</li>
+</ul>
+<p><a href=""/asset/145138?token=AHwpybaF%2Btiv7oiDzHHT%2BKqra92uco9c15IEGL7OqhI%3D"">Pardot-SCE-Detailed-Pricing.pdf</a></p>",string,,,
+12,Pardot,,,,6,"What new Pardot, Salesforce and Marketing Cloud features were announced at Dreamforce, and how should we prepare for them?",,,,,"<p>Here's a link to a Google presentation highlighting all of our findings from Dreamforce that are most relevant:&nbsp;<a href=""https://docs.google.com/presentation/d/12UddEHu5W0iAW23WC7WPU9L2qzqbNS7MNa9J1ky4Zso/edit#slide=id.p"">https://docs.google.com/presentation/d/12UddEHu5W0iAW23WC7WPU9L2qzqbNS7MNa9J1ky4Zso/edit#slide=id.p</a></p>
+<p>Here's a link to the live presentation of the above information:&nbsp;</p>
+<p><span style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px"">Recording-1 (58 MB):&nbsp;</span><br style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px""><a style=""color: #1155cc ; background-color: #ffffff ; font-size: 12.8px"" href=""https://hubspot.zoom.us/recording/play/ZlSsBN4LCtpkrAw4nBBkPzuBukscJV26ziRe2GoMeahdgV1qWmFwMq1ITeAeDK39"">https://hubspot.zoom.us/record<wbr>ing/play/ZlSsBN4LCtpkrAw4nBBkP<wbr>zuBukscJV26ziRe2GoMeahdgV1qWmF<wbr>wMq1ITeAeDK39</a><span style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px"">&nbsp;</span><br style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px""><br style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px""><span style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px"">Audio Only-1 (20 MB):&nbsp;</span><br style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px""><a style=""color: #1155cc ; background-color: #ffffff ; font-size: 12.8px"" href=""https://hubspot.zoom.us/recording/play/8_QQnVp25fi1t8gEw4Ysc-JJ--jWLaU0SkXXWWHGIZHzrZ106yjvm4gpYqeIxMXU"">https://hubspot.zoom.us/record<wbr>ing/play/8_QQnVp25fi1t8gEw4Ysc<wbr>-JJ--jWLaU0SkXXWWHGIZHzrZ106yj<wbr>vm4gpYqeIxMXU</a><span style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px"">&nbsp;</span></p>",string,,,
+13,Salesforce Essentials,,,,1,What is Salesforce Essentials?,,,,,"<p style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px"">This will be replacing SalesforceIQ:<br><a style=""color: #1155cc"" href=""https://www.reuters.com/article/us-salesforcecom-smallbusiness/salesforce-launches-simplified-software-aimed-at-small-businesses-idUSKCN1GP1I1"">https://www.reuters.com/articl<wbr>e/us-salesforcecom-smallbusine<wbr>ss/salesforce-launches-<wbr>simplified-software-aimed-at-<wbr>small-businesses-idUSKCN1GP1I1</a></p>
+<p style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px"">Interestingly, it sounds very similar to what they had as a product offering for small biz before the acquisition of RelateIQ (renamed SalesforceIQ after acquisition which was a different tech stack to Sales Cloud etc), which is being retired due to not being GDPR compliant<br><span style=""font-size: 12.8px""><a style=""color: #1155cc"" href=""https://help.salesforceiq.com/articles/product-update"">https://help.salesforceiq.com/<wbr>articles/product-update</a></span></p>
+<p style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px""><span style=""font-size: 12.8px""><em>""Additionally, as previously communicated, a new European law takes effect on May 25, 2018 (the General Data Protection Regulation - &ldquo;GDPR&rdquo;) and will have a significant impact on companies that are based in the European Union, that have operations or employees in the EU, or that otherwise process personal data about EU individuals. Customers that may be subject to the GDPR will need to move from SalesforceIQ CRM to Sales Cloud or another product by May 25, 2018. These customers may only renew their SalesforceIQ CRM subscriptions for a term ending before May 25, 2018. Customers not impacted by the GDPR do not need to take action right now, but should consider moving to Sales Cloud by March 13, 2020.""</em></span></p>
+<p style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px"">Group and Contact Editions were their entry level products prior to SalesforceIQ. These were very watered down versions of Sales Cloud with limited storage and features<br>This new offering is still a very limited version of Salesforce Sales Cloud, with the new Lightning UI</p>
+<p style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px""><a style=""color: #1155cc"" href=""https://www.salesforce.com/content/dam/web/en_us/www/documents/datasheets/DS_SalesCloud_EdCompare.pdf"">https://www.salesforce.com/con<wbr>tent/dam/web/en_us/www/documen<wbr>ts/datasheets/DS_SalesCloud_<wbr>EdCompare.pdf</a></p>
+<p style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px"">The level of support is interesting. No phone support, only &ldquo;Online Case Submission (2-Day Response)&rdquo;</p>
+<p style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px"">You have to pay extra for calling functionality</p>
+<p style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px"">Einstein activity capture - available as a limited offer (but doesn&rsquo;t look like it&rsquo;ll be available forever with Essentials) - looks like our email tracking and Meetings (<a style=""color: #1155cc"" href=""https://www.salesforce.com/content/dam/web/en_us/www/documents/datasheets/sales-cloud-einstein-activitycapture.pdf"">https://www.salesforce.com/co<wbr>ntent/dam/web/en_us/www/docume<wbr>nts/datasheets/sales-cloud-<wbr>einstein-activitycapture.pdf</a>)</p>
+<p style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px"">They seem to be trying to play catch up with us by adding case management to their CRM product</p>
+<p>&nbsp;</p>
+<div style=""color: #222222 ; background-color: #ffffff ; font-size: 12.8px"">
+<div class=""m_-8644447515576112367gmail_signature"">
+<div dir=""ltr"">
+<div>
+<div dir=""ltr"">
+<div>
+<div dir=""ltr"">
+<div>
+<div dir=""ltr"">
+<div>
+<div dir=""ltr"">&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>",string,,,
+14,SharpSpring,,,,1,SharpSpring vs. HubSpot: how to talk about it,,,,,"<p>- Comparison on SharpSpring&rsquo;s website</p>
+<p>- &ldquo;SharpSpring has a rating of 8.5/10 on TrustRadius vs 8.2/10 for HubSpot&rdquo; - Without a date we can&rsquo;t know when that figure was true but we can tell that right now it&rsquo;s down to 7.6/10 so more people are reviewing SharpSpring negatively while HubSpot is till at 8.2/10. Also, the amount of reviewers on any platform is 10 times higher for HubSpot.</p>
+<p>- &ldquo;It costs $18.000 / $33.800 to get started with HubSpot Pro / Ent while just $2.450 to get started with SharpSpring, based on 10K Contacts&rdquo; - First qualify what a prospect really needs. They might be a fit for Basic or even Free/Starter and continue using Mailchimp. For those who do need marketing automation, we charge for 1-year upfront and can actually take 2 or 3 years upfront because we believe that Inbound Marketing works but it takes time to see ROI. Inbound Marketing is something that requires commitment and if they start with SharpSpring and 3 months later they decide they don&rsquo;t like it they&rsquo;ve wasted around $4.000 while with HubSpot we&rsquo;ll make sure they see ROI and stay with us for years.</p>
+<p>- &ldquo;HubSpot &lsquo;Basic&rsquo; is regarded as a blogging tool with minimal functionality&rdquo; - HubSpot Basic is way more than a blogging tool as it includes Social Media integration, Landing Pages, CTAs, Email, Forms, Reporting etc.</p>
+<p>- &ldquo;HubSpot&rsquo;s Enterprise plan matches up with SharpSpring, but is more than three times the cost, with SharpSpring including the same number of contacts with a much lower onboarding fee.&rdquo; - We would rarely sell Enterprise to a customer who just needs 10K Contacts. We&rsquo;d sell Pro 10K. While we can discount or offer different payment terms, we&rsquo;re better off explaining that money is only a part of the investment required. The other is time and resources and we are famous for our world-class support and services. Also, we offer support and onboarding in the customer&rsquo;s native language (for French, Spanish, German and Japanese speakers).</p>
+<p>- &ldquo;HubSpot and SharpSpring both offer render testing, but SharpSpring charges a small fee. A/B testing is not available in HubSpot Pro.&rdquo; - A/B testing IS available in HubSpot Pro</p>
+<p>- &ldquo;SharpSpring allows users to dynamically update forms and customize how they look using CSS &ndash; all without the need for IT or vendor tech support. SharpSpring&rsquo;s WebEx connection makes video conferences easy, further emphasizing the platform&rsquo;s flexibility.&rdquo; - Styling a Form within a landing page built in HubSpot is WYSIWYG. Embedded Forms require you to copy and paste code so it&rsquo;s given that someone has access and knowledge of JavaScript code. Here&rsquo;s how to style an embedded form. BedRock offers an integration between WebEx and HubSpot. If they are using WebEx, it&rsquo;s likely they are a bigger organization and might have other needs that SharpSpring can&rsquo;t cater for even with integrations (Ads, Smart Content, CRM)</p>
+<p>- &ldquo;Through its partnership with ZoomInfo, SharpSpring provides additional information on anonymous site visitors. This includes names, titles, and contact details of prospects working in the areas most relevant to your business.&rdquo; - Tracking Anonymous Site Visitor and getting their contact details through a Third Party without them having given you consent nor their details willingly is against Inbound best practices. A Contact should have been attracted and converted by a valuable piece of content on your website, be it a webinar, an ebook, a discount coupon or an event invitation.</p>
+<p>- &ldquo;SharpSpring offers pre-built and customizable funnels &mdash; a series of landing pages that work together to convert visitors into leads. SharpSpring and HubSpot Enterprise offer the ability to add dynamic web content using any CMS. HubSpot Pro requires you to use the HubSpot CMS in order to target visitors with dynamic web content.&rdquo;- This is, again, just false. Smart Content IS available on HubSpot Pro, without the CMS add-on. Furthermore, configuring Dynamic Content (how they call it) requires technical knowledge. Also interesting is the fact that &ldquo;Landing pages created in SharpSpring will automatically have .pages.services affixed to the end of the URL. You can remove this by creating a CNAME record.&rdquo; Not the best experience for Marketers. Also, the Landing Page Funnel feature they boast about is literally just linking a Landing Page after each other which can be easily achieved by configuring the redirect link on the Form.</p>
+<p>- &ldquo;All three offer social media profiling and the ability for the sales team to interact with leads through social channels, and all three can track social media conversions/ROI. SharpSpring takes it to the next level by including social activity in the Life of the Lead and allowing users to create automation rules based on that activity.&rdquo;- SharpSpring has lacked the most basic integration to social media: Publishing and Scheduling, until January 2018 while HubSpot&rsquo;s Social Media tools have been there and improving since the beginning, supporting Xing (relevant for DACH) and Instagram. With Conversations coming to HubSpot in 2018, we can expect to see ALL interactions on any channel for one contact. Also we do store Social Network interactions on each contact in the form of Facebook, LinkedIn and Twitter Clicks and this property can be used for automation and segmentation to discover your most engaged contacts.</p>
+<p>-&rdquo;Providing a free CRM that&rsquo;s optional (i.e., we play nice with other CRMs) is something that sets both SharpSpring and HubSpot apart from competitors. HubSpot falls short by charging additional fees for some aspects of reporting.&rdquo; - First, SharpSpring&rsquo;s free CRM actually requires a SharpSpring subscription. Second, we offer several out of the box reports, completely for Free. We also have a Professional CRM and our native integration to Salesforce is proven to be better.</p>
+<p>- &ldquo;Both offer an open API and other ways to connect their platforms to third-party solutions. SharpSpring goes further in being vendor agnostic by offering universal CMS compatibility. HubSpot requires use of its CMS for full functionality and charges customers more to use it.&rdquo;- This is just a blatant lie. It just requires a simple tracking code to integrate HubSpot to any CMS. Also, Datanyze numbers rank HubSpot as the n&ordm;1 Marketing Automation installed across all websites which translates to a 16% market share while SharpSpring is on position 16 with just over 1%. How many different CMS would 16% of the internet use against just that 1%?-&rdquo;Both platforms offer ongoing training and support, but HubSpot charges a hefty added fee for platform migration support. Similarly, HubSpot charges $500 per month for a dedicated customer success manager, while SharpSpring includes this as part of the overall package.&rdquo;- Here they&rsquo;re comparing our premium offerings vs their standard offerings. Our Advanced Onboarding Service is aimed towards larger companies which would actually have another platform. The SMB space, where SharpSpring competes, is full of ad-hoc solutions or Wordpress+Mailchimp+Hootsuite couplings and we do offer free template set-ups to everyone and potentially free full website migrations with the Website add-on. HubSpot also has a completely free and easy to use Wordpres to HubSpot Blog migration tool.SharpSpring&rsquo;s support is limited to 8AM to 8PM EST Monday to Friday while HubSpot&rsquo;s support is provided 24/7 between Sunday 8 PM and Friday 8 PM EST. SharpSpring&rsquo;s support is only available in English while HubSpot&rsquo;s is available in French, German, Spanish and Japanese. HubSpot charges $500 for a Dedicated Support Engineer, meant for larger companies, not a Customer Success Manager which is included in the package. Apart from our world class support and services, we have our world famous academy with loads of material and industry recognized certifications, all included in the package or completely for free. We have additional premium consulting services which SharpSpring totally lacks, having to rely on freelancers.</p>
+<p>SharpSpring is particularly competitive in the Agency space. They claim: &ldquo;Agencies choose SharpSpring as a HubSpot alternative because it compares well on agency-specific features that HubSpot doesn&rsquo;t include. SharpSpring doesn&rsquo;t treat agencies like resellers &ndash; they are partners. SharpSpring&rsquo;s agency pricing puts agencies in control to decide what to charge &ndash; or even if to charge &ndash; for marketing automation. Plus, SharpSpring lets agencies rebrand the platform to promote the agency rather than HubSpot competing with you.&rdquo;</p>
+<p>These features include:</p>
+<p>Rebrandable Interface (logo/colors). While nice to have, this is typically a requirement some big companies might have and not typically a deal breaker. Think of how we&rsquo;ve put the HubSpot logo on our Salesforce instance. It should never be a real deal breaker with the type of agencies we target and their customers.<br>White-labeled URL: this is literally putting agency123.sharpspring.com for their customers to log in into SharpSpring. Again, nice to have but not a real deal breaker.<br>Rebrandable Sales Materials: Our partners are allowed to reuse our materials to create their own but as each agency has a different approach to each industry, they&rsquo;ll adapt the content to the specific industry.<br>Rebrandable notifications: These are system notifications. Again, nice to have but not a deal breaker.<br>Multi-client management Console: HubSpot agencies have the Partner Portal from which they can access all their clients&rsquo; portals.<br>Add a Client In-app: HubSpot agencies can add clients in app, if it wasn&rsquo;t previously claimed. Conversations only happen if the Agency wants and most of our agencies are happy to discuss deals with their Account Managers, getting additional support.<br>Share Templates Across: It&rsquo;s totally possible to copy landing page, email, blog and website templates across HubSpot Portals.<br>Perhaps the biggest threat that SharpSpring poses for us is their reselling model. The agency pays SharpSpring based on the number of clients they are managing and in turn they charge whatever they want their customers. One big caveat of this is that the pool of emails is shared which instead of the promised autonomy, it just gives the agency another headache to handle. Also, this is not a sustainable pricing structure for large agencies with many customers.</p>
+<p>&nbsp;</p>
+<p>In HubSpot&rsquo;s partner program, agencies become experts in not just handling the platform but implementing Inbound Campaigns and move from project based revenue to retainers but the customer is the owner of the platform. Their customers will have full access to HubSpot&rsquo;s support and resources.</p>
+<p>This is extracted from the SharpSpring Competitive BattleCard</p>",string,,,

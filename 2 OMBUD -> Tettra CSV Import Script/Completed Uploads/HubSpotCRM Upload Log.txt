@@ -1,0 +1,247 @@
+Number of Rows Imported from HubSpotCRM.csv = 61
+Beginning upload to Tettra
+
+HSMF for CRM portals without it is being sent to Tettra.
+
+To see email activity in Sales Reporting, do you have to select "Log to CRM" or will selecting "Track Email" be enough? is being sent to Tettra.
+
+Bulk Update GDPR Subscriptions, Double-Opt-In to the Contacts Table View is being sent to Tettra.
+
+Why does the source data from the prospects tool not populate the company source field? is being sent to Tettra.
+
+Kick-Start Your HubSpot CRM Setup by Importing Your Gmail Contacts is being sent to Tettra.
+
+Follow Records within HubSpot is being sent to Tettra.
+
+Email Threading in HubSpot CRM is being sent to Tettra.
+
+How do Secondary emails work with the APIs and property history is being sent to Tettra.
+
+Can I add contacts to the CRM without an email address? is being sent to Tettra.
+
+If Rep A owns a contact and Rep B owns the company, how does this affect visibility in the CRM? is being sent to Tettra.
+
+If I have HSMF and the HubSpot CRM, do my leads get synched over? is being sent to Tettra.
+
+Pinned Notes on Contacts timeline is being sent to Tettra.
+
+Does Import2 migrate notes to HubSpot CRM? is being sent to Tettra.
+
+Can I create a contact that already exists in the CRM if I don't have the permission to see it? is being sent to Tettra.
+
+What is the best option to import everything into HubSpot CRM and keep associations between objects? is being sent to Tettra.
+
+Can you store PII and/or PCI data if you are using the CRM? is being sent to Tettra.
+
+What kind of user permissions can you set in the CRM? is being sent to Tettra.
+
+Can HubSpot help me with data cleansing / data clean up? is being sent to Tettra.
+
+Can you see what marketing list a contact is a member of in the CRM? is being sent to Tettra.
+
+Two Updates to Attachments in HubSpot Records is being sent to Tettra.
+
+Edit Contact Properties from the HubSpot Sales Sidebar for Gmail is being sent to Tettra.
+
+LinkedIn Sales Navigator Integration is being sent to Tettra.
+
+See "Secondary" Email/Domain for Merged Contacts/Companies is being sent to Tettra.
+
+How can customers migrate their CRM data into HubSpot? is being sent to Tettra.
+
+Local Defaults Available for Personalization Tokens in the Rich Text Editor is being sent to Tettra.
+
+Restore Deleted Contacts, Companies, and Deals with Recycle Bin in HubSpot CRM is being sent to Tettra.
+
+Unlimited Parent-Child Relationships is being sent to Tettra.
+
+Can I merge companies in the CRM? is being sent to Tettra.
+
+Parent-Child Relationships in HubSpot CRM is being sent to Tettra.
+
+Parent-Child Relationships FAQ is being sent to Tettra.
+
+Storing VAT numbers in the CRM is being sent to Tettra.
+
+Opt a Domain out of Auto-Creation is being sent to Tettra.
+
+Follow Records within HubSpot is being sent to Tettra.
+
+Deal Personalization Tokens in Templates and Snippets is being sent to Tettra.
+
+Automated Tasks on Deal Stages is being sent to Tettra.
+
+Updated Deal Forecast Widget is being sent to Tettra.
+
+Set Custom Properties when Creating a Deal in Workflows is being sent to Tettra.
+
+Explicitly Associate Activities with Deals in HubSpot CRM is being sent to Tettra.
+
+How can I use multiple deal pipelines in the CRM? is being sent to Tettra.
+
+Email from the Company/Deal Record in HubSpot CRM is being sent to Tettra.
+
+How can deal refunds be tracked in HubSpot CRM? is being sent to Tettra.
+
+Can you associate a contact to a deal in the csv import? is being sent to Tettra.
+
+Set properties for moving between deal stages is being sent to Tettra.
+
+A New Name for the HubSpot Owner Property is being sent to Tettra.
+
+Using Tasks in Sequences is being sent to Tettra.
+
+Auto-create a Follow-up Task When Sending an Email is being sent to Tettra.
+
+Reinvigorated Tasks in HubSpot CRM is being sent to Tettra.
+
+Specify the type of tasks included in a sequence is being sent to Tettra.
+
+Goals are now live is being sent to Tettra.
+
+Automated Assignment will be Exclusive to Paid Pro Seats (11/1) is being sent to Tettra.
+
+Import with associations in HubSpot CRM is being sent to Tettra.
+
+A fresh "Getting Started" page for new CRM users is being sent to Tettra.
+
+Edit multiple quotas at once in HubSpot CRM is being sent to Tettra.
+
+HubSpot Order PDF for Sales product purchases is being sent to Tettra.
+
+Can various users connect the same (company) email address to the CRM to send emails? is being sent to Tettra.
+
+A New Property History Export is being sent to Tettra.
+
+9 New error types to help users successfully connect their inbox via IMAP is being sent to Tettra.
+
+Connected Inbox Requirement for Sending Email from CRM is being sent to Tettra.
+
+The HubSpot Sales Chrome Extension and HubSpot Sales for Outlook 365 are now localized is being sent to Tettra.
+
+Search for and view contacts right from Gmail with the Sales Extention is being sent to Tettra.
+
+Three Big Updates to Properties, including Required Properties is being sent to Tettra.
+
+Tettra article created at https://app.tettra.co/teams/se/pages/if-i-have-hsmf-and-the-hubspot-crm-do-my-leads-get-synched-over
+
+Tettra article created at https://app.tettra.co/teams/se/pages/email-from-the-companydeal-record-in-hubspot-crm
+
+Tettra article created at https://app.tettra.co/teams/se/pages/parent-child-relationships-in-hubspot-crm
+
+Tettra article created at https://app.tettra.co/teams/se/pages/see-secondary-emaildomain-for-merged-contactscompanies
+
+Tettra article created at https://app.tettra.co/teams/se/pages/if-rep-a-owns-a-contact-and-rep-b-owns-the-company-how-does-this-affect-visibility-in-the-crm
+
+Tettra article created at https://app.tettra.co/teams/se/pages/why-does-the-source-data-from-the-prospects-tool-not-populate-the-company-source-field
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-is-the-best-option-to-import-everything-into-hubspot-crm-and-keep-associations-between-objects
+
+Tettra article created at https://app.tettra.co/teams/se/pages/specify-the-type-of-tasks-included-in-a-sequence
+
+Tettra article created at https://app.tettra.co/teams/se/pages/bulk-update-gdpr-subscriptions-double-opt-in-to-the-contacts-table-view
+
+Tettra article created at https://app.tettra.co/teams/se/pages/automated-tasks-on-deal-stages
+
+Tettra article created at https://app.tettra.co/teams/se/pages/pinned-notes-on-contacts-timeline
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-hubspot-help-me-with-data-cleansing-data-clean-up
+
+Tettra article created at https://app.tettra.co/teams/se/pages/to-see-email-activity-in-sales-reporting-do-you-have-to-select-log-to-crm-or-will-selecting-track-email-be-enough
+
+Tettra article created at https://app.tettra.co/teams/se/pages/parent-child-relationships-faq
+
+Tettra article created at https://app.tettra.co/teams/se/pages/search-for-and-view-contacts-right-from-gmail-with-the-sales-extention
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-kind-of-user-permissions-can-you-set-in-the-crm
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-you-store-pii-andor-pci-data-if-you-are-using-the-crm
+
+Tettra article created at https://app.tettra.co/teams/se/pages/the-hubspot-sales-chrome-extension-and-hubspot-sales-for-outlook-365-are-now-localized
+
+Tettra article created at https://app.tettra.co/teams/se/pages/import-with-associations-in-hubspot-crm
+
+Tettra article created at https://app.tettra.co/teams/se/pages/reinvigorated-tasks-in-hubspot-crm
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-import2-migrate-notes-to-hubspot-crm
+
+Tettra article created at https://app.tettra.co/teams/se/pages/linkedin-sales-navigator-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-i-merge-companies-in-the-crm
+
+Tettra article created at https://app.tettra.co/teams/se/pages/edit-contact-properties-from-the-hubspot-sales-sidebar-for-gmail
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-you-associate-a-contact-to-a-deal-in-the-csv-import
+
+Tettra article created at https://app.tettra.co/teams/se/pages/email-threading-in-hubspot-crm
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-you-see-what-marketing-list-a-contact-is-a-member-of-in-the-crm
+
+Tettra article created at https://app.tettra.co/teams/se/pages/restore-deleted-contacts-companies-and-deals-with-recycle-bin-in-hubspot-crm
+
+Tettra article created at https://app.tettra.co/teams/se/pages/follow-records-within-hubspot
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-can-customers-migrate-their-crm-data-into-hubspot
+
+Tettra article created at https://app.tettra.co/teams/se/pages/updated-deal-forecast-widget
+
+Tettra article created at https://app.tettra.co/teams/se/pages/automated-assignment-will-be-exclusive-to-paid-pro-seats-111
+
+Tettra article created at https://app.tettra.co/teams/se/pages/two-updates-to-attachments-in-hubspot-records
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-various-users-connect-the-same-company-email-address-to-the-crm-to-send-emails
+
+Tettra article created at https://app.tettra.co/teams/se/pages/auto-create-a-follow-up-task-when-sending-an-email
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-can-deal-refunds-be-tracked-in-hubspot-crm
+
+Tettra article created at https://app.tettra.co/teams/se/pages/hubspot-order-pdf-for-sales-product-purchases
+
+Tettra article created at https://app.tettra.co/teams/se/pages/unlimited-parent-child-relationships
+
+Tettra article created at https://app.tettra.co/teams/se/pages/goals-are-now-live
+
+Tettra article created at https://app.tettra.co/teams/se/pages/connected-inbox-requirement-for-sending-email-from-crm
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-i-create-a-contact-that-already-exists-in-the-crm-if-i-dont-have-the-permission-to-see-it
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-i-add-contacts-to-the-crm-without-an-email-address
+
+Tettra article created at https://app.tettra.co/teams/se/pages/a-new-property-history-export
+
+Tettra article created at https://app.tettra.co/teams/se/pages/follow-records-within-hubspot-1
+
+Tettra article created at https://app.tettra.co/teams/se/pages/storing-vat-numbers-in-the-crm
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-do-secondary-emails-work-with-the-apis-and-property-history
+
+Tettra article created at https://app.tettra.co/teams/se/pages/deal-personalization-tokens-in-templates-and-snippets
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-can-i-use-multiple-deal-pipelines-in-the-crm
+
+Tettra article created at https://app.tettra.co/teams/se/pages/local-defaults-available-for-personalization-tokens-in-the-rich-text-editor
+
+Tettra article created at https://app.tettra.co/teams/se/pages/a-new-name-for-the-hubspot-owner-property
+
+Tettra article created at https://app.tettra.co/teams/se/pages/kick-start-your-hubspot-crm-setup-by-importing-your-gmail-contacts
+
+Tettra article created at https://app.tettra.co/teams/se/pages/edit-multiple-quotas-at-once-in-hubspot-crm
+
+Tettra article created at https://app.tettra.co/teams/se/pages/opt-a-domain-out-of-auto-creation
+
+Tettra article created at https://app.tettra.co/teams/se/pages/hsmf-for-crm-portals-without-it
+
+Tettra article created at https://app.tettra.co/teams/se/pages/a-fresh-getting-started-page-for-new-crm-users
+
+Tettra article created at https://app.tettra.co/teams/se/pages/set-properties-for-moving-between-deal-stages
+
+Tettra article created at https://app.tettra.co/teams/se/pages/using-tasks-in-sequences
+
+Tettra article created at https://app.tettra.co/teams/se/pages/three-big-updates-to-properties-including-required-properties
+
+Tettra article created at https://app.tettra.co/teams/se/pages/9-new-error-types-to-help-users-successfully-connect-their-inbox-via-imap
+
+Tettra article created at https://app.tettra.co/teams/se/pages/set-custom-properties-when-creating-a-deal-in-workflows
+
+Tettra article created at https://app.tettra.co/teams/se/pages/explicitly-associate-activities-with-deals-in-hubspot-crm
+Katherines-MBP:code KGH$

@@ -1,0 +1,828 @@
+Number of Rows Imported from Content.csv = 207
+Beginning upload to Tettra
+
+[Now Live] HubSpot Video is being sent to Tettra.
+
+Updated HubSpot FTP for the New Design Manager is being sent to Tettra.
+
+HubSpot Video is being sent to Tettra.
+
+Can you add custom fields to forms in HS videos? is being sent to Tettra.
+
+Are forms for video going to be managed in the main forms dashboard? is being sent to Tettra.
+
+Can you add forms or CTAs throughout the length of the video? is being sent to Tettra.
+
+How many videos can you host in Hubspot? is being sent to Tettra.
+
+A Visual Refresh of File Manager is being sent to Tettra.
+
+Integration with Shutterstock is being sent to Tettra.
+
+What is the file size limit in the File Manager? is being sent to Tettra.
+
+HubSpot Video Optimization is being sent to Tettra.
+
+Virus & Malware Protection in HubSpot File Manager is being sent to Tettra.
+
+New Image Browser Within Blog Composer, Social Compose is being sent to Tettra.
+
+Why won't the image in my File Manager replace the current image in my content? is being sent to Tettra.
+
+HubSpot CMS Developer Discovery Kit is being sent to Tettra.
+
+Updates To How We Handle Images and Links Within The Rich Text Editor is being sent to Tettra.
+
+Internationalization of HubSpot’s Default Modules in the new Design Manager is being sent to Tettra.
+
+A ‘Make Module Available for New Content’ Toggle is being sent to Tettra.
+
+Can a user use Angular within the CMS? is being sent to Tettra.
+
+Content Search is being sent to Tettra.
+
+Linked Error Console is being sent to Tettra.
+
+New Modules Framework is being sent to Tettra.
+
+New Design Manager is being sent to Tettra.
+
+New Rich Text Features is being sent to Tettra.
+
+A Smarter (see: AI-powered) Recommended Content Module in the CMS is being sent to Tettra.
+
+How to Use the Design Manager is being sent to Tettra.
+
+How to add a custom search module to your COS website is being sent to Tettra.
+
+How to use the Image Gallery Module is being sent to Tettra.
+
+Design Manager Revisions for Templates, Coded Files, and Custom Modules is being sent to Tettra.
+
+What is included in a Template Setup? is being sent to Tettra.
+
+Can you copy Marketplace Templates from one Hubspot portal to another? is being sent to Tettra.
+
+How to change the background of an email to another color is being sent to Tettra.
+
+How can I tell if a website element is a third party plug in? is being sent to Tettra.
+
+Will the migrations team migrate tabbed content? is being sent to Tettra.
+
+Will a custom google search module direct visitors off of my site? is being sent to Tettra.
+
+How to implement a custom search on the COS is being sent to Tettra.
+
+Change to 'Edit Head' section of an email template is being sent to Tettra.
+
+An Improved, More Dynamic, Follow Me Module is being sent to Tettra.
+
+Site Search is being sent to Tettra.
+
+Easily Create and Report on your Topics within Content Strategy is being sent to Tettra.
+
+[In Beta] Quickly add Relevant Content to a Topic within Content Strategy is being sent to Tettra.
+
+Visually Refreshed Content Strategy Topics is being sent to Tettra.
+
+Easily link to your Pillar Pages within the Blog & LP/Site Page Optimize Tab is being sent to Tettra.
+
+A Content Audit within Content Strategy is being sent to Tettra.
+
+How many subtopics can you have in one cluster? is being sent to Tettra.
+
+Content Strategy Intro is being sent to Tettra.
+
+Where do the validation metrics in the content strategy tool come from? is being sent to Tettra.
+
+How often does the Content Strategy crawl content for suggestions and relevancy information? is being sent to Tettra.
+
+Content Strategy Progress Bar is being sent to Tettra.
+
+Topics are now in the page editor’s optimize tab is being sent to Tettra.
+
+Set a Featured Image for Web and Landing Pages is being sent to Tettra.
+
+New Features for CMS Development Efficiencies is being sent to Tettra.
+
+Speed Improvements to the HubSpot CMS via Combining CSS Files is being sent to Tettra.
+
+HubDB User Permissions is being sent to Tettra.
+
+Can I display dynamic content on external websites? is being sent to Tettra.
+
+How to use the Website Page Tool is being sent to Tettra.
+
+How to Use Smart Content is being sent to Tettra.
+
+HubDB (a.k.a Database-driven Content) is being sent to Tettra.
+
+Is there a way for your system to automatically append the query string it received on the new URL? is being sent to Tettra.
+
+How to use Content Staging is being sent to Tettra.
+
+Can we migrate website themes? is being sent to Tettra.
+
+When should I use the "Social Accounts Icons will be replaced" note in a CMS Approval? is being sent to Tettra.
+
+How to make embedded Youtube Video responsive is being sent to Tettra.
+
+Is the HubSpot CMS considered "Decoupled" or "Headless"? is being sent to Tettra.
+
+Build Dynamic Pages Using HubDB is being sent to Tettra.
+
+HubDB Versioning is being sent to Tettra.
+
+Web Metrics available on Blog Post, Landing Page, and Website Page Detail Pages is being sent to Tettra.
+
+How does Data Flow in the HubSpot COS? is being sent to Tettra.
+
+A/B Test Web Pages is being sent to Tettra.
+
+Set a Featured Image for Web and Landing Pages is being sent to Tettra.
+
+Visually Refreshed Settings Tab for Website & Landing Pages is being sent to Tettra.
+
+How to use Landing Pages is being sent to Tettra.
+
+Can I remove test views and submissions from my landing page statistics? is being sent to Tettra.
+
+How do I create a custom a Landing Page for a prospect demo? is being sent to Tettra.
+
+Sunset - Landing Page Performance Comparison is being sent to Tettra.
+
+Visual Refresh of the Template Selector is being sent to Tettra.
+
+We're sunsetting the ability to subscribe to follow-up blog comments is being sent to Tettra.
+
+Import any blog into HubSpot is being sent to Tettra.
+
+An Updated Blog Importer is being sent to Tettra.
+
+For an externally hosted blog (RSS Feed), will HubSpot send a daily notification to daily subscribers, even if there is no content update? is being sent to Tettra.
+
+Updated Blog Editor & Drafting Process is being sent to Tettra.
+
+How to use the Blog tool is being sent to Tettra.
+
+How to Edit Automated Blog & RSS Emails within HubSpot is being sent to Tettra.
+
+How to Set a Featured Image Independent of Images in a Blog Post is being sent to Tettra.
+
+How are redirects handled when migrating a blog from a subdirectory ro a subdomain? is being sent to Tettra.
+
+When should I use the "Blog will be managed in blog module" note in a CMS Approval? is being sent to Tettra.
+
+When to use "Blog will be managed in blog module" vs. "Use the Blog Import Tool" is being sent to Tettra.
+
+Accelerated Mobile Pages for The HubSpot Blog Tool is being sent to Tettra.
+
+Visually Refreshed Blog Dashboard is being sent to Tettra.
+
+Blog Auto-Publish Settings Change is being sent to Tettra.
+
+Avoid Over-Emailing Contacts with the Send Frequency Cap is being sent to Tettra.
+
+Changes coming to the email creation flow is being sent to Tettra.
+
+A New Way to Preview Your Emails is being sent to Tettra.
+
+We’re De-Indexing Web Versions of Emails is being sent to Tettra.
+
+Bulk Update GDPR Subscriptions, Double-Opt-In to the Contacts Table View is being sent to Tettra.
+
+We’re Experimenting with a “Free to Try, Upgrade to Send” Email Experience in our Free Marketing Tools is being sent to Tettra.
+
+Change the order of your email subscriptions is being sent to Tettra.
+
+[Coming Soon] The New Marketing Hub Starter (with email) is being sent to Tettra.
+
+Will the default marketing email properties (ie. Last marketing email click date) automatically populate in Marketing Starter w/ Email? is being sent to Tettra.
+
+Can you use the Ads Add-On with Marketing Starter is being sent to Tettra.
+
+New Drag and Drop Email Editor is being sent to Tettra.
+
+Email 101 is being sent to Tettra.
+
+Insight into “Not Sent” Sales and Marketing Emails is being sent to Tettra.
+
+Redesigned Email Post-Send (Details) Screen is being sent to Tettra.
+
+Important Changes to 1:1 Email Templates in HubSpot is being sent to Tettra.
+
+Improved Email Deliverability Protection is being sent to Tettra.
+
+Reply to Emails from Timelines is being sent to Tettra.
+
+Engaged Contact Filtering is being sent to Tettra.
+
+How to Use Emails is being sent to Tettra.
+
+Refreshed Email Dashboard is being sent to Tettra.
+
+Are there limits on the number of emails you can send each month? is being sent to Tettra.
+
+What are the thresholds for acceptable email hard bounce and spam rates? is being sent to Tettra.
+
+Are we able to use Amazon SES email servers or external servers for our email campaigns? is being sent to Tettra.
+
+Can you use dynamic data or variable info in email links? is being sent to Tettra.
+
+Whitelist & Unbounce Wizard is being sent to Tettra.
+
+Smart Timezone Sending for Emails is being sent to Tettra.
+
+Improved Verification on the Review Tab for Email is being sent to Tettra.
+
+Graymail Suppression for Contacts with Low Engagement is being sent to Tettra.
+
+Update to graymail suppression beta is being sent to Tettra.
+
+Can I create a link in a email that will open another email with pre-populated Recipient, Subject line and Body? is being sent to Tettra.
+
+How To Use HubSpot E-mail for Net Promoter Surveys? is being sent to Tettra.
+
+Emojis in Email Subject Lines is being sent to Tettra.
+
+New process for setting up DKIM authentication rolling out is being sent to Tettra.
+
+Are emails routed by HubSpot or are you using a 3rd party router? is being sent to Tettra.
+
+Can a prospect send attachments via SMTP, such as a PDF of a receipt? is being sent to Tettra.
+
+Is it possible to CC a contact in an email? is being sent to Tettra.
+
+Can you embed video in an email? is being sent to Tettra.
+
+A/B Testing for transactional Emails is being sent to Tettra.
+
+DMARC Validation is being sent to Tettra.
+
+Do link clicks within smart rules show up in analytics? is being sent to Tettra.
+
+Plain Email Templates is being sent to Tettra.
+
+What are global bounces and what are the thresholds? is being sent to Tettra.
+
+What is the confidence level of our A/B tests? is being sent to Tettra.
+
+How do I connect my email server domain to HubSpot? is being sent to Tettra.
+
+When customers send emails using Hubspot are they sent from a dedicated or shared server? is being sent to Tettra.
+
+How does HubSpot track email opens? is being sent to Tettra.
+
+Can I use smart content in the double opt-in email? is being sent to Tettra.
+
+Deliverability Protection is being sent to Tettra.
+
+New Email Domains Added to "Block Free Email Providers" List is being sent to Tettra.
+
+How do I create a custom email template for a prospect demo? is being sent to Tettra.
+
+Do multiple opens effect the open rate in marketing emails? is being sent to Tettra.
+
+Can I place a smart CTA based on device type in an email? is being sent to Tettra.
+
+Email Deliverability Lunch & Learn is being sent to Tettra.
+
+Can I send a Transactional Email without adding a contact to HubSpot? is being sent to Tettra.
+
+When passing HTML to HubSpot as a custom property for email via Single Send API, will HubSpot automatically convert that HTML to Plain Text? is being sent to Tettra.
+
+How long would it take to send 750K emails from HubSpot? is being sent to Tettra.
+
+Email Deliverability Score for Customers  (and soundbites) is being sent to Tettra.
+
+Skipping row 149, Body was undefined
+
+All Marketing Hub trials now include email is being sent to Tettra.
+
+What will the email sending domains look like when sent from a Marketing Free or Starter portal? is being sent to Tettra.
+
+Pick a winner with statistical significance in CTA A/B tests is being sent to Tettra.
+
+Retina support for CTAs is being sent to Tettra.
+
+How to use Call-To-Actions is being sent to Tettra.
+
+Visually Refreshed, and Improved, Calls-to-Action Creation in HubSpot Marketing is being sent to Tettra.
+
+Advanced Attribution Reporting is being sent to Tettra.
+
+Advanced Website Ads Audiences is being sent to Tettra.
+
+HubSpot Ads Privacy Policy Features is being sent to Tettra.
+
+How Ads are Reported on in the Analytics Pipeline is being sent to Tettra.
+
+Ads is Moving to the Analytics Pipeline is being sent to Tettra.
+
+Sync Leads from Past Facebook Lead Ads into HubSpot is being sent to Tettra.
+
+Facebook Lookalike Audiences available within Ads Add-on is being sent to Tettra.
+
+Facebook Audience Sync in the HubSpot Ads Add-On is being sent to Tettra.
+
+Is there any email validation for contacts created through Facebook Lead Ads? is being sent to Tettra.
+
+How to use the Ads Campaign Dashboard is being sent to Tettra.
+
+Does the Ads tool include retargeting ads? is being sent to Tettra.
+
+HubSpot - Google AdWords Integration (Ads Add-On) is being sent to Tettra.
+
+The ability to edit Ad Groups, Ads and Keywords in the HubSpot Ads Add-On for AdWords campaigns is being sent to Tettra.
+
+If someone is running Google Adwords already will those campaigns be brought into Hubspot or will they have to rebuild those campaigns within HubSpot? is being sent to Tettra.
+
+How does tracking work in the Ads Add-on? is being sent to Tettra.
+
+How to create a Google Adwords campaign in Ads is being sent to Tettra.
+
+What campaign types are supported in the Ads Add-on? is being sent to Tettra.
+
+HubSpot - Facebook Ads Integration (Ads add-on only) is being sent to Tettra.
+
+Facebook Lead Ads for HubSpot Marketing Free is being sent to Tettra.
+
+HubSpot Ads free trial extended to 30-days is being sent to Tettra.
+
+How does HubSpot calculate Leads and Customers in the Ads add-on? is being sent to Tettra.
+
+What are some Google AdWords Best Practices is being sent to Tettra.
+
+Does the Facebook Ads integration impact existing Ads that are running? is being sent to Tettra.
+
+Can I create Facebook lookalike audiences with the ads add-on? is being sent to Tettra.
+
+Where does the Ad approval get sent when someone submits new ads for the ads add-on? is being sent to Tettra.
+
+Unified “Do-No-Harm” Tracking Across all Ads in HubSpot is being sent to Tettra.
+
+Facebook Multiple Account Support for Ads add-on users is being sent to Tettra.
+
+An Influenced Contacts Metric for Ads Add-on Customers is being sent to Tettra.
+
+Lead Ad Automation is being sent to Tettra.
+
+Continuous Optimization for Lead Flows is being sent to Tettra.
+
+Three Updates to Lead Flows that Further Align Them with Forms is being sent to Tettra.
+
+Customize Lead Flow Form Fields & Block Specific Email Domains is being sent to Tettra.
+
+Lead Flows Follow Up Email is being sent to Tettra.
+
+Lead Flows/LeadIn User Role Changes within HubSpot Marketing is being sent to Tettra.
+
+Lead Flows enabled for all HS Marketing users by default is being sent to Tettra.
+
+New Form Field Types in Lead Flows is being sent to Tettra.
+
+Improved Targeting Options for Lead Flows is being sent to Tettra.
+
+Google Audiences, Multiple Users, and many more Ads Add-on Update is being sent to Tettra.
+
+A redirect button for your lead flows is being sent to Tettra.
+
+HubDB Included in all Marketplace Provider Portals is being sent to Tettra.
+
+Provider Submitted Modules in the Marketplace is being sent to Tettra.
+
+HubSpot Modules available in the Marketplace is being sent to Tettra.
+
+Recommended Post Listing Module for Marketplace is being sent to Tettra.
+
+Search & Content Creation Improvements For The HubSpot Marketplace is being sent to Tettra.
+
+38 Free HubSpot built, and supported, templates in the marketplace is being sent to Tettra.
+
+A New Home for Content Settings is being sent to Tettra.
+
+[In Beta] HubSpot CMS is being sent to Tettra.
+
+[Announcing] The Massively Improved Marketing Hub Enterprise is being sent to Tettra.
+
+Clone Advanced Menus is being sent to Tettra.
+
+One Content Settings is being sent to Tettra.
+
+Changes to Default Behavior of Canonical URLs is being sent to Tettra.
+
+Edit a Domain’s Primary Language in-app is being sent to Tettra.
+
+Automatic Language Redirect Equivalents is being sent to Tettra.
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-many-videos-can-you-host-in-hubspot
+
+Tettra article created at https://app.tettra.co/teams/se/pages/virus-malware-protection-in-hubspot-file-manager
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-can-i-tell-if-a-website-element-is-a-third-party-plug-in-1
+
+Tettra article created at https://app.tettra.co/teams/se/pages/easily-link-to-your-pillar-pages-within-the-blog-lpsite-page-optimize-tab
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-is-the-file-size-limit-in-the-file-manager
+
+Tettra article created at https://app.tettra.co/teams/se/pages/new-image-browser-within-blog-composer-social-compose
+
+Tettra article created at https://app.tettra.co/teams/se/pages/are-forms-for-video-going-to-be-managed-in-the-main-forms-dashboard
+
+Tettra article created at https://app.tettra.co/teams/se/pages/a-visual-refresh-of-file-manager
+
+Tettra article created at https://app.tettra.co/teams/se/pages/when-should-i-use-the-social-accounts-icons-will-be-replaced-note-in-a-cms-approval
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-change-the-background-of-an-email-to-another-color
+
+Tettra article created at https://app.tettra.co/teams/se/pages/will-the-migrations-team-migrate-tabbed-content-1
+
+Tettra article created at https://app.tettra.co/teams/se/pages/a-content-audit-within-content-strategy
+
+Tettra article created at https://app.tettra.co/teams/se/pages/update-to-graymail-suppression-beta
+
+Tettra article created at https://app.tettra.co/teams/se/pages/a-make-module-available-for-new-content-toggle
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-you-add-forms-or-ctas-throughout-the-length-of-the-video
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-use-the-image-gallery-module
+
+Tettra article created at https://app.tettra.co/teams/se/pages/is-the-hubspot-cms-considered-decoupled-or-headless
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-use-smart-content
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-hubspot-track-email-opens
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-is-the-confidence-level-of-our-ab-tests
+
+Tettra article created at https://app.tettra.co/teams/se/pages/integration-with-shutterstock
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-i-place-a-smart-cta-based-on-device-type-in-an-email
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-use-the-ads-campaign-dashboard
+
+Tettra article created at https://app.tettra.co/teams/se/pages/hubspot-cms-developer-discovery-kit
+
+Tettra article created at https://app.tettra.co/teams/se/pages/hubdb-aka-database-driven-content
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-campaign-types-are-supported-in-the-ads-add-on
+
+Tettra article created at https://app.tettra.co/teams/se/pages/plain-email-templates
+
+Tettra article created at https://app.tettra.co/teams/se/pages/when-passing-html-to-hubspot-as-a-custom-property-for-email-via-single-send-api-will-hubspot-automatically-convert-that-html-to-plain-text
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-are-global-bounces-and-what-are-the-thresholds
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-implement-a-custom-search-on-the-cos
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-often-does-the-content-strategy-crawl-content-for-suggestions-and-relevancy-information
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-you-add-custom-fields-to-forms-in-hs-videos
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-the-ads-tool-include-retargeting-ads
+
+Tettra article created at https://app.tettra.co/teams/se/pages/improved-verification-on-the-review-tab-for-email
+
+Tettra article created at https://app.tettra.co/teams/se/pages/when-to-use-blog-will-be-managed-in-blog-module-vs-use-the-blog-import-tool
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-i-send-a-transactional-email-without-adding-a-contact-to-hubspot-1
+
+Tettra article created at https://app.tettra.co/teams/se/pages/linked-error-console
+
+Tettra article created at https://app.tettra.co/teams/se/pages/sunset-landing-page-performance-comparison
+
+Tettra article created at https://app.tettra.co/teams/se/pages/change-to-edit-head-section-of-an-email-template
+
+Tettra article created at https://app.tettra.co/teams/se/pages/new-modules-framework
+
+Tettra article created at https://app.tettra.co/teams/se/pages/dmarc-validation
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-you-copy-marketplace-templates-from-one-hubspot-portal-to-another
+
+Tettra article created at https://app.tettra.co/teams/se/pages/design-manager-revisions-for-templates-coded-files-and-custom-modules
+
+Tettra article created at https://app.tettra.co/teams/se/pages/is-there-a-way-for-your-system-to-automatically-append-the-query-string-it-received-on-the-new-url
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-i-remove-test-views-and-submissions-from-my-landing-page-statistics
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-i-use-smart-content-in-the-double-opt-in-email
+
+Tettra article created at https://app.tettra.co/teams/se/pages/new-design-manager
+
+Tettra article created at https://app.tettra.co/teams/se/pages/when-should-i-use-the-blog-will-be-managed-in-blog-module-note-in-a-cms-approval
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-use-the-design-manager
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-many-subtopics-can-you-have-in-one-cluster
+
+Tettra article created at https://app.tettra.co/teams/se/pages/why-wont-the-image-in-my-file-manager-replace-the-current-image-in-my-content
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-you-use-the-ads-add-on-with-marketing-starter
+
+Tettra article created at https://app.tettra.co/teams/se/pages/will-the-default-marketing-email-properties-ie-last-marketing-email-click-date-automatically-populate-in-marketing-starter-w-email
+
+Tettra article created at https://app.tettra.co/teams/se/pages/new-process-for-setting-up-dkim-authentication-rolling-out
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-will-the-email-sending-domains-look-like-when-sent-from-a-marketing-free-or-starter-portal
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-edit-automated-blog-rss-emails-within-hubspot
+
+Tettra article created at https://app.tettra.co/teams/se/pages/email-deliverability-score-for-customers-and-soundbites
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-use-call-to-actions
+
+Tettra article created at https://app.tettra.co/teams/se/pages/hubspot-video-optimization
+
+Tettra article created at https://app.tettra.co/teams/se/pages/for-an-externally-hosted-blog-rss-feed-will-hubspot-send-a-daily-notification-to-daily-subscribers-even-if-there-is-no-content-update
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-use-landing-pages
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-hubspot-calculate-leads-and-customers-in-the-ads-add-on
+
+Tettra article created at https://app.tettra.co/teams/se/pages/do-link-clicks-within-smart-rules-show-up-in-analytics
+
+Tettra article created at https://app.tettra.co/teams/se/pages/38-free-hubspot-built-and-supported-templates-in-the-marketplace
+
+Tettra article created at https://app.tettra.co/teams/se/pages/an-updated-blog-importer
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-long-would-it-take-to-send-750k-emails-from-hubspot
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-you-use-dynamic-data-or-variable-info-in-email-links
+
+Tettra article created at https://app.tettra.co/teams/se/pages/bulk-update-gdpr-subscriptions-double-opt-in-to-the-contacts-table-view-1
+
+Tettra article created at https://app.tettra.co/teams/se/pages/is-there-any-email-validation-for-contacts-created-through-facebook-lead-ads
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-a-prospect-send-attachments-via-smtp-such-as-a-pdf-of-a-receipt
+
+Tettra article created at https://app.tettra.co/teams/se/pages/new-email-domains-added-to-block-free-email-providers-list
+
+Tettra article created at https://app.tettra.co/teams/se/pages/automatic-language-redirect-equivalents
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-add-a-custom-search-module-to-your-cos-website
+
+Tettra article created at https://app.tettra.co/teams/se/pages/whitelist-unbounce-wizard
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-use-hubspot-e-mail-for-net-promoter-surveys
+
+Tettra article created at https://app.tettra.co/teams/se/pages/content-search
+
+Tettra article created at https://app.tettra.co/teams/se/pages/hubspot-ads-free-trial-extended-to-30-days
+
+Tettra article created at https://app.tettra.co/teams/se/pages/updated-hubspot-ftp-for-the-new-design-manager
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-data-flow-in-the-hubspot-cos
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-you-embed-video-in-an-email
+
+Tettra article created at https://app.tettra.co/teams/se/pages/pick-a-winner-with-statistical-significance-in-cta-ab-tests
+
+Tettra article created at https://app.tettra.co/teams/se/pages/ab-testing-for-transactional-emails
+
+Tettra article created at https://app.tettra.co/teams/se/pages/clone-advanced-menus
+
+Tettra article created at https://app.tettra.co/teams/se/pages/emojis-in-email-subject-lines
+
+Tettra article created at https://app.tettra.co/teams/se/pages/are-emails-routed-by-hubspot-or-are-you-using-a-3rd-party-router
+
+Tettra article created at https://app.tettra.co/teams/se/pages/in-beta-hubspot-cms
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-a-user-use-angular-within-the-cms
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-do-i-connect-my-email-server-domain-to-hubspot
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-use-content-staging
+
+Tettra article created at https://app.tettra.co/teams/se/pages/are-there-limits-on-the-number-of-emails-you-can-send-each-month
+
+Tettra article created at https://app.tettra.co/teams/se/pages/email-101
+
+Tettra article created at https://app.tettra.co/teams/se/pages/retina-support-for-ctas
+
+Tettra article created at https://app.tettra.co/teams/se/pages/set-a-featured-image-for-web-and-landing-pages
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-do-i-create-a-custom-a-landing-page-for-a-prospect-demo
+
+Tettra article created at https://app.tettra.co/teams/se/pages/edit-a-domains-primary-language-in-app
+
+Tettra article created at https://app.tettra.co/teams/se/pages/deliverability-protection
+
+Tettra article created at https://app.tettra.co/teams/se/pages/the-ability-to-edit-ad-groups-ads-and-keywords-in-the-hubspot-ads-add-on-for-adwords-campaigns
+
+Tettra article created at https://app.tettra.co/teams/se/pages/hubspot-facebook-ads-integration-ads-add-on-only
+
+Tettra article created at https://app.tettra.co/teams/se/pages/new-rich-text-features
+
+Tettra article created at https://app.tettra.co/teams/se/pages/a-smarter-see-ai-powered-recommended-content-module-in-the-cms
+
+Tettra article created at https://app.tettra.co/teams/se/pages/hubspot-ads-privacy-policy-features
+
+Tettra article created at https://app.tettra.co/teams/se/pages/changes-coming-to-the-email-creation-flow
+
+Tettra article created at https://app.tettra.co/teams/se/pages/insight-into-not-sent-sales-and-marketing-emails
+
+Tettra article created at https://app.tettra.co/teams/se/pages/when-customers-send-emails-using-hubspot-are-they-sent-from-a-dedicated-or-shared-server-1
+
+Tettra article created at https://app.tettra.co/teams/se/pages/a-new-home-for-content-settings
+
+Tettra article created at https://app.tettra.co/teams/se/pages/were-sunsetting-the-ability-to-subscribe-to-follow-up-blog-comments
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-tracking-work-in-the-ads-add-on
+
+Tettra article created at https://app.tettra.co/teams/se/pages/easily-create-and-report-on-your-topics-within-content-strategy
+
+Tettra article created at https://app.tettra.co/teams/se/pages/were-de-indexing-web-versions-of-emails
+
+Tettra article created at https://app.tettra.co/teams/se/pages/graymail-suppression-for-contacts-with-low-engagement
+
+Tettra article created at https://app.tettra.co/teams/se/pages/visually-refreshed-blog-dashboard
+
+Tettra article created at https://app.tettra.co/teams/se/pages/where-do-the-validation-metrics-in-the-content-strategy-tool-come-from
+
+Tettra article created at https://app.tettra.co/teams/se/pages/were-experimenting-with-a-free-to-try-upgrade-to-send-email-experience-in-our-free-marketing-tools
+
+Tettra article created at https://app.tettra.co/teams/se/pages/updates-to-how-we-handle-images-and-links-within-the-rich-text-editor
+
+Tettra article created at https://app.tettra.co/teams/se/pages/announcing-the-massively-improved-marketing-hub-enterprise
+
+Tettra article created at https://app.tettra.co/teams/se/pages/all-marketing-hub-trials-now-include-email
+
+Tettra article created at https://app.tettra.co/teams/se/pages/import-any-blog-into-hubspot
+
+Tettra article created at https://app.tettra.co/teams/se/pages/engaged-contact-filtering
+
+Tettra article created at https://app.tettra.co/teams/se/pages/advanced-attribution-reporting
+
+Tettra article created at https://app.tettra.co/teams/se/pages/topics-are-now-in-the-page-editors-optimize-tab
+
+Tettra article created at https://app.tettra.co/teams/se/pages/one-content-settings
+
+Tettra article created at https://app.tettra.co/teams/se/pages/important-changes-to-11-email-templates-in-hubspot
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-set-a-featured-image-independent-of-images-in-a-blog-post
+
+Tettra article created at https://app.tettra.co/teams/se/pages/refreshed-email-dashboard
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-are-some-google-adwords-best-practices
+
+Tettra article created at https://app.tettra.co/teams/se/pages/improved-email-deliverability-protection
+
+Tettra article created at https://app.tettra.co/teams/se/pages/a-new-way-to-preview-your-emails
+
+Tettra article created at https://app.tettra.co/teams/se/pages/hubdb-included-in-all-marketplace-provider-portals
+
+Tettra article created at https://app.tettra.co/teams/se/pages/hubdb-user-permissions
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-the-facebook-ads-integration-impact-existing-ads-that-are-running
+
+Tettra article created at https://app.tettra.co/teams/se/pages/is-it-possible-to-cc-a-contact-in-an-email
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-i-create-a-link-in-a-email-that-will-open-another-email-with-pre-populated-recipient-subject-line-and-body
+
+Tettra article created at https://app.tettra.co/teams/se/pages/redesigned-email-post-send-details-screen
+
+Tettra article created at https://app.tettra.co/teams/se/pages/customize-lead-flow-form-fields-block-specific-email-domains
+
+Tettra article created at https://app.tettra.co/teams/se/pages/a-redirect-button-for-your-lead-flows
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-i-display-dynamic-content-on-external-websites
+
+Tettra article created at https://app.tettra.co/teams/se/pages/hubdb-versioning
+
+Tettra article created at https://app.tettra.co/teams/se/pages/hubspot-modules-available-in-the-marketplace
+
+Tettra article created at https://app.tettra.co/teams/se/pages/ab-test-web-pages
+
+Tettra article created at https://app.tettra.co/teams/se/pages/web-metrics-available-on-blog-post-landing-page-and-website-page-detail-pages-1
+
+Tettra article created at https://app.tettra.co/teams/se/pages/reply-to-emails-from-timelines
+
+Tettra article created at https://app.tettra.co/teams/se/pages/visually-refreshed-content-strategy-topics
+
+Tettra article created at https://app.tettra.co/teams/se/pages/updated-blog-editor-drafting-process
+
+Tettra article created at https://app.tettra.co/teams/se/pages/do-multiple-opens-effect-the-open-rate-in-marketing-emails
+
+Tettra article created at https://app.tettra.co/teams/se/pages/coming-soon-the-new-marketing-hub-starter-with-email
+
+Tettra article created at https://app.tettra.co/teams/se/pages/avoid-over-emailing-contacts-with-the-send-frequency-cap
+
+Tettra article created at https://app.tettra.co/teams/se/pages/facebook-lead-ads-for-hubspot-marketing-free
+
+Tettra article created at https://app.tettra.co/teams/se/pages/facebook-lookalike-audiences-available-within-ads-add-on
+
+Tettra article created at https://app.tettra.co/teams/se/pages/an-improved-more-dynamic-follow-me-module
+
+Tettra article created at https://app.tettra.co/teams/se/pages/accelerated-mobile-pages-for-the-hubspot-blog-tool
+
+Tettra article created at https://app.tettra.co/teams/se/pages/search-content-creation-improvements-for-the-hubspot-marketplace
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-do-i-create-a-custom-email-template-for-a-prospect-demo
+
+Tettra article created at https://app.tettra.co/teams/se/pages/build-dynamic-pages-using-hubdb
+
+Tettra article created at https://app.tettra.co/teams/se/pages/site-search
+
+Tettra article created at https://app.tettra.co/teams/se/pages/if-someone-is-running-google-adwords-already-will-those-campaigns-be-brought-into-hubspot-or-will-they-have-to-rebuild-those-campaigns-within-hubspot
+
+Tettra article created at https://app.tettra.co/teams/se/pages/content-strategy-progress-bar
+
+Tettra article created at https://app.tettra.co/teams/se/pages/continuous-optimization-for-lead-flows
+
+Tettra article created at https://app.tettra.co/teams/se/pages/an-influenced-contacts-metric-for-ads-add-on-customers
+
+Tettra article created at https://app.tettra.co/teams/se/pages/improved-targeting-options-for-lead-flows
+
+Tettra article created at https://app.tettra.co/teams/se/pages/changes-to-default-behavior-of-canonical-urls-1
+
+Tettra article created at https://app.tettra.co/teams/se/pages/provider-submitted-modules-in-the-marketplace
+
+Tettra article created at https://app.tettra.co/teams/se/pages/ads-is-moving-to-the-analytics-pipeline
+
+Tettra article created at https://app.tettra.co/teams/se/pages/visually-refreshed-settings-tab-for-website-landing-pages
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-make-embedded-youtube-video-responsive
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-use-the-website-page-tool
+
+Tettra article created at https://app.tettra.co/teams/se/pages/hubspot-google-adwords-integration-ads-add-on
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-are-redirects-handled-when-migrating-a-blog-from-a-subdirectory-ro-a-subdomain
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-use-the-blog-tool
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-use-emails
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-are-the-thresholds-for-acceptable-email-hard-bounce-and-spam-rates
+
+Tettra article created at https://app.tettra.co/teams/se/pages/set-a-featured-image-for-web-and-landing-pages-1
+
+Tettra article created at https://app.tettra.co/teams/se/pages/in-beta-quickly-add-relevant-content-to-a-topic-within-content-strategy
+
+Tettra article created at https://app.tettra.co/teams/se/pages/internationalization-of-hubspots-default-modules-in-the-new-design-manager
+
+Tettra article created at https://app.tettra.co/teams/se/pages/change-the-order-of-your-email-subscriptions
+
+Tettra article created at https://app.tettra.co/teams/se/pages/are-we-able-to-use-amazon-ses-email-servers-or-external-servers-for-our-email-campaigns
+
+Tettra article created at https://app.tettra.co/teams/se/pages/smart-timezone-sending-for-emails
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-ads-are-reported-on-in-the-analytics-pipeline
+
+Tettra article created at https://app.tettra.co/teams/se/pages/new-features-for-cms-development-efficiencies
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-is-included-in-a-template-setup-1
+
+Tettra article created at https://app.tettra.co/teams/se/pages/visual-refresh-of-the-template-selector
+
+Tettra article created at https://app.tettra.co/teams/se/pages/hubspot-video
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-create-a-google-adwords-campaign-in-ads
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-we-migrate-website-themes-1
+
+Tettra article created at https://app.tettra.co/teams/se/pages/blog-auto-publish-settings-change
+
+Tettra article created at https://app.tettra.co/teams/se/pages/visually-refreshed-and-improved-calls-to-action-creation-in-hubspot-marketing
+
+Tettra article created at https://app.tettra.co/teams/se/pages/email-deliverability-lunch-learn
+
+Tettra article created at https://app.tettra.co/teams/se/pages/speed-improvements-to-the-hubspot-cms-via-combining-css-files
+
+Tettra article created at https://app.tettra.co/teams/se/pages/new-drag-and-drop-email-editor
+
+Tettra article created at https://app.tettra.co/teams/se/pages/content-strategy-intro
+
+Tettra article created at https://app.tettra.co/teams/se/pages/facebook-audience-sync-in-the-hubspot-ads-add-on
+
+Tettra article created at https://app.tettra.co/teams/se/pages/will-a-custom-google-search-module-direct-visitors-off-of-my-site-1
+
+Tettra article created at https://app.tettra.co/teams/se/pages/sync-leads-from-past-facebook-lead-ads-into-hubspot
+
+Tettra article created at https://app.tettra.co/teams/se/pages/advanced-website-ads-audiences
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-i-create-facebook-lookalike-audiences-with-the-ads-add-on
+
+Tettra article created at https://app.tettra.co/teams/se/pages/lead-flows-follow-up-email
+
+Tettra article created at https://app.tettra.co/teams/se/pages/now-live-hubspot-video
+
+Tettra article created at https://app.tettra.co/teams/se/pages/lead-flows-enabled-for-all-hs-marketing-users-by-default
+
+Tettra article created at https://app.tettra.co/teams/se/pages/where-does-the-ad-approval-get-sent-when-someone-submits-new-ads-for-the-ads-add-on
+
+Tettra article created at https://app.tettra.co/teams/se/pages/three-updates-to-lead-flows-that-further-align-them-with-forms
+
+Tettra article created at https://app.tettra.co/teams/se/pages/lead-ad-automation
+
+Tettra article created at https://app.tettra.co/teams/se/pages/lead-flowsleadin-user-role-changes-within-hubspot-marketing
+
+Tettra article created at https://app.tettra.co/teams/se/pages/recommended-post-listing-module-for-marketplace
+
+Tettra article created at https://app.tettra.co/teams/se/pages/new-form-field-types-in-lead-flows
+
+Tettra article created at https://app.tettra.co/teams/se/pages/unified-do-no-harm-tracking-across-all-ads-in-hubspot
+
+Tettra article created at https://app.tettra.co/teams/se/pages/facebook-multiple-account-support-for-ads-add-on-users
+
+Tettra article created at https://app.tettra.co/teams/se/pages/google-audiences-multiple-users-and-many-more-ads-add-on-update

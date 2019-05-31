@@ -1,0 +1,16 @@
+Katherines-MBP:code KGH$ node sekbmsv2
+
+Number of Articles Imported from CSV = 5
+Beginning upload to Tettra
+
+Skipping row 0, Title was undefined
+
+Skipping row 1, Title was undefined
+
+Skipping row 2, Title was undefined
+
+What features do you get when you have marketing starter plus the standalone CMS is Ready to Post to the Standalone CMS category.
+
+Do you get Content Partitioning without Brand Domains? is Ready to Post to the Workspaces (Brand Domains, Content Partitioning, etc.) category.
+Tettra article created at https://app.tettra.co/teams/se/pages/what-features-do-you-get-when-you-have-marketing-starter-plus-the-standalone-cms
+Tettra article created at https://app.tettra.co/teams/se/pages/do-you-get-content-partitioning-without-brand-domains

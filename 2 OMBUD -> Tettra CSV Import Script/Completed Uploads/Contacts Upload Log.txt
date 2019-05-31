@@ -1,0 +1,381 @@
+Number of Rows Imported from Contacts.csv = 95
+Beginning upload to Tettra
+
+We're Sunsetting the Legacy Public Contact Record on December 20 is being sent to Tettra.
+
+Which timeline events can you export/synchronize to an external system? is being sent to Tettra.
+
+Email Threading in HubSpot CRM is being sent to Tettra.
+
+Navigation Change in Marketing Free & Marketing Starter is being sent to Tettra.
+
+Is a contact's behavior tracked in an incognito window? is being sent to Tettra.
+
+Multiple Email Adresses For Contacts is being sent to Tettra.
+
+How do I use the Contacts tool? is being sent to Tettra.
+
+Three updates for a Cleaner Timeline: Tabs, Select-All, and New Categories is being sent to Tettra.
+
+How to Drag & Drop and Minimize Cards on Contact, Company, and Deal Records is being sent to Tettra.
+
+Can I separate my CRM and Marketing contacts to help with pricing? is being sent to Tettra.
+
+A Single Integrated Import Flow for HubSpot Marketing and Sales is being sent to Tettra.
+
+How can we perform keyword search on HubSpot Sales contacts database? is being sent to Tettra.
+
+What activities get restored if a deleted contact gets re-added or re-created? is being sent to Tettra.
+
+Unbounce Contacts is being sent to Tettra.
+
+Pageview rollup and "Upcoming" section on Contact Timelines is being sent to Tettra.
+
+Can I have multiple values in a contacts property field? is being sent to Tettra.
+
+Can I bulk import a list of values for a contact property? is being sent to Tettra.
+
+What is the character limit for a field in HubSpot? is being sent to Tettra.
+
+Removing Profile Picture from Public Contact Record is being sent to Tettra.
+
+Activity Tracking Changes for GDPR is being sent to Tettra.
+
+Companies coming to the Marketing Navigation is being sent to Tettra.
+
+We’re Sunsetting Company News is being sent to Tettra.
+
+How to segment by email subscription type? is being sent to Tettra.
+
+Optimize Your Targeting with Activities List Segmentation is being sent to Tettra.
+
+Customize Your Touch Points with Product Properties List Segmentation is being sent to Tettra.
+
+How to use Lists is being sent to Tettra.
+
+Can I see how engaged are the contacts of a specific list is being sent to Tettra.
+
+Dependent Lists Alert is being sent to Tettra.
+
+Is there a limit on how many lists I can have in HubSpot? is being sent to Tettra.
+
+Visual Refresh of the Lists Tool is being sent to Tettra.
+
+Visual Refresh of the Lists Tool and Activity Filters is being sent to Tettra.
+
+Branching Logic in Company, Ticket, & Deal Workflows is being sent to Tettra.
+
+Company-based Workflows is being sent to Tettra.
+
+Workflow Speed Improvements is being sent to Tettra.
+
+[Sunset] Persona Tagging in Workflows is being sent to Tettra.
+
+Send in-app notifications through workflows is being sent to Tettra.
+
+Rotate Leads to Teams and Custom Owners is being sent to Tettra.
+
+Can you skip holidays when sending emails via Workflows? is being sent to Tettra.
+
+Workflows Technical Limit is being sent to Tettra.
+
+We're Sunsetting Recipes is being sent to Tettra.
+
+Workflows navigation item coming to more users is being sent to Tettra.
+
+How to use Workflows is being sent to Tettra.
+
+Can I append to a Multiple Checkbox Field? is being sent to Tettra.
+
+Can I add multiple recipients to Internal Notifications is being sent to Tettra.
+
+How do I see the performance of workflows over time? is being sent to Tettra.
+
+Can I Enroll Contacts Without Email Addresses in Workflows is being sent to Tettra.
+
+Why aren't my emails available to send from a workflow? is being sent to Tettra.
+
+How can I check if a contact has been enrolled in a Workflow? is being sent to Tettra.
+
+How can I get a sample JSON output from a Workflow Webhook? is being sent to Tettra.
+
+Can property-based workflows be centered around company or deal properties? is being sent to Tettra.
+
+Is there a limit to the number of branches I can use in workflows branching logic? is being sent to Tettra.
+
+Is there a limit to the number of workflows that can be created in a portal? is being sent to Tettra.
+
+Can you create multiple lead scores in one HubSpot Portal? is being sent to Tettra.
+
+Can you add a query string to a Webhook in a Workflow? is being sent to Tettra.
+
+Workflows Alert Roll-up is being sent to Tettra.
+
+How do I assign leads to sales users in SalesForce from a workflow? is being sent to Tettra.
+
+Can I A/B test workflows? is being sent to Tettra.
+
+Deal and Ticket-based Workflows is being sent to Tettra.
+
+Themes in Forms is being sent to Tettra.
+
+Convert Non-HubSpot Forms into HubSpot Forms is being sent to Tettra.
+
+Easily Create a Copy of a Form in Another Language is being sent to Tettra.
+
+[Heads Up] We're Removing the Public Contact Record From Form Submission Notification Emails is being sent to Tettra.
+
+Collected Forms Property Mapping is being sent to Tettra.
+
+Global Style Settings for Forms is being sent to Tettra.
+
+Forms in Free is being sent to Tettra.
+
+Will GDPR Opt-in boxes that have already been checked appear on other forms is being sent to Tettra.
+
+If GDPR features are enabled, and users don't opt-in on a form, will they be removed from workflows in which they are active? is being sent to Tettra.
+
+Do GDPR enabled features only pertain to those in the EU? is being sent to Tettra.
+
+Google’s Invisible reCAPTCHA Available on all HubSpot Forms is being sent to Tettra.
+
+Forms Fallback: Continue to Collect Leads When a Visitor Has an Ad Blocker Installed is being sent to Tettra.
+
+Refined Submission Process & Validation for HubSpot Forms is being sent to Tettra.
+
+How to use Forms is being sent to Tettra.
+
+Do your forms and database normalize phone numbers? is being sent to Tettra.
+
+Can a customer use the form API to get the form on their site connected to hubspot? is being sent to Tettra.
+
+Forms AJAX Submission Endpoint - A new option for client side is being sent to Tettra.
+
+How to pre-populate a form for newly imported contacts (no cookie yet)? is being sent to Tettra.
+
+Visually Refreshed Form Notification Email is being sent to Tettra.
+
+Do we pre-populate the form fields that have already been filled out on a custom form? is being sent to Tettra.
+
+What fields are displayed in a form when a contact has filled out all of the fields in a from? is being sent to Tettra.
+
+Two Forms Updates (Refreshed Dashboard, and Inline Thank You Message) is being sent to Tettra.
+
+New Forms Editor is being sent to Tettra.
+
+Does HubSpot plan to implement Explicit Single Opt-in? is being sent to Tettra.
+
+Form submissions export access now matches contact data export access is being sent to Tettra.
+
+Upload Multiple Files at once to your Forms is being sent to Tettra.
+
+A Shareable Link for your Forms is being sent to Tettra.
+
+Folders in Forms is being sent to Tettra.
+
+Auto-save for Forms is being sent to Tettra.
+
+Upcoming Changes to Predictive Lead Scoring, including a 4x improvement in accuracy. is being sent to Tettra.
+
+Custom Model in Predictive Lead Scoring is being sent to Tettra.
+
+What happens if you update your manual scoring model? is being sent to Tettra.
+
+Skipping row 92, Title was undefined
+
+Report More Accurately on your Contacts by Editing their Original Source Property is being sent to Tettra.
+
+Create Custom Owner Properties in HubSpot is being sent to Tettra.
+
+New Default Contact Property for “Last Meeting Booked” is being sent to Tettra.
+
+A New Home for Personas in HubSpot is being sent to Tettra.
+
+Tettra article created at https://app.tettra.co/teams/se/pages/which-timeline-events-can-you-exportsynchronize-to-an-external-system
+
+Tettra article created at https://app.tettra.co/teams/se/pages/is-a-contacts-behavior-tracked-in-an-incognito-window
+
+Tettra article created at https://app.tettra.co/teams/se/pages/pageview-rollup-and-upcoming-section-on-contact-timelines
+
+Tettra article created at https://app.tettra.co/teams/se/pages/removing-profile-picture-from-public-contact-record
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-i-bulk-import-a-list-of-values-for-a-contact-property
+
+Tettra article created at https://app.tettra.co/teams/se/pages/companies-coming-to-the-marketing-navigation
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-you-skip-holidays-when-sending-emails-via-workflows
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-do-i-see-the-performance-of-workflows-over-time
+
+Tettra article created at https://app.tettra.co/teams/se/pages/navigation-change-in-marketing-free-marketing-starter
+
+Tettra article created at https://app.tettra.co/teams/se/pages/a-single-integrated-import-flow-for-hubspot-marketing-and-sales
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-drag-drop-and-minimize-cards-on-contact-company-and-deal-records
+
+Tettra article created at https://app.tettra.co/teams/se/pages/visual-refresh-of-the-lists-tool
+
+Tettra article created at https://app.tettra.co/teams/se/pages/googles-invisible-recaptcha-available-on-all-hubspot-forms
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-use-workflows
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-activities-get-restored-if-a-deleted-contact-gets-re-added-or-re-created
+
+Tettra article created at https://app.tettra.co/teams/se/pages/upload-multiple-files-at-once-to-your-forms
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-i-see-how-engaged-are-the-contacts-of-a-specific-list
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-i-enroll-contacts-without-email-addresses-in-workflows
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-is-the-character-limit-for-a-field-in-hubspot
+
+Tettra article created at https://app.tettra.co/teams/se/pages/if-gdpr-features-are-enabled-and-users-dont-opt-in-on-a-form-will-they-be-removed-from-workflows-in-which-they-are-active
+
+Tettra article created at https://app.tettra.co/teams/se/pages/will-gdpr-opt-in-boxes-that-have-already-been-checked-appear-on-other-forms
+
+Tettra article created at https://app.tettra.co/teams/se/pages/unbounce-contacts
+
+Tettra article created at https://app.tettra.co/teams/se/pages/do-your-forms-and-database-normalize-phone-numbers
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-can-we-perform-keyword-search-on-hubspot-sales-contacts-database
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-i-separate-my-crm-and-marketing-contacts-to-help-with-pricing
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-can-i-get-a-sample-json-output-from-a-workflow-webhook
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-do-i-use-the-contacts-tool
+
+Tettra article created at https://app.tettra.co/teams/se/pages/branching-logic-in-company-ticket-deal-workflows
+
+Tettra article created at https://app.tettra.co/teams/se/pages/a-new-home-for-personas-in-hubspot
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-pre-populate-a-form-for-newly-imported-contacts-no-cookie-yet
+
+Tettra article created at https://app.tettra.co/teams/se/pages/convert-non-hubspot-forms-into-hubspot-forms
+
+Tettra article created at https://app.tettra.co/teams/se/pages/company-based-workflows
+
+Tettra article created at https://app.tettra.co/teams/se/pages/is-there-a-limit-to-the-number-of-branches-i-can-use-in-workflows-branching-logic
+
+Tettra article created at https://app.tettra.co/teams/se/pages/heads-up-were-removing-the-public-contact-record-from-form-submission-notification-emails
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-fields-are-displayed-in-a-form-when-a-contact-has-filled-out-all-of-the-fields-in-a-from
+
+Tettra article created at https://app.tettra.co/teams/se/pages/were-sunsetting-recipes
+
+Tettra article created at https://app.tettra.co/teams/se/pages/forms-ajax-submission-endpoint-a-new-option-for-client-side
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-use-lists
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-i-have-multiple-values-in-a-contacts-property-field
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-i-add-multiple-recipients-to-internal-notifications
+
+Tettra article created at https://app.tettra.co/teams/se/pages/folders-in-forms
+
+Tettra article created at https://app.tettra.co/teams/se/pages/create-custom-owner-properties-in-hubspot
+
+Tettra article created at https://app.tettra.co/teams/se/pages/workflows-technical-limit
+
+Tettra article created at https://app.tettra.co/teams/se/pages/forms-in-free
+
+Tettra article created at https://app.tettra.co/teams/se/pages/optimize-your-targeting-with-activities-list-segmentation
+
+Tettra article created at https://app.tettra.co/teams/se/pages/were-sunsetting-the-legacy-public-contact-record-on-december-20
+
+Tettra article created at https://app.tettra.co/teams/se/pages/report-more-accurately-on-your-contacts-by-editing-their-original-source-property
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-use-forms
+
+Tettra article created at https://app.tettra.co/teams/se/pages/do-we-pre-populate-the-form-fields-that-have-already-been-filled-out-on-a-custom-form
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-happens-if-you-update-your-manual-scoring-model
+
+Tettra article created at https://app.tettra.co/teams/se/pages/were-sunsetting-company-news
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-property-based-workflows-be-centered-around-company-or-deal-properties
+
+Tettra article created at https://app.tettra.co/teams/se/pages/dependent-lists-alert
+
+Tettra article created at https://app.tettra.co/teams/se/pages/sunset-persona-tagging-in-workflows
+
+Tettra article created at https://app.tettra.co/teams/se/pages/do-gdpr-enabled-features-only-pertain-to-those-in-the-eu
+
+Tettra article created at https://app.tettra.co/teams/se/pages/workflow-speed-improvements
+
+Tettra article created at https://app.tettra.co/teams/se/pages/workflows-alert-roll-up
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-you-add-a-query-string-to-a-webhook-in-a-workflow
+
+Tettra article created at https://app.tettra.co/teams/se/pages/new-forms-editor
+
+Tettra article created at https://app.tettra.co/teams/se/pages/is-there-a-limit-on-how-many-lists-i-can-have-in-hubspot
+
+Tettra article created at https://app.tettra.co/teams/se/pages/custom-model-in-predictive-lead-scoring
+
+Tettra article created at https://app.tettra.co/teams/se/pages/two-forms-updates-refreshed-dashboard-and-inline-thank-you-message
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-segment-by-email-subscription-type
+
+Tettra article created at https://app.tettra.co/teams/se/pages/upcoming-changes-to-predictive-lead-scoring-including-a-4x-improvement-in-accuracy
+
+Tettra article created at https://app.tettra.co/teams/se/pages/activity-tracking-changes-for-gdpr
+
+Tettra article created at https://app.tettra.co/teams/se/pages/visual-refresh-of-the-lists-tool-and-activity-filters
+
+Tettra article created at https://app.tettra.co/teams/se/pages/rotate-leads-to-teams-and-custom-owners
+
+Tettra article created at https://app.tettra.co/teams/se/pages/easily-create-a-copy-of-a-form-in-another-language
+
+Tettra article created at https://app.tettra.co/teams/se/pages/deal-and-ticket-based-workflows
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-hubspot-plan-to-implement-explicit-single-opt-in
+
+Tettra article created at https://app.tettra.co/teams/se/pages/email-threading-in-hubspot-crm-1
+
+Tettra article created at https://app.tettra.co/teams/se/pages/three-updates-for-a-cleaner-timeline-tabs-select-all-and-new-categories
+
+Tettra article created at https://app.tettra.co/teams/se/pages/refined-submission-process-validation-for-hubspot-forms
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-can-i-check-if-a-contact-has-been-enrolled-in-a-workflow
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-i-ab-test-workflows
+
+Tettra article created at https://app.tettra.co/teams/se/pages/multiple-email-adresses-for-contacts
+
+Tettra article created at https://app.tettra.co/teams/se/pages/is-there-a-limit-to-the-number-of-workflows-that-can-be-created-in-a-portal
+
+Tettra article created at https://app.tettra.co/teams/se/pages/why-arent-my-emails-available-to-send-from-a-workflow
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-a-customer-use-the-form-api-to-get-the-form-on-their-site-connected-to-hubspot
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-you-create-multiple-lead-scores-in-one-hubspot-portal
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-do-i-assign-leads-to-sales-users-in-salesforce-from-a-workflow
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-i-append-to-a-multiple-checkbox-field
+
+Tettra article created at https://app.tettra.co/teams/se/pages/send-in-app-notifications-through-workflows
+
+Tettra article created at https://app.tettra.co/teams/se/pages/themes-in-forms
+
+Tettra article created at https://app.tettra.co/teams/se/pages/visually-refreshed-form-notification-email
+
+Tettra article created at https://app.tettra.co/teams/se/pages/customize-your-touch-points-with-product-properties-list-segmentation
+
+Tettra article created at https://app.tettra.co/teams/se/pages/form-submissions-export-access-now-matches-contact-data-export-access
+
+Tettra article created at https://app.tettra.co/teams/se/pages/auto-save-for-forms
+
+Tettra article created at https://app.tettra.co/teams/se/pages/new-default-contact-property-for-last-meeting-booked
+
+Tettra article created at https://app.tettra.co/teams/se/pages/workflows-navigation-item-coming-to-more-users
+
+Tettra article created at https://app.tettra.co/teams/se/pages/global-style-settings-for-forms
+
+Tettra article created at https://app.tettra.co/teams/se/pages/collected-forms-property-mapping
+
+Tettra article created at https://app.tettra.co/teams/se/pages/forms-fallback-continue-to-collect-leads-when-a-visitor-has-an-ad-blocker-installed
+
+Tettra article created at https://app.tettra.co/teams/se/pages/a-shareable-link-for-your-forms
+Katherines-MBP:code KGH$

@@ -1,0 +1,216 @@
+Katherines-MBP:code KGH$ node sekbmsv2
+
+Number of Articles Imported from CSV = 71
+Beginning upload to Tettra
+
+We’re experimenting with a unified lead capture experience is being sent to Tettra.
+
+Analyze Tab Reports are Moving to the Reports Library is being sent to Tettra.
+
+Introducing the new Report Builder (Including Cross-Object Reporting) is being sent to Tettra.
+
+Create New or Customize Pre-Built Ticket Reports is being sent to Tettra.
+
+My Home is being sent to Tettra.
+
+Change Filters for Dashboard Emails is being sent to Tettra.
+
+How to use the Reporting Dashboard is being sent to Tettra.
+
+What is the New User Role in Reporting Add-On? is being sent to Tettra.
+
+What is included on the Partner dashboard? is being sent to Tettra.
+
+How can you drill down in the reporting add-on and Marketing dashboard is being sent to Tettra.
+
+How to search the Reporting Dashboard widget library is being sent to Tettra.
+
+How to clone reports from the Reporting Dashboard is being sent to Tettra.
+
+How to add a Note to the Reporting Dashboard is being sent to Tettra.
+
+How to email dashboards is being sent to Tettra.
+
+How to refine dashboard sharing and permissions is being sent to Tettra.
+
+Can you view percentages on the dashboard? is being sent to Tettra.
+
+How the Reporting Dashboard handles erroring reports is being sent to Tettra.
+
+A New Web Analytics Dashboard is being sent to Tettra.
+
+Visual Exports of your HubSpot Dashboards is being sent to Tettra.
+
+Engagement Report Filters in the Reporting Add-on is being sent to Tettra.
+
+What are the limits of the reporting add-on? is being sent to Tettra.
+
+How many dashboards can I create in the Reporting Add-on? is being sent to Tettra.
+
+More flexible filtering on HubSpot dashboards is being sent to Tettra.
+
+Five New Contact Report Templates for HubSpot Marketing Customers is being sent to Tettra.
+
+How do I learn the Reports Dashboard? is being sent to Tettra.
+
+How can I report on contact, mql, and customer sources for a secondary domain in an Enterprise HubSpot Portal? is being sent to Tettra.
+
+Set a Default Dashboard or Manage your Dashboards is being sent to Tettra.
+
+Report on the Success of your Smart Content with Smart Content Reporting is being sent to Tettra.
+
+Closed-loop revenue reporting for abandoned cart emails is being sent to Tettra.
+
+New Report Builder (Including Cross-Object Reporting) is being sent to Tettra.
+
+A New Place to Save and Manage Your Reports in HubSpot is being sent to Tettra.
+
+How to Use Reports is being sent to Tettra.
+
+Can you restart an expired reporting trail for a portal? is being sent to Tettra.
+
+What does attribution reporting look like in Pro vs. Enterprise? is being sent to Tettra.
+
+How do I create a tracking URL? is being sent to Tettra.
+
+New Deal Snapshot report is being sent to Tettra.
+
+Team Productivity in Analytics Tools for Sales & Service teams is being sent to Tettra.
+
+Contact Analytics is being sent to Tettra.
+
+Web Metrics available on Blog Post, Landing Page, and Website Page Detail Pages is being sent to Tettra.
+
+Campaign Analytics in HubSpot is being sent to Tettra.
+
+A New, Unified Interface for Sources & Page Performance is being sent to Tettra.
+
+Two New Ways to Report on Templates is being sent to Tettra.
+
+View two metrics at the same time with the 'Combination' report visualization in sources and pages is being sent to Tettra.
+
+How to Use Sources Report is being sent to Tettra.
+
+How does HubSpot categorize Visits, Contacts, and Customers in the Sources Report? is being sent to Tettra.
+
+New Bucket for "Paid Social" in Sources is being sent to Tettra.
+
+When looking at Paid Traffic via Sources why are the bulk of the keywords filed under "Content Network (Adsense or Other)"? How can he get better data on these words? is being sent to Tettra.
+
+How does HubSpot track affiliate leads? is being sent to Tettra.
+
+Drill Down into Direct Traffic within the Sources Report is being sent to Tettra.
+
+Deal Source Reports added to canned reports with the Report Library is being sent to Tettra.
+
+How to Use the Page Performance Report is being sent to Tettra.
+
+Keywords Has Been Sunset from the Marketing Hub is being sent to Tettra.
+
+How to Use Keywords Report is being sent to Tettra.
+
+Skipping row 54, Title was undefined
+
+Easily Create Custom Events through the Custom Events Chrome Extension is being sent to Tettra.
+
+Event Funnel Reports is being sent to Tettra.
+
+Visual Refresh of the Events Analytics Dashboard is being sent to Tettra.
+
+How to use Events is being sent to Tettra.
+
+How custom events can tie to mobile app and push notifications is being sent to Tettra.
+
+How custom events can be used to build a mobile app using Beacons for Location Based Marketing is being sent to Tettra.
+
+Changes to Events Reporting is being sent to Tettra.
+
+How do I install the HubSpot tracking code on my website? is being sent to Tettra.
+
+Where is the tracking code hosted? is being sent to Tettra.
+
+Is the tracking code loaded asynchronously? is being sent to Tettra.
+
+Are tracking events added to a queued-array that can be processed after window.load? is being sent to Tettra.
+
+Can I Filter Out Specific Referring Domains from HubSpot Reports is being sent to Tettra.
+
+Bot Filter Checkbox in Reports Settings is being sent to Tettra.
+
+Analytics Tracking for Single-Page Applications is being sent to Tettra.
+
+Does HubSpot work with Wix is being sent to Tettra.
+
+Can I have several HubSpot tracking code on one website? is being sent to Tettra.
+
+How do I track multiple domains with HubSpot? is being sent to Tettra.
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-add-a-note-to-the-reporting-dashboard
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-search-the-reporting-dashboard-widget-library
+Tettra article created at https://app.tettra.co/teams/se/pages/what-is-included-on-the-partner-dashboard
+Tettra article created at https://app.tettra.co/teams/se/pages/how-the-reporting-dashboard-handles-erroring-reports
+Tettra article created at https://app.tettra.co/teams/se/pages/what-are-the-limits-of-the-reporting-add-on
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-use-sources-report
+Tettra article created at https://app.tettra.co/teams/se/pages/can-you-view-percentages-on-the-dashboard
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-clone-reports-from-the-reporting-dashboard
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-use-the-page-performance-report
+Tettra article created at https://app.tettra.co/teams/se/pages/change-filters-for-dashboard-emails
+Tettra article created at https://app.tettra.co/teams/se/pages/what-is-the-new-user-role-in-reporting-add-on
+Tettra article created at https://app.tettra.co/teams/se/pages/how-can-you-drill-down-in-the-reporting-add-on-and-marketing-dashboard
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-use-reports
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-use-keywords-report
+Tettra article created at https://app.tettra.co/teams/se/pages/keywords-has-been-sunset-from-the-marketing-hub
+Tettra article created at https://app.tettra.co/teams/se/pages/can-you-restart-an-expired-reporting-trail-for-a-portal
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-email-dashboards
+Tettra article created at https://app.tettra.co/teams/se/pages/visual-exports-of-your-hubspot-dashboards
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-refine-dashboard-sharing-and-permissions
+Tettra article created at https://app.tettra.co/teams/se/pages/is-the-tracking-code-loaded-asynchronously
+Tettra article created at https://app.tettra.co/teams/se/pages/where-is-the-tracking-code-hosted
+Tettra article created at https://app.tettra.co/teams/se/pages/deal-source-reports-added-to-canned-reports-with-the-report-library
+Tettra article created at https://app.tettra.co/teams/se/pages/new-report-builder-including-cross-object-reporting
+Tettra article created at https://app.tettra.co/teams/se/pages/how-can-i-report-on-contact-mql-and-customer-sources-for-a-secondary-domain-in-an-enterprise-hubspot-portal
+Tettra article created at https://app.tettra.co/teams/se/pages/can-i-have-several-hubspot-tracking-code-on-one-website
+Tettra article created at https://app.tettra.co/teams/se/pages/what-does-attribution-reporting-look-like-in-pro-vs-enterprise
+Tettra article created at https://app.tettra.co/teams/se/pages/how-custom-events-can-be-used-to-build-a-mobile-app-using-beacons-for-location-based-marketing
+Tettra article created at https://app.tettra.co/teams/se/pages/how-do-i-track-multiple-domains-with-hubspot
+Tettra article created at https://app.tettra.co/teams/se/pages/analyze-tab-reports-are-moving-to-the-reports-library
+Tettra article created at https://app.tettra.co/teams/se/pages/engagement-report-filters-in-the-reporting-add-on
+Tettra article created at https://app.tettra.co/teams/se/pages/were-experimenting-with-a-unified-lead-capture-experience
+Tettra article created at https://app.tettra.co/teams/se/pages/changes-to-events-reporting
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-use-the-reporting-dashboard
+Tettra article created at https://app.tettra.co/teams/se/pages/can-i-filter-out-specific-referring-domains-from-hubspot-reports
+Tettra article created at https://app.tettra.co/teams/se/pages/set-a-default-dashboard-or-manage-your-dashboards
+Tettra article created at https://app.tettra.co/teams/se/pages/bot-filter-checkbox-in-reports-settings
+Tettra article created at https://app.tettra.co/teams/se/pages/report-on-the-success-of-your-smart-content-with-smart-content-reporting
+Tettra article created at https://app.tettra.co/teams/se/pages/how-many-dashboards-can-i-create-in-the-reporting-add-on
+Tettra article created at https://app.tettra.co/teams/se/pages/closed-loop-revenue-reporting-for-abandoned-cart-emails
+Tettra article created at https://app.tettra.co/teams/se/pages/more-flexible-filtering-on-hubspot-dashboards
+Tettra article created at https://app.tettra.co/teams/se/pages/team-productivity-in-analytics-tools-for-sales-service-teams
+Tettra article created at https://app.tettra.co/teams/se/pages/new-deal-snapshot-report
+Tettra article created at https://app.tettra.co/teams/se/pages/campaign-analytics-in-hubspot
+Tettra article created at https://app.tettra.co/teams/se/pages/five-new-contact-report-templates-for-hubspot-marketing-customers
+Tettra article created at https://app.tettra.co/teams/se/pages/how-do-i-create-a-tracking-url
+Tettra article created at https://app.tettra.co/teams/se/pages/contact-analytics
+Tettra article created at https://app.tettra.co/teams/se/pages/create-new-or-customize-pre-built-ticket-reports
+Tettra article created at https://app.tettra.co/teams/se/pages/two-new-ways-to-report-on-templates
+Tettra article created at https://app.tettra.co/teams/se/pages/easily-create-custom-events-through-the-custom-events-chrome-extension
+Tettra article created at https://app.tettra.co/teams/se/pages/my-home
+Tettra article created at https://app.tettra.co/teams/se/pages/a-new-place-to-save-and-manage-your-reports-in-hubspot
+Tettra article created at https://app.tettra.co/teams/se/pages/a-new-unified-interface-for-sources-page-performance
+Tettra article created at https://app.tettra.co/teams/se/pages/how-do-i-install-the-hubspot-tracking-code-on-my-website
+Tettra article created at https://app.tettra.co/teams/se/pages/web-metrics-available-on-blog-post-landing-page-and-website-page-detail-pages
+Tettra article created at https://app.tettra.co/teams/se/pages/analytics-tracking-for-single-page-applications
+Tettra article created at https://app.tettra.co/teams/se/pages/does-hubspot-work-with-wix
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-hubspot-track-affiliate-leads
+Tettra article created at https://app.tettra.co/teams/se/pages/how-do-i-learn-the-reports-dashboard
+Tettra article created at https://app.tettra.co/teams/se/pages/drill-down-into-direct-traffic-within-the-sources-report
+Tettra article created at https://app.tettra.co/teams/se/pages/when-looking-at-paid-traffic-via-sources-why-are-the-bulk-of-the-keywords-filed-under-content-network-adsense-or-other-how-can-he-get-better-data-on-these-words
+Tettra article created at https://app.tettra.co/teams/se/pages/view-two-metrics-at-the-same-time-with-the-combination-report-visualization-in-sources-and-pages
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-use-events
+Tettra article created at https://app.tettra.co/teams/se/pages/introducing-the-new-report-builder-including-cross-object-reporting
+Tettra article created at https://app.tettra.co/teams/se/pages/are-tracking-events-added-to-a-queued-array-that-can-be-processed-after-windowload
+Tettra article created at https://app.tettra.co/teams/se/pages/how-custom-events-can-tie-to-mobile-app-and-push-notifications
+Tettra article created at https://app.tettra.co/teams/se/pages/event-funnel-reports
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-hubspot-categorize-visits-contacts-and-customers-in-the-sources-report
+Tettra article created at https://app.tettra.co/teams/se/pages/a-new-web-analytics-dashboard
+Tettra article created at https://app.tettra.co/teams/se/pages/visual-refresh-of-the-events-analytics-dashboard
+Tettra article created at https://app.tettra.co/teams/se/pages/new-bucket-for-paid-social-in-sources

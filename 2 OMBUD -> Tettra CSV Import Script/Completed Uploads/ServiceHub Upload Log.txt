@@ -1,0 +1,135 @@
+Number of Articles Imported from ServiceHub.csv = 33
+Beginning upload to Tettra
+
+[Now Live] Service Hub Enterprise is being sent to Tettra.
+
+Service Hub Starter is being sent to Tettra.
+
+What is the future roadmap for bots in HubSpot? is being sent to Tettra.
+
+Import 2 for Service Hub is being sent to Tettra.
+
+Which Slack channels should we use to provide feedback and ask questions about Service Hub is being sent to Tettra.
+
+How does Service Hub differ from Sales Professional? is being sent to Tettra.
+
+Service Hub is being sent to Tettra.
+
+How to export Tickets is being sent to Tettra.
+
+File upload property is being sent to Tettra.
+
+How to setup email notifications when Tickets are opened or closed is being sent to Tettra.
+
+Import Tickets and Products to Your CRM with a Refreshed UI is being sent to Tettra.
+
+Article Feedback is being sent to Tettra.
+
+Service Hub touchless onboarding changes (October 2018) is being sent to Tettra.
+
+Search Reporting is being sent to Tettra.
+
+Reorder Categories & Articles is being sent to Tettra.
+
+Can you embed a form on a Knowledge base article? is being sent to Tettra.
+
+Can you import Knowledge Base Articles into HubSpot? is being sent to Tettra.
+
+Embedded Automation is being sent to Tettra.
+
+Customer Experience Survey Web Delivery in Feedback is being sent to Tettra.
+
+Service Hub. Feedback: Flexibility & Customization Updates is being sent to Tettra.
+
+Specify a Ticket Pipeline for Customer Support Surveys is being sent to Tettra.
+
+How does the Customer Experience Surveys work? is being sent to Tettra.
+
+Bots Inbox is being sent to Tettra.
+
+Bots are now available in Sales Hub Starter and Sales Hub Professional is being sent to Tettra.
+
+Does the Chat feature comply with the new GDPR regulations? is being sent to Tettra.
+
+Customer Feedback Emails is being sent to Tettra.
+
+Which languages do Surveys support? is being sent to Tettra.
+
+Typing Indicators & Read Receipts for Live Chat is being sent to Tettra.
+
+Easily Manage Deals via Conversations is being sent to Tettra.
+
+Hosted Email for Conversations is being sent to Tettra.
+
+New Availability Settings for Conversations is being sent to Tettra.
+
+If an unknown person emails support, are they added as a contact? If so, what is their lifecycle stage? What is their original source? is being sent to Tettra.
+
+If an unknown person starts a chat, are they added as a contact? If so, what is their lifecycle stage? What is their original source? is being sent to Tettra.
+
+Tettra article created at https://app.tettra.co/teams/se/pages/import-tickets-and-products-to-your-crm-with-a-refreshed-ui
+
+Tettra article created at https://app.tettra.co/teams/se/pages/file-upload-property
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-export-tickets
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-setup-email-notifications-when-tickets-are-opened-or-closed
+
+Tettra article created at https://app.tettra.co/teams/se/pages/service-hub-touchless-onboarding-changes-october-2018
+
+Tettra article created at https://app.tettra.co/teams/se/pages/new-availability-settings-for-conversations
+
+Tettra article created at https://app.tettra.co/teams/se/pages/bots-inbox
+
+Tettra article created at https://app.tettra.co/teams/se/pages/service-hub-starter
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-you-import-knowledge-base-articles-into-hubspot
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-the-chat-feature-comply-with-the-new-gdpr-regulations
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-service-hub-differ-from-sales-professional
+
+Tettra article created at https://app.tettra.co/teams/se/pages/bots-are-now-available-in-sales-hub-starter-and-sales-hub-professional
+
+Tettra article created at https://app.tettra.co/teams/se/pages/reorder-categories-articles
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-you-embed-a-form-on-a-knowledge-base-article
+
+Tettra article created at https://app.tettra.co/teams/se/pages/which-slack-channels-should-we-use-to-provide-feedback-and-ask-questions-about-service-hub
+
+Tettra article created at https://app.tettra.co/teams/se/pages/typing-indicators-read-receipts-for-live-chat
+
+Tettra article created at https://app.tettra.co/teams/se/pages/service-hub
+
+Tettra article created at https://app.tettra.co/teams/se/pages/embedded-automation
+
+Tettra article created at https://app.tettra.co/teams/se/pages/which-languages-do-surveys-support
+
+Tettra article created at https://app.tettra.co/teams/se/pages/if-an-unknown-person-starts-a-chat-are-they-added-as-a-contact-if-so-what-is-their-lifecycle-stage-what-is-their-original-source
+
+Tettra article created at https://app.tettra.co/teams/se/pages/article-feedback
+
+Tettra article created at https://app.tettra.co/teams/se/pages/customer-feedback-emails
+
+Tettra article created at https://app.tettra.co/teams/se/pages/customer-experience-survey-web-delivery-in-feedback
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-is-the-future-roadmap-for-bots-in-hubspot
+
+Tettra article created at https://app.tettra.co/teams/se/pages/import-2-for-service-hub
+
+Tettra article created at https://app.tettra.co/teams/se/pages/now-live-service-hub-enterprise
+
+Tettra article created at https://app.tettra.co/teams/se/pages/specify-a-ticket-pipeline-for-customer-support-surveys
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-the-customer-experience-surveys-work
+
+Tettra article created at https://app.tettra.co/teams/se/pages/hosted-email-for-conversations
+
+Tettra article created at https://app.tettra.co/teams/se/pages/if-an-unknown-person-emails-support-are-they-added-as-a-contact-if-so-what-is-their-lifecycle-stage-what-is-their-original-source
+
+Tettra article created at https://app.tettra.co/teams/se/pages/easily-manage-deals-via-conversations
+
+Tettra article created at https://app.tettra.co/teams/se/pages/search-reporting
+
+Tettra article created at https://app.tettra.co/teams/se/pages/service-hub-feedback-flexibility-customization-updates
+Katherines-MBP:code KGH$

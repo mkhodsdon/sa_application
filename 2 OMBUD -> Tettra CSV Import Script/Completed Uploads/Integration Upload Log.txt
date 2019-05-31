@@ -1,0 +1,1024 @@
+Integration Enablement is being sent to Tettra.
+
+How can I integrate my own phone system so calls appear on the contact timeline? is being sent to Tettra.
+
+How does the Accelo integration work? is being sent to Tettra.
+
+AdEspresso by Hootsuite is being sent to Tettra.
+
+How does the AdRoll integration work? is being sent to Tettra.
+
+How does the AirCall HubSpot Integration Work? is being sent to Tettra.
+
+What does the Aircall integration do? is being sent to Tettra.
+
+Animoto Integration is being sent to Tettra.
+
+HTTP requests error results is being sent to Tettra.
+
+How many API calls can I get? is being sent to Tettra.
+
+How do you trigger mass emails from an external system? is being sent to Tettra.
+
+Integrating Hubspot using AWS API Gateways is being sent to Tettra.
+
+Timeline & Webhooks API is being sent to Tettra.
+
+Single Send API (Transactional Email) is being sent to Tettra.
+
+Ability to check API usage [dev tools] is being sent to Tettra.
+
+Can you import a csv file of contacts using a script? is being sent to Tettra.
+
+HubSpot Custom Shopping Cart Integration Guide is being sent to Tettra.
+
+Which partners can we recommend for custom integrations projects? is being sent to Tettra.
+
+How do I integrate my eCommerce shopping cart with HubSpot? is being sent to Tettra.
+
+CRM Extensions API is being sent to Tettra.
+
+Do we offer a trial of Transactional Email? is being sent to Tettra.
+
+Oauth2 goes into effect 1/19/18 is being sent to Tettra.
+
+Do transactional e-mail sends count towards the API call limits? is being sent to Tettra.
+
+What is the difference between REST and SOAP? is being sent to Tettra.
+
+List of Companies with CRM Extensions API Integrations. is being sent to Tettra.
+
+Do HubSpot Connect integrations count toward the 40k API limit? is being sent to Tettra.
+
+7 new APIs including: Ecomm Bridge, Tickets, and Analytics is being sent to Tettra.
+
+Apiant Lunch & Learn is being sent to Tettra.
+
+How does the App Data Room integration work? is being sent to Tettra.
+
+ArcBright Integration is being sent to Tettra.
+
+How does the AskNicely integration work? is being sent to Tettra.
+
+Atomic Reach Integration is being sent to Tettra.
+
+How does the Automate.io integration work? is being sent to Tettra.
+
+Automate.io Available Triggers and Actions is being sent to Tettra.
+
+How does the Azuqua integration work? is being sent to Tettra.
+
+Azuqua Skills Training is being sent to Tettra.
+
+How does the Beacon integration work? is being sent to Tettra.
+
+Bedrock Business Intelligence Connector (Fusion) is being sent to Tettra.
+
+Does Bedrock offer special pricing for HubSpot customers? is being sent to Tettra.
+
+Who is our point of contact at Bedrock? is being sent to Tettra.
+
+Bedrock Lunch & Learn is being sent to Tettra.
+
+Bedrock onboarding and pricing - setting expectations is being sent to Tettra.
+
+Belch.io Integration is being sent to Tettra.
+
+What does BoomTrain's integration cost and include? is being sent to Tettra.
+
+Brightcove Integration is being sent to Tettra.
+
+briX Integration is being sent to Tettra.
+
+Is there a pre-built integration with Bullhorn CRM? is being sent to Tettra.
+
+How many customers have RecruitBrain integration HubSpot with Bullhorn CRM? is being sent to Tettra.
+
+Does Call Tracking Metrics integrate with HubSpot? is being sent to Tettra.
+
+CData Integration is being sent to Tettra.
+
+Ceros Integration is being sent to Tettra.
+
+Cincopa Integration is being sent to Tettra.
+
+Dasheroo Integration is being sent to Tettra.
+
+How does the Databox integration work? is being sent to Tettra.
+
+Datanyze Integration is being sent to Tettra.
+
+DepositFix Integration is being sent to Tettra.
+
+Design Wizard Integration is being sent to Tettra.
+
+Skipping row 60, Body was undefined
+
+How does HubSpot integrate with Call Rail? is being sent to Tettra.
+
+Does CallRail bring in Historical Data upon Integrating? is being sent to Tettra.
+
+Conversica Integration is being sent to Tettra.
+
+What are our dialer integration options? is being sent to Tettra.
+
+Does HubSpot integrate with Discover.org? is being sent to Tettra.
+
+Dossier Integration is being sent to Tettra.
+
+How does the Drift integration work? is being sent to Tettra.
+
+When Drift collects a visitor's email, does this start tracking the visitor? is being sent to Tettra.
+
+How does the Elixir Integration Work? is being sent to Tettra.
+
+How does the Enthusem integration work? is being sent to Tettra.
+
+Who is our point of contact at Enthusem? is being sent to Tettra.
+
+How does the Eventbrite integration work? is being sent to Tettra.
+
+Does our native Eventbrite integration sync revenue data from Eventbrite? is being sent to Tettra.
+
+Does HubSpot integrate with FileMaker? is being sent to Tettra.
+
+Fomo is being sent to Tettra.
+
+Does HubSpot CRM integrate with Freshbooks? is being sent to Tettra.
+
+How does the Front integration work?
+ is being sent to Tettra.
+
+G-Accon Integration is being sent to Tettra.
+
+How does the GetAccept integration work? is being sent to Tettra.
+
+HubSpot Collect & Google Docs Integration is being sent to Tettra.
+
+Skipping row 81, Title was undefined
+
+Do HubSpot provide Gravity Forms integration? is being sent to Tettra.
+
+Grow Integration is being sent to Tettra.
+
+Help Scout Integration is being sent to Tettra.
+
+Send contracts directly from HubSpot CRM through HelloSign
+ is being sent to Tettra.
+
+HourStack Integration is being sent to Tettra.
+
+Import2 Wizard Integration is being sent to Tettra.
+
+How does the Inboundli integration work? is being sent to Tettra.
+
+Inbound AddOns is being sent to Tettra.
+
+Instapage Integration is being sent to Tettra.
+
+Insycle Integration is being sent to Tettra.
+
+How does the Intercom integration work? is being sent to Tettra.
+
+Does Invoca help with Inbound Call tracking? is being sent to Tettra.
+
+How does the Join.me integration work? is being sent to Tettra.
+
+Embedded HubSpot Forms with Joomla is being sent to Tettra.
+
+JustUno Integration is being sent to Tettra.
+
+Line Integration is being sent to Tettra.
+
+JustCall Integration is being sent to Tettra.
+
+Kickbox Integration is being sent to Tettra.
+
+Kixie Integration is being sent to Tettra.
+
+LeadDyno Integration is being sent to Tettra.
+
+How does the LiveChat integration work? is being sent to Tettra.
+
+How does the Lucky Orange integration work? is being sent to Tettra.
+
+How does the LeadsBridge integration work? is being sent to Tettra.
+
+Who is the POC for LyntonWeb? is being sent to Tettra.
+
+Does HubSpot integrate with Magento 2? is being sent to Tettra.
+
+Can we sync Magento info from eBay and Amazon? is being sent to Tettra.
+
+What fields do Magento sync to HubSpot? is being sent to Tettra.
+
+MagneticOne Mobile Business Card Scanning Integration is being sent to Tettra.
+
+Can we sync up Mailchimp mailings with HubSpot so that all analytics and tracking can be done through that platform? is being sent to Tettra.
+
+Map My Call Integration is being sent to Tettra.
+
+How does Microsoft Dynamics integrate through Scribe? is being sent to Tettra.
+
+What does the HubSpot and Dynamics integration look like? is being sent to Tettra.
+
+Can we sync historic MS Dynamics activities to HubSpot? is being sent to Tettra.
+
+Needls Integration is being sent to Tettra.
+
+NetSuite integration through LyntonWeb (via Scribe) is being sent to Tettra.
+
+Does HubSpot integrate with the Nexmo platform? is being sent to Tettra.
+
+Oktopost Integration is being sent to Tettra.
+
+How does the Olark integration work? is being sent to Tettra.
+
+Can Cloudpipe Integrate HubSpot with Microsoft SharePoint ? is being sent to Tettra.
+
+Will a chat join their cookie to their contact record the same way a form submission does? is being sent to Tettra.
+
+What are the fields a marketer will be able to segment on based on this timeline Event? is being sent to Tettra.
+
+Do we have any partner that would integrate with OpenCart? is being sent to Tettra.
+
+Opensense Integration is being sent to Tettra.
+
+Do we integrate with Oracle CRM (Sales Cloud)? is being sent to Tettra.
+
+How does the OrgChartHub Integration work? is being sent to Tettra.
+
+How does the PandaDoc integration work? is being sent to Tettra.
+
+Do we have a recorded demo of PandaDoc? is being sent to Tettra.
+
+What are the value propositions of PandaDoc? is being sent to Tettra.
+
+Who is the point of contact at PandaDoc? is being sent to Tettra.
+
+How does the Perfect Audience integration work? is being sent to Tettra.
+
+How does the Piesync integration work? is being sent to Tettra.
+
+Can you use a smart inclusion list with Piesync? is being sent to Tettra.
+
+What objects can be synced via Piesync? is being sent to Tettra.
+
+Does HubSpot integrate with Odoo ERP? is being sent to Tettra.
+
+How does Piesync differentiate from Zapier? is being sent to Tettra.
+
+Postalytics Integration is being sent to Tettra.
+
+PowToon Integration is being sent to Tettra.
+
+How does the Privy integration work? is being sent to Tettra.
+
+Do you integrate with any Project Management tool? is being sent to Tettra.
+
+How does the Promo integration work? is being sent to Tettra.
+
+Does HubSpot CRM integrate with QuickBooks? is being sent to Tettra.
+
+Qwilr Integration is being sent to Tettra.
+
+How to integrate HubSpot and RainKing? is being sent to Tettra.
+
+How does the Rambl Integration work? is being sent to Tettra.
+
+Does the Reachforce integration include data enrichment? is being sent to Tettra.
+
+How does the Revenue Conduit integration work? is being sent to Tettra.
+
+Can I see a demo of how the Revenue Conduit and HubSpot Integration works? is being sent to Tettra.
+
+What custom properties does Revenue Conduit automatically create in HubSpot? is being sent to Tettra.
+
+Does Revenue Conduit integrate with Magento 2 is being sent to Tettra.
+
+Revoice Integration is being sent to Tettra.
+
+RightMessage Integration is being sent to Tettra.
+
+Rybbon Integration is being sent to Tettra.
+
+Sage Integration through Cloud Elements is being sent to Tettra.
+
+SageCRM integration through Fisher Technology is being sent to Tettra.
+
+Salesmsg Integration is being sent to Tettra.
+
+Do HubSpot integrate with SAP C4C CRM? is being sent to Tettra.
+
+Scribe Legacy Pricing is being sent to Tettra.
+
+Does HubSpot integrate with Dynamics 365 ERP? is being sent to Tettra.
+
+Who is the point of contact at Scribe? is being sent to Tettra.
+
+Set Salesforce Task Type for HubSpot Marketing activities is being sent to Tettra.
+
+How does the Segment.io to HubSpot Integration work? is being sent to Tettra.
+
+SEMrush is being sent to Tettra.
+
+A Refreshed Install Experience for the Salesforce Integration is being sent to Tettra.
+
+[Now Live] Bi-directional Sync for Salesforce Accounts and HubSpot Companies is being sent to Tettra.
+
+Salesforce Sync Errors Visual Refresh is being sent to Tettra.
+
+Manage Salesforce Suspension Notification Emails is being sent to Tettra.
+
+A Visually Refreshed Salesforce Settings Experience is being sent to Tettra.
+
+HubSpot Activities to be Sunset on November 15th, 2017 is being sent to Tettra.
+
+HubSpot + SFDC integration One Pager is being sent to Tettra.
+
+How to set up and use the SFDC Integration is being sent to Tettra.
+
+What's the SLA for number of API calls that the Salesforce integration uses? is being sent to Tettra.
+
+What type of APIs does the Salesforce integration use? is being sent to Tettra.
+
+What are the sync time stats between HubSpot and Salesforce? is being sent to Tettra.
+
+How does the Salesforce integration handle multiple currencies used in Opportunities? is being sent to Tettra.
+
+How does the Salesforce integration handle campaigns? is being sent to Tettra.
+
+How does the Salesforce connector handle Person Accounts? is being sent to Tettra.
+
+Can DOI (double opt-in) sync between HubSpot and SFDC? is being sent to Tettra.
+
+Does the Salesforce connector support contacts associated with multiple accounts? is being sent to Tettra.
+
+How to clear Salesforce suspensions is being sent to Tettra.
+
+How to view your API Call Limit is being sent to Tettra.
+
+How to remove the Salesforce Integration is being sent to Tettra.
+
+Can I connect 1 HS portal to Multiple SFDC is being sent to Tettra.
+
+Cross Object workflow in SFDC is being sent to Tettra.
+
+Quicker and More Secure SFDC Authentication is being sent to Tettra.
+
+Can you map Salesforce Record Type to HubSpot? is being sent to Tettra.
+
+How to create a SFDC Developer account is being sent to Tettra.
+
+How to set up and test the SFDC connector is being sent to Tettra.
+
+Can I integrate two HubSpot portals with one Salesforce instance? is being sent to Tettra.
+
+What custom fields do the Salesforce integration create in SFDC? is being sent to Tettra.
+
+What happens to Contacts that were previously synced after you add a new Inclusion List they aren't in? is being sent to Tettra.
+
+Does an email reply to a sequence sync to SFDC? is being sent to Tettra.
+
+Can HubSpot Deals sync to Salesforce Opportunities? is being sent to Tettra.
+
+Does importing of contacts using the HubSpot native connector use HubSpot API calls is being sent to Tettra.
+
+How do Salesforce tasks sync with HubSpot? is being sent to Tettra.
+
+Do engagements on Deals sync over as activity on Opportunities in Salesforce? is being sent to Tettra.
+
+What is APEX? is being sent to Tettra.
+
+Does the Salesforce integration use the 40,000 daily API calls? is being sent to Tettra.
+
+HubSpot <> SFDC Sync for integration events is being sent to Tettra.
+
+What services are there to set up/fix a SFDC integration? is being sent to Tettra.
+
+Can you disable the HubSpot<>Salesforce Standard Mappings? is being sent to Tettra.
+
+How should I approach a prospect using Custom Objects in SFDC? is being sent to Tettra.
+
+Salesforce Connector 3.0 is being sent to Tettra.
+
+How does the Shakr integration work? is being sent to Tettra.
+
+HubSpot for Shopify (Ecomm integration) is being sent to Tettra.
+
+Can HubShop.ly and Native Shopify Integration live together while test/migrating? is being sent to Tettra.
+
+HubSpot for Shopify (native integration) is being sent to Tettra.
+
+Does the native Shopify integration use Products? is being sent to Tettra.
+
+Shopify for HubSpot and Bridge is being sent to Tettra.
+
+Siebel CRM Integration through Scribe is being sent to Tettra.
+
+What is the Skyvia integration? is being sent to Tettra.
+
+How does the Slack integration work? is being sent to Tettra.
+
+Slemma Integration is being sent to Tettra.
+
+How does the SnapApp integration work? is being sent to Tettra.
+
+Socedo Integration is being sent to Tettra.
+
+How does the Stitch integration work? is being sent to Tettra.
+
+Does Scribe's Sugar CRM integration have the HubSpot Intelligence iframe? is being sent to Tettra.
+
+Sync Speed Improvements is being sent to Tettra.
+
+How to use Survey Monkey and HubSpot integration for Net Promotor Surveys (NPS) is being sent to Tettra.
+
+Can Hubspot Integrate with Tableau is being sent to Tettra.
+
+Terminus Integration is being sent to Tettra.
+
+How does HubSpot Integrate with Ticketmaster? is being sent to Tettra.
+
+What is a good telephone system integration for European customers? is being sent to Tettra.
+
+How does Toky Integration work? is being sent to Tettra.
+
+Toky integration is being sent to Tettra.
+
+What services do you provide to easily translate my blog content into other languages? is being sent to Tettra.
+
+TruJay Lunch & Learn is being sent to Tettra.
+
+TwentyThree Integration is being sent to Tettra.
+
+Make More Calls with Twilio Connect is being sent to Tettra.
+
+Typeform Integration is being sent to Tettra.
+
+How does the UberConference integration work? is being sent to Tettra.
+
+VidMob Integration is being sent to Tettra.
+
+How does the integration with Vidyard work? is being sent to Tettra.
+
+Who is the point of contact at Vidyard? is being sent to Tettra.
+
+What API endpoints does the Vidyard integration use? is being sent to Tettra.
+
+Viewbix Integration is being sent to Tettra.
+
+Visible Integration is being sent to Tettra.
+
+Skipping row 238, Title was undefined
+
+Can we see at what point people drop off on a video? is being sent to Tettra.
+
+Wistia Documentation is being sent to Tettra.
+
+Updated HubSpot WordPress Plugin
+ is being sent to Tettra.
+
+How is HubSpot different from Wordpress? is being sent to Tettra.
+
+Why are contacts being created in WordPress that haven't converted on my website? is being sent to Tettra.
+
+How does the Workplace by Facebook Integration work? is being sent to Tettra.
+
+Workplace by Facebook Integration
+ is being sent to Tettra.
+
+WooCommerce Integration is being sent to Tettra.
+
+We’re Sunsetting Xing is being sent to Tettra.
+
+Yext Integration is being sent to Tettra.
+
+YoTop and HubSpot for Review Management Integration is being sent to Tettra.
+
+Zoom for HubSpot, Native Integration is being sent to Tettra.
+
+How is the workflows functionality powered? is being sent to Tettra.
+
+How to use Zapier and webhooks to push data to a platform from within Hubspot without using our API is being sent to Tettra.
+
+Does HubSpot integrate with any recurring payment software? is being sent to Tettra.
+
+Can HubSpot send external SMS messages to contacts? is being sent to Tettra.
+
+How does the Zendesk integration work? is being sent to Tettra.
+
+Does the Zendesk integration create contacts in the CRM? is being sent to Tettra.
+
+Does HubSpot still integrate with Zopim/Zendesk Chat? is being sent to Tettra.
+
+What is the difference between a Zendesk Automation and a Zendesk Trigger is being sent to Tettra.
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-i-connect-1-hs-portal-to-multiple-sfdc
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-you-import-a-csv-file-of-contacts-using-a-script
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-the-adroll-integration-work
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-the-aircall-hubspot-integration-work
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-type-of-apis-does-the-salesforce-integration-use
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-many-api-calls-can-i-get
+
+Tettra article created at https://app.tettra.co/teams/se/pages/timeline-webhooks-api
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-does-the-aircall-integration-do
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-do-you-trigger-mass-emails-from-an-external-system
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-happens-to-contacts-that-were-previously-synced-after-you-add-a-new-inclusion-list-they-arent-in
+
+Tettra article created at https://app.tettra.co/teams/se/pages/single-send-api-transactional-email
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-is-the-future-of-the-public-contact-url-and-the-iframe-window-in-external-crms
+
+Tettra article created at https://app.tettra.co/teams/se/pages/ability-to-check-api-usage-dev-tools
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-the-accelo-integration-work
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-the-asknicely-integration-work
+
+Tettra article created at https://app.tettra.co/teams/se/pages/who-is-our-point-of-contact-at-bedrock
+
+Tettra article created at https://app.tettra.co/teams/se/pages/quicker-and-more-secure-sfdc-authentication
+
+Tettra article created at https://app.tettra.co/teams/se/pages/which-partners-can-we-recommend-for-custom-integrations-projects
+
+Tettra article created at https://app.tettra.co/teams/se/pages/integration-enablement
+
+Tettra article created at https://app.tettra.co/teams/se/pages/integrating-hubspot-using-aws-api-gateways
+
+Tettra article created at https://app.tettra.co/teams/se/pages/automateio-available-triggers-and-actions
+
+Tettra article created at https://app.tettra.co/teams/se/pages/hubspot-custom-shopping-cart-integration-guide
+
+Tettra article created at https://app.tettra.co/teams/se/pages/do-transactional-e-mail-sends-count-towards-the-api-call-limits
+
+Tettra article created at https://app.tettra.co/teams/se/pages/do-we-offer-a-trial-of-transactional-email
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-can-i-integrate-my-own-phone-system-so-calls-appear-on-the-contact-timeline
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-is-the-difference-between-rest-and-soap
+
+Tettra article created at https://app.tettra.co/teams/se/pages/bedrock-business-intelligence-connector-fusion
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-the-azuqua-integration-work
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-does-boomtrains-integration-cost-and-include
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-the-beacon-integration-work
+
+Tettra article created at https://app.tettra.co/teams/se/pages/when-drift-collects-a-visitors-email-does-this-start-tracking-the-visitor
+
+Tettra article created at https://app.tettra.co/teams/se/pages/who-is-the-poc-for-lyntonweb
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-invoca-help-with-inbound-call-tracking
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-is-the-workflows-functionality-powered
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-we-sync-magento-info-from-ebay-and-amazon
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-fields-do-magento-sync-to-hubspot
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-do-i-integrate-my-ecommerce-shopping-cart-with-hubspot
+
+Tettra article created at https://app.tettra.co/teams/se/pages/do-engagements-on-deals-sync-over-as-activity-on-opportunities-in-salesforce
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-should-i-approach-a-prospect-using-custom-objects-in-sfdc
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-you-map-salesforce-record-type-to-hubspot
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-scribes-sugar-crm-integration-have-the-hubspot-intelligence-iframe
+
+Tettra article created at https://app.tettra.co/teams/se/pages/list-of-companies-with-crm-extensions-api-integrations
+
+Tettra article created at https://app.tettra.co/teams/se/pages/who-is-our-point-of-contact-at-enthusem
+
+Tettra article created at https://app.tettra.co/teams/se/pages/http-requests-error-results
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-call-tracking-metrics-integrate-with-hubspot
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-hubspot-integrate-with-call-rail
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-clear-salesforce-suspensions
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-do-salesforce-tasks-sync-with-hubspot
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-does-the-hubspot-and-dynamics-integration-look-like
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-piesync-differentiate-from-zapier
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-many-customers-have-recruitbrain-integration-hubspot-with-bullhorn-crm
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-set-up-and-test-the-sfdc-connector
+
+Tettra article created at https://app.tettra.co/teams/se/pages/azuqua-skills-training
+
+Tettra article created at https://app.tettra.co/teams/se/pages/inbound-addons
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-the-app-data-room-integration-work
+
+Tettra article created at https://app.tettra.co/teams/se/pages/whats-the-sla-for-number-of-api-calls-that-the-salesforce-integration-uses
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-the-databox-integration-work
+
+Tettra article created at https://app.tettra.co/teams/se/pages/conversica-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-revenue-conduit-integrate-with-magento-2
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-are-the-sync-time-stats-between-hubspot-and-salesforce
+
+Tettra article created at https://app.tettra.co/teams/se/pages/do-hubspot-integrate-with-sap-c4c-crm
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-hubspot-still-integrate-with-zopimzendesk-chat
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-the-revenue-conduit-integration-work
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-microsoft-dynamics-integrate-through-scribe
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-our-native-eventbrite-integration-sync-revenue-data-from-eventbrite
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-the-olark-integration-work
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-doi-double-opt-in-sync-between-hubspot-and-sfdc
+
+Tettra article created at https://app.tettra.co/teams/se/pages/hubspot-sfdc-sync-for-integration-events
+
+Tettra article created at https://app.tettra.co/teams/se/pages/grow-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-are-our-dialer-integration-options
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-hubspot-deals-sync-to-salesforce-opportunities
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-hubspot-send-external-sms-messages-to-contacts
+
+Tettra article created at https://app.tettra.co/teams/se/pages/do-we-have-any-partner-that-would-integrate-with-opencart
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-hubspot-integrate-with-ticketmaster
+
+Tettra article created at https://app.tettra.co/teams/se/pages/apiant-lunch-learn
+
+Tettra article created at https://app.tettra.co/teams/se/pages/hubspot-sfdc-integration-one-pager
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-an-email-reply-to-a-sequence-sync-to-sfdc
+
+Tettra article created at https://app.tettra.co/teams/se/pages/dasheroo-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-toky-integration-work
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-the-getaccept-integration-work
+
+Tettra article created at https://app.tettra.co/teams/se/pages/is-there-a-pre-built-integration-with-bullhorn-crm
+
+Tettra article created at https://app.tettra.co/teams/se/pages/brix-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/do-hubspot-connect-integrations-count-toward-the-40k-api-limit
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-cloudpipe-integrate-hubspot-with-microsoft-sharepoint
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-services-are-there-to-set-upfix-a-sfdc-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/set-salesforce-task-type-for-hubspot-marketing-activities
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-hubspot-integrate-with-any-recurring-payment-software
+
+Tettra article created at https://app.tettra.co/teams/se/pages/arcbright-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-callrail-bring-in-historical-data-upon-integrating
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-is-the-difference-between-a-zendesk-automation-and-a-zendesk-trigger
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-the-shakr-integration-work
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-the-lucky-orange-integration-work
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-you-use-a-smart-inclusion-list-with-piesync
+
+Tettra article created at https://app.tettra.co/teams/se/pages/animoto-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/bedrock-lunch-learn
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-the-joinme-integration-work
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-the-eventbrite-integration-work
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-the-privy-integration-work
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-hubspot-integrate-with-discoverorg
+
+Tettra article created at https://app.tettra.co/teams/se/pages/do-hubspot-provide-gravity-forms-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/send-contracts-directly-from-hubspot-crm-through-hellosign
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-the-snapapp-integration-work
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-hubspot-integrate-with-the-nexmo-platform
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-i-integrate-two-hubspot-portals-with-one-salesforce-instance
+
+Tettra article created at https://app.tettra.co/teams/se/pages/leaddyno-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/justcall-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-custom-properties-does-revenue-conduit-automatically-create-in-hubspot
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-view-your-api-call-limit
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-the-zendesk-integration-work
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-create-a-sfdc-developer-account
+
+Tettra article created at https://app.tettra.co/teams/se/pages/manage-salesforce-suspension-notification-emails
+
+Tettra article created at https://app.tettra.co/teams/se/pages/ceros-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/salesmsg-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-hubspot-integrate-with-magento-2
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-the-perfect-audience-integration-work
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-the-native-shopify-integration-use-products
+
+Tettra article created at https://app.tettra.co/teams/se/pages/cincopa-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-set-up-and-use-the-sfdc-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/line-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/shopify-for-hubspot-and-bridge
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-we-sync-historic-ms-dynamics-activities-to-hubspot
+
+Tettra article created at https://app.tettra.co/teams/se/pages/cross-object-workflow-in-sfdc
+
+Tettra article created at https://app.tettra.co/teams/se/pages/socedo-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-you-disable-the-hubspotsalesforce-standard-mappings
+
+Tettra article created at https://app.tettra.co/teams/se/pages/help-scout-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/cdata-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/netsuite-integration-through-lyntonweb-via-scribe
+
+Tettra article created at https://app.tettra.co/teams/se/pages/wistia-documentation
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-services-do-you-provide-to-easily-translate-my-blog-content-into-other-languages
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-is-hubspot-different-from-wordpress
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-we-sync-up-mailchimp-mailings-with-hubspot-so-that-all-analytics-and-tracking-can-be-done-through-that-platform
+
+Tettra article created at https://app.tettra.co/teams/se/pages/import2-wizard-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-we-see-at-what-point-people-drop-off-on-a-video
+
+Tettra article created at https://app.tettra.co/teams/se/pages/hubspot-collect-google-docs-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/salesforce-connector-30
+
+Tettra article created at https://app.tettra.co/teams/se/pages/trujay-lunch-learn
+
+Tettra article created at https://app.tettra.co/teams/se/pages/postalytics-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-the-uberconference-integration-work
+
+Tettra article created at https://app.tettra.co/teams/se/pages/who-is-the-point-of-contact-at-vidyard
+
+Tettra article created at https://app.tettra.co/teams/se/pages/why-are-contacts-being-created-in-wordpress-that-havent-converted-on-my-website
+
+Tettra article created at https://app.tettra.co/teams/se/pages/who-is-the-point-of-contact-at-scribe
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-the-livechat-integration-work
+
+Tettra article created at https://app.tettra.co/teams/se/pages/do-we-integrate-with-oracle-crm-sales-cloud
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-bedrock-offer-special-pricing-for-hubspot-customers
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-hubspot-crm-integrate-with-quickbooks
+
+Tettra article created at https://app.tettra.co/teams/se/pages/make-more-calls-with-twilio-connect
+
+Tettra article created at https://app.tettra.co/teams/se/pages/twentythree-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/viewbix-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-the-salesforce-integration-handle-multiple-currencies-used-in-opportunities
+
+Tettra article created at https://app.tettra.co/teams/se/pages/opensense-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-is-a-good-telephone-system-integration-for-european-customers
+
+Tettra article created at https://app.tettra.co/teams/se/pages/zoom-for-hubspot-native-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/oktopost-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-the-workplace-by-facebook-integration-work
+
+Tettra article created at https://app.tettra.co/teams/se/pages/depositfix-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-the-elixir-integration-work
+
+Tettra article created at https://app.tettra.co/teams/se/pages/do-you-integrate-with-any-project-management-tool
+
+Tettra article created at https://app.tettra.co/teams/se/pages/datanyze-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/design-wizard-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/instapage-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/justuno-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/a-visually-refreshed-salesforce-settings-experience
+
+Tettra article created at https://app.tettra.co/teams/se/pages/magneticone-mobile-business-card-scanning-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/bedrock-onboarding-and-pricing-setting-expectations
+
+Tettra article created at https://app.tettra.co/teams/se/pages/sync-speed-improvements
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-hubspot-integrate-with-dynamics-365-erp
+
+Tettra article created at https://app.tettra.co/teams/se/pages/adespresso-by-hootsuite
+
+Tettra article created at https://app.tettra.co/teams/se/pages/woocommerce-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-the-orgcharthub-integration-work
+
+Tettra article created at https://app.tettra.co/teams/se/pages/belchio-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-the-reachforce-integration-include-data-enrichment
+
+Tettra article created at https://app.tettra.co/teams/se/pages/hubspot-for-shopify-native-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/a-refreshed-install-experience-for-the-salesforce-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/fomo
+
+Tettra article created at https://app.tettra.co/teams/se/pages/powtoon-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/hubspot-activities-to-be-sunset-on-november-15th-2017
+
+Tettra article created at https://app.tettra.co/teams/se/pages/hubspot-for-shopify-ecomm-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/do-we-have-a-recorded-demo-of-pandadoc
+
+Tettra article created at https://app.tettra.co/teams/se/pages/toky-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/brightcove-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/rightmessage-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/slemma-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-the-piesync-integration-work
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-the-leadsbridge-integration-work
+
+Tettra article created at https://app.tettra.co/teams/se/pages/typeform-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/semrush
+
+Tettra article created at https://app.tettra.co/teams/se/pages/vidmob-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/needls-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/hourstack-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/were-sunsetting-xing
+
+Tettra article created at https://app.tettra.co/teams/se/pages/kixie-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/revoice-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-custom-fields-do-the-salesforce-integration-create-in-sfdc
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-the-salesforce-connector-handle-person-accounts
+
+Tettra article created at https://app.tettra.co/teams/se/pages/yext-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/workplace-by-facebook-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/g-accon-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-hubshoply-and-native-shopify-integration-live-together-while-testmigrating
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-the-salesforce-integration-use-the-40000-daily-api-calls
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-the-zendesk-integration-create-contacts-in-the-crm
+
+Tettra article created at https://app.tettra.co/teams/se/pages/siebel-crm-integration-through-scribe
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-are-the-fields-a-marketer-will-be-able-to-segment-on-based-on-this-timeline-event
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-remove-the-salesforce-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/crm-extensions-api
+
+Tettra article created at https://app.tettra.co/teams/se/pages/what-are-the-value-propositions-of-pandadoc
+
+Tettra article created at https://app.tettra.co/teams/se/pages/will-a-chat-join-their-cookie-to-their-contact-record-the-same-way-a-form-submission-does
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-hubspot-integrate-with-filemaker
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-i-see-a-demo-of-how-the-revenue-conduit-and-hubspot-integration-works
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-use-zapier-and-webhooks-to-push-data-to-a-platform-from-within-hubspot-without-using-our-api
+
+Tettra article created at https://app.tettra.co/teams/se/pages/sage-integration-through-cloud-elements
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-hubspot-integrate-with-odoo-erp
+
+Tettra article created at https://app.tettra.co/teams/se/pages/can-hubspot-integrate-with-tableau
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-the-salesforce-integration-handle-campaigns
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-the-pandadoc-integration-work
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-the-salesforce-connector-support-contacts-associated-with-multiple-accounts
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-to-use-survey-monkey-and-hubspot-integration-for-net-promotor-surveys-nps
+
+Tettra article created at https://app.tettra.co/teams/se/pages/does-importing-of-contacts-using-the-hubspot-native-connector-use-hubspot-api-calls
+
+Tettra article created at https://app.tettra.co/teams/se/pages/who-is-the-point-of-contact-at-pandadoc
+
+Tettra article created at https://app.tettra.co/teams/se/pages/how-does-the-stitch-integration-work
+
+Tettra article created at https://app.tettra.co/teams/se/pages/now-live-bi-directional-sync-for-salesforce-accounts-and-hubspot-companies
+
+Tettra article created at https://app.tettra.co/teams/se/pages/insycle-integration
+
+Tettra article created at https://app.tettra.co/teams/se/pages/scribe-legacy-pricing
+Writing undefined to errorlog.txt
+Writing undefined to errorlog.txt
+Writing undefined to errorlog.txt
+Writing undefined to errorlog.txt
+Writing undefined to errorlog.txt
+Writing undefined to errorlog.txt
+Error written to errorlog.txt.
+Error written to errorlog.txt.
+Error written to errorlog.txt.
+Error written to errorlog.txt.
+Error written to errorlog.txt.
+Error written to errorlog.txt.
+Writing undefined to errorlog.txt
+Error written to errorlog.txt.
+Writing undefined to errorlog.txt
+Error written to errorlog.txt.
+Writing undefined to errorlog.txt
+Writing undefined to errorlog.txt
+Error written to errorlog.txt.
+Error written to errorlog.txt.
+Writing undefined to errorlog.txt
+Error written to errorlog.txt.
+Writing undefined to errorlog.txt
+Error written to errorlog.txt.
+Writing undefined to errorlog.txt
+Error written to errorlog.txt.
+Writing undefined to errorlog.txt
+Error written to errorlog.txt.
+Writing undefined to errorlog.txt
+Error written to errorlog.txt.
+Writing undefined to errorlog.txt
+Error written to errorlog.txt.
+Writing undefined to errorlog.txt
+Error written to errorlog.txt.
+Writing undefined to errorlog.txt
+Error written to errorlog.txt.
+Writing undefined to errorlog.txt
+Writing undefined to errorlog.txt
+Writing undefined to errorlog.txt
+Error written to errorlog.txt.
+Error written to errorlog.txt.
+Error written to errorlog.txt.
+Writing undefined to errorlog.txt
+Error written to errorlog.txt.
+Writing undefined to errorlog.txt
+Error written to errorlog.txt.
+Writing undefined to errorlog.txt
+Error written to errorlog.txt.
+Writing undefined to errorlog.txt
+Error written to errorlog.txt.
+Writing undefined to errorlog.txt
+Error written to errorlog.txt.
+Writing undefined to errorlog.txt
+Error written to errorlog.txt.
+Writing undefined to errorlog.txt
+Error written to errorlog.txt.
+Writing undefined to errorlog.txt
+Error written to errorlog.txt.
+Writing undefined to errorlog.txt
+Error written to errorlog.txt.
+Writing undefined to errorlog.txt
+Error written to errorlog.txt.
+Writing undefined to errorlog.txt
+Error written to errorlog.txt.
+Katherines-MBP:code KGH$
